@@ -1,0 +1,16 @@
+{
+    "title": "Even If This Love Disappears Tonight",
+    "type": "movie",
+    "release_year": 2022,
+    "season_number": null,
+    "episode_number": null,
+    "episode_title": null,
+    "language_code": "en",
+    "copyright_status": "fair_use",
+    "copyright_notes": "Fair use justification: Short micro-clips (2-3 seconds) extracted solely for transformative, educational linguistic reference. Production by Toho (Japan). Use does not substitute viewing the original movie. No market substitution intended.",
+    "source_url": null,
+    "video_filename": "ep1-lv-disappears.mp4",
+    "audio_filename": "ep1-lv-disappears-audio.mp3",
+    "s3_path": "s3://ocw-academy-raw-videos/en/even-if-this-love-disappears-tonight/ep1-lv-disappears.mp4",
+    "s3_audio_path": "s3://ocw-academy-raw-videos/en/even-if-this-love-disappears-tonight/ep1-lv-disappears-audio.mp3"
+}
