@@ -1,4 +1,68 @@
 lemma,language_code,status
+"1 1. expressing aims, causes and effects",en,PENDING
+"a indefinite article,",en,PENDING
+"a range of different meanings, a variety of",en,PENDING
+"about the most frequent words in english, but",en,PENDING
+"academic purposes . this list gives the 600 most important words in academic speaking,",en,PENDING
+"academic purposes eap. this list gives the 600 most important words in academic speaking,",en,PENDING
+"all determiner,",en,PENDING
+"all right adj, adv,",en,PENDING
+"an indefinite article,",en,PENDING
+"and a subset of the british academic spoken english base corpus, developed within the university of warwick",en,PENDING
+"and a subset of the british academic spoken english corpus, developed within the university of warwick",en,PENDING
+"and meanings given descriptive labels, for",en,PENDING
+"and s3 for the top 1000, 2000 and 3000 most",en,PENDING
+"and spoken english, and enable them to focus",en,PENDING
+"and written english, based on statistical",en,PENDING
+"any determiner, pron s1,",en,PENDING
+"appropriate information, the longma",en,PENDING
+"are in the top 1000, 2000 and 3000 most",en,PENDING
+"both determiner,",en,PENDING
+"different grammatical patterns, and numerous",en,PENDING
+"divided into six sublists of 100 words each, with the most important words in sublist 1.",en,PENDING
+"english because according to corpus analysis,",en,PENDING
+"english) or bre , humorous,",en,PENDING
+"english) or bre british english, humorous,",en,PENDING
+"example formal or informal, ame (america",en,PENDING
+"frequent words in spoken english. nowadays,",en,PENDING
+"frequent words in written english, and s1 ,",en,PENDING
+"funding from baleap, euralex, the british academy and the arts and humanities research council.",en,PENDING
+"half predeterminer, pron,",en,PENDING
+"jeremy harmer, el t author",en,PENDING
+"knowing this list of words, a learner of english",en,PENDING
+"learning a language can be exciting, but",en,PENDING
+"less determiner, pron s1,",en,PENDING
+"more attention on mastering the meanings,",en,PENDING
+"mostly by written english; and spontaneous,",en,PENDING
+"old-fashioned, but now they have the added",en,PENDING
+"or table to be kept for you. in writing, however,",en,PENDING
+"phoning a hotel or restaurant), book is the most",en,PENDING
+"professor geoffrey leech,",en,PENDING
+"real-time, less formal language, typified by",en,PENDING
+"recommendation n s3,",en,PENDING
+"same adj., pro",en,PENDING
+"significant collocations. nonetheless, a basic",en,PENDING
+"since prep, conj, adv s1,",en,PENDING
+"such determiner,",en,PENDING
+"that determiner, pron s1,",en,PENDING
+"the definite article,",en,PENDING
+"the fiction subcorpus of the oxford english corpus , the spoken element of the british national corpus bnc",en,PENDING
+"the fiction subcorpus of the oxford english corpus , the spoken element of the british national corpus",en,PENDING
+"the fiction subcorpus of the oxford english corpus oec, the spoken element of the british national corpus bnc",en,PENDING
+"the fiction subcorpus of the oxford english corpus oec, the spoken element of the british national corpus",en,PENDING
+"this determiner, pron s1,",en,PENDING
+"this list gives around 250 important phrases for academic speaking, grouped into 16 functional areas.",en,PENDING
+"thoughtful, accurate and more formal, reflected",en,PENDING
+"w1 , w2 , and w3 for words that",en,PENDING
+"what he or she reads. of course, “knowing”",en,PENDING
+"what pron, determiner,",en,PENDING
+"when adv, conj, pron s1,",en,PENDING
+"whenever adv, conj s2,",en,PENDING
+"words in written english. however, the entry",en,PENDING
+1 3. hedging and expressing degrees of certainty,en,PENDING
+3000 is a very powerful tool and will help,en,PENDING
+7 . using vague language,en,PENDING
+86% of the language. this means that by,en,PENDING
 a better understanding of,en,PENDING
 a bit like,en,PENDING
 a bit more about,en,PENDING
@@ -74,6 +138,7 @@ a small number of,en,PENDING
 a sort of,en,PENDING
 a source of,en,PENDING
 a type of,en,PENDING
+a variety of situations. not only are the words,en,PENDING
 a variety of sth,en,PENDING
 a variety of,en,PENDING
 a very important,en,PENDING
@@ -83,7 +148,9 @@ a whole series of,en,PENDING
 a wide range of sth,en,PENDING
 a wide range of,en,PENDING
 a wide variety of,en,PENDING
+a word involves more than simply being able,en,PENDING
 a,en,PENDING
+abando,en,PENDING
 abandon,en,PENDING
 ability,en,PENDING
 able to do sth,en,PENDING
@@ -118,6 +185,7 @@ accessible,en,PENDING
 accident,en,PENDING
 accidentally,en,PENDING
 accommodate,en,PENDING
+accommodatio,en,PENDING
 accommodation,en,PENDING
 accompany,en,PENDING
 accomplish,en,PENDING
@@ -150,6 +218,7 @@ acre,en,PENDING
 across,en,PENDING
 act as sth,en,PENDING
 act,en,PENDING
+actio,en,PENDING
 action,en,PENDING
 activate,en,PENDING
 activation,en,PENDING
@@ -168,6 +237,7 @@ adaptive,en,PENDING
 add to sth,en,PENDING
 add,en,PENDING
 addiction,en,PENDING
+additio,en,PENDING
 addition,en,PENDING
 additional,en,PENDING
 additionally,en,PENDING
@@ -179,10 +249,12 @@ adjacent,en,PENDING
 adjust,en,PENDING
 adjustment,en,PENDING
 administer,en,PENDING
+administratio,en,PENDING
 administration,en,PENDING
 administrative,en,PENDING
 administrator,en,PENDING
 admire,en,PENDING
+admissio,en,PENDING
 admission,en,PENDING
 admit,en,PENDING
 adolescent,en,PENDING
@@ -211,8 +283,10 @@ afraid,en,PENDING
 after all,en,PENDING
 after,en,PENDING
 aftermath,en,PENDING
+afternoo,en,PENDING
 afternoon,en,PENDING
 afterwards,en,PENDING
+agai,en,PENDING
 again and again,en,PENDING
 again,en,PENDING
 against,en,PENDING
@@ -288,6 +362,8 @@ along with sth,en,PENDING
 along,en,PENDING
 alongside,en,PENDING
 already,en,PENDING
+also indicates that a synonym for book is reserve,en,PENDING
+also sometimes difficult and frustrating,en,PENDING
 also,en,PENDING
 alter,en,PENDING
 alteration,en,PENDING
@@ -301,6 +377,7 @@ always,en,PENDING
 amateur,en,PENDING
 amazing,en,PENDING
 ambassador,en,PENDING
+ambitio,en,PENDING
 ambition,en,PENDING
 ambulance,en,PENDING
 amend,en,PENDING
@@ -312,6 +389,7 @@ amusing,en,PENDING
 an awful lot of,en,PENDING
 an effect on,en,PENDING
 an effects on,en,PENDING
+an essential guide to the most important words and phrases to know in the field of english for,en,PENDING
 an example of,en,PENDING
 an idea of,en,PENDING
 an impact on,en,PENDING
@@ -323,6 +401,8 @@ an understanding of,en,PENDING
 an,en,PENDING
 analogy,en,PENDING
 analyse,en,PENDING
+analysis of the 390 million words contained,en,PENDING
+analysis of the longman corpus network,en,PENDING
 analysis,en,PENDING
 analyst,en,PENDING
 analytical,en,PENDING
@@ -330,9 +410,14 @@ ancestor,en,PENDING
 anchor,en,PENDING
 ancient,en,PENDING
 and all the rest of it,en,PENDING
+and for which relevant permissions have been obtained. base was developed at the universities of warwick and,en,PENDING
+and immediate form which words are really,en,PENDING
+and it is difficult to know what to focus o,en,PENDING
+and linguistics – university of lancaster,en,PENDING
 and so on and so forth,en,PENDING
 and so on,en,PENDING
 and things like that,en,PENDING
+and written language.,en,PENDING
 and you can see that,en,PENDING
 and,en,PENDING
 angel,en,PENDING
@@ -380,6 +465,7 @@ applaud,en,PENDING
 apple,en,PENDING
 applicable,en,PENDING
 applicant,en,PENDING
+applicatio,en,PENDING
 application,en,PENDING
 apply for sth,en,PENDING
 apply to sb,en,PENDING
@@ -390,6 +476,7 @@ appointment,en,PENDING
 appreciate,en,PENDING
 appreciation,en,PENDING
 approach,en,PENDING
+appropriate verb to use when asking for a room,en,PENDING
 appropriate,en,PENDING
 appropriately,en,PENDING
 approval,en,PENDING
@@ -527,10 +614,12 @@ associated with doing sth,en,PENDING
 associated with sth,en,PENDING
 associated with,en,PENDING
 associated,en,PENDING
+associatio,en,PENDING
 association between,en,PENDING
 association,en,PENDING
 assume that,en,PENDING
 assume,en,PENDING
+assumptio,en,PENDING
 assumption,en,PENDING
 assurance,en,PENDING
 assure,en,PENDING
@@ -591,10 +680,12 @@ attain,en,PENDING
 attempt,en,PENDING
 attend,en,PENDING
 attendance,en,PENDING
+attentio,en,PENDING
 attention,en,PENDING
 attitude,en,PENDING
 attorney,en,PENDING
 attract,en,PENDING
+attractio,en,PENDING
 attraction,en,PENDING
 attractive,en,PENDING
 attribute,en,PENDING
@@ -611,6 +702,7 @@ auto,en,PENDING
 automatic,en,PENDING
 automatically,en,PENDING
 autonomy,en,PENDING
+autum,en,PENDING
 autumn,en,PENDING
 availability,en,PENDING
 available,en,PENDING
@@ -627,6 +719,7 @@ away from sth,en,PENDING
 away,en,PENDING
 awful,en,PENDING
 awkward,en,PENDING
+ba,en,PENDING
 baby,en,PENDING
 back and forth,en,PENDING
 back sb up,en,PENDING
@@ -638,6 +731,7 @@ background,en,PENDING
 backing,en,PENDING
 backup,en,PENDING
 backwards,en,PENDING
+baco,en,PENDING
 bacon,en,PENDING
 bad for sb,en,PENDING
 bad for sth,en,PENDING
@@ -728,6 +822,7 @@ be to blame,en,PENDING
 be to do with sb,en,PENDING
 be to do with sth,en,PENDING
 be,en,PENDING
+bea,en,PENDING
 beach,en,PENDING
 beam,en,PENDING
 bean,en,PENDING
@@ -741,7 +836,9 @@ beat,en,PENDING
 beautiful,en,PENDING
 beauty,en,PENDING
 because of,en,PENDING
+because there are so many things to lear,en,PENDING
 because,en,PENDING
+become linking,en,PENDING
 become,en,PENDING
 bed,en,PENDING
 bedroom,en,PENDING
@@ -750,6 +847,7 @@ been talking about,en,PENDING
 beer,en,PENDING
 before,en,PENDING
 beforehand,en,PENDING
+begi,en,PENDING
 begin with sth,en,PENDING
 begin,en,PENDING
 beginning,en,PENDING
@@ -784,12 +882,14 @@ best,en,PENDING
 bet,en,PENDING
 betray,en,PENDING
 better,en,PENDING
+betwee,en,PENDING
 between,en,PENDING
 beyond the scope of this article,en,PENDING
 beyond the scope of this book,en,PENDING
 beyond the scope of this chapter,en,PENDING
 beyond the scope of,en,PENDING
 beyond,en,PENDING
+bi,en,PENDING
 bias,en,PENDING
 bicycle,en,PENDING
 bid,en,PENDING
@@ -844,6 +944,7 @@ booking,en,PENDING
 boom,en,PENDING
 boost,en,PENDING
 boot,en,PENDING
+bor,en,PENDING
 border,en,PENDING
 bored,en,PENDING
 boring,en,PENDING
@@ -866,6 +967,7 @@ bowl,en,PENDING
 box,en,PENDING
 boy,en,PENDING
 boyfriend,en,PENDING
+brai,en,PENDING
 brain,en,PENDING
 branch,en,PENDING
 brave,en,PENDING
@@ -896,6 +998,7 @@ broadband,en,PENDING
 broadcaster,en,PENDING
 broadly,en,PENDING
 brother,en,PENDING
+brow,en,PENDING
 brown,en,PENDING
 browser,en,PENDING
 brush,en,PENDING
@@ -912,6 +1015,7 @@ building,en,PENDING
 bulk,en,PENDING
 bump,en,PENDING
 bunch,en,PENDING
+bur,en,PENDING
 burden,en,PENDING
 bureaucracy,en,PENDING
 burial,en,PENDING
@@ -926,6 +1030,7 @@ but in fact,en,PENDING
 but,en,PENDING
 butcher,en,PENDING
 butter,en,PENDING
+butto,en,PENDING
 button,en,PENDING
 buy,en,PENDING
 buyer,en,PENDING
@@ -945,11 +1050,13 @@ by the use of,en,PENDING
 by the way,en,PENDING
 by,en,PENDING
 bye,en,PENDING
+ca,en,PENDING
 cabin,en,PENDING
 cabinet,en,PENDING
 cable,en,PENDING
 cake,en,PENDING
 calculate,en,PENDING
+calculatio,en,PENDING
 calculation,en,PENDING
 calculator,en,PENDING
 calendar,en,PENDING
@@ -960,6 +1067,7 @@ call,en,PENDING
 calm,en,PENDING
 camera,en,PENDING
 camp,en,PENDING
+campaig,en,PENDING
 campaign,en,PENDING
 can be applied to,en,PENDING
 can be described in terms of,en,PENDING
@@ -971,6 +1079,7 @@ can be seen,en,PENDING
 can be thought of as,en,PENDING
 can be used to,en,PENDING
 can lead to,en,PENDING
+can modal,en,PENDING
 can't afford sth,en,PENDING
 can,en,PENDING
 canal,en,PENDING
@@ -989,6 +1098,7 @@ capacity,en,PENDING
 capital,en,PENDING
 capitalism,en,PENDING
 capitalist,en,PENDING
+captai,en,PENDING
 captain,en,PENDING
 capture,en,PENDING
 car park,en,PENDING
@@ -1009,6 +1119,7 @@ carry on with sth,en,PENDING
 carry on,en,PENDING
 carry sth out,en,PENDING
 carry,en,PENDING
+cartoo,en,PENDING
 cartoon,en,PENDING
 carve,en,PENDING
 case study,en,PENDING
@@ -1038,6 +1149,7 @@ cd,en,PENDING
 cease,en,PENDING
 ceiling,en,PENDING
 celebrate,en,PENDING
+celebratio,en,PENDING
 celebration,en,PENDING
 cell phone,en,PENDING
 cell,en,PENDING
@@ -1050,16 +1162,20 @@ centralize,en,PENDING
 centre,en,PENDING
 century,en,PENDING
 cereal,en,PENDING
+certai,en,PENDING
 certain,en,PENDING
 certainly,en,PENDING
 certainty,en,PENDING
 certificate,en,PENDING
+chai,en,PENDING
 chain,en,PENDING
 chair,en,PENDING
+chairma,en,PENDING
 chairman,en,PENDING
 challenge,en,PENDING
 challenging,en,PENDING
 chamber,en,PENDING
+champio,en,PENDING
 champion,en,PENDING
 championship,en,PENDING
 chance,en,PENDING
@@ -1101,6 +1217,7 @@ chemistry,en,PENDING
 cheque,en,PENDING
 cherry,en,PENDING
 chest,en,PENDING
+chicke,en,PENDING
 chicken,en,PENDING
 chief,en,PENDING
 child,en,PENDING
@@ -1124,6 +1241,7 @@ circulate,en,PENDING
 circulation,en,PENDING
 circumstance,en,PENDING
 cite,en,PENDING
+citize,en,PENDING
 citizen,en,PENDING
 citizenship,en,PENDING
 city centre,en,PENDING
@@ -1143,6 +1261,7 @@ classical,en,PENDING
 classification,en,PENDING
 classify,en,PENDING
 classroom,en,PENDING
+clea,en,PENDING
 clean sth up,en,PENDING
 clean up,en,PENDING
 clean,en,PENDING
@@ -1187,6 +1306,7 @@ cocktail,en,PENDING
 code,en,PENDING
 coffee,en,PENDING
 cognitive,en,PENDING
+coi,en,PENDING
 coin,en,PENDING
 coincide,en,PENDING
 coincidence,en,PENDING
@@ -1197,6 +1317,7 @@ collapse,en,PENDING
 collar,en,PENDING
 colleague,en,PENDING
 collect,en,PENDING
+collectio,en,PENDING
 collection,en,PENDING
 collective,en,PENDING
 collector,en,PENDING
@@ -1206,9 +1327,11 @@ colonial,en,PENDING
 colony,en,PENDING
 colour,en,PENDING
 colourful,en,PENDING
+colum,en,PENDING
 column,en,PENDING
 columnist,en,PENDING
 combat,en,PENDING
+combinatio,en,PENDING
 combination,en,PENDING
 combine,en,PENDING
 come across sb,en,PENDING
@@ -1235,15 +1358,20 @@ commentary,en,PENDING
 commentator,en,PENDING
 commerce,en,PENDING
 commercial,en,PENDING
+commissio,en,PENDING
 commission,en,PENDING
 commissioner,en,PENDING
 commit,en,PENDING
 commitment,en,PENDING
 committee,en,PENDING
+commo,en,PENDING
 commodity,en,PENDING
 common,en,PENDING
 commonly,en,PENDING
 communicate,en,PENDING
+communicatio,en,PENDING
+communication 3000 in red accompanied by,en,PENDING
+communication skills in english.,en,PENDING
 communication,en,PENDING
 communist,en,PENDING
 community,en,PENDING
@@ -1255,6 +1383,7 @@ compare,en,PENDING
 compared to,en,PENDING
 compared with sth,en,PENDING
 compared with,en,PENDING
+compariso,en,PENDING
 comparison,en,PENDING
 compassion,en,PENDING
 compel,en,PENDING
@@ -1264,9 +1393,11 @@ compensation,en,PENDING
 compete,en,PENDING
 competence,en,PENDING
 competent,en,PENDING
+competitio,en,PENDING
 competition,en,PENDING
 competitive,en,PENDING
 compile,en,PENDING
+complai,en,PENDING
 complain,en,PENDING
 complaint,en,PENDING
 complement,en,PENDING
@@ -1295,11 +1426,13 @@ concede,en,PENDING
 conceive,en,PENDING
 concentrate on sth,en,PENDING
 concentrate,en,PENDING
+concentratio,en,PENDING
 concentration,en,PENDING
 concept,en,PENDING
 conception,en,PENDING
 conceptual,en,PENDING
 conceptualize,en,PENDING
+concer,en,PENDING
 concern,en,PENDING
 concerned about sth,en,PENDING
 concerned with sth,en,PENDING
@@ -1309,9 +1442,11 @@ concerning,en,PENDING
 concert,en,PENDING
 concession,en,PENDING
 conclude,en,PENDING
+conclusio,en,PENDING
 conclusion,en,PENDING
 concrete,en,PENDING
 condemn,en,PENDING
+conditio,en,PENDING
 condition,en,PENDING
 conditional,en,PENDING
 conduct,en,PENDING
@@ -1332,8 +1467,10 @@ confront,en,PENDING
 confrontation,en,PENDING
 confused,en,PENDING
 confusing,en,PENDING
+confusio,en,PENDING
 confusion,en,PENDING
 congratulate,en,PENDING
+congratulatio,en,PENDING
 congratulation,en,PENDING
 congregation,en,PENDING
 congressional,en,PENDING
@@ -1341,6 +1478,7 @@ connect,en,PENDING
 connected to sth,en,PENDING
 connected with sb,en,PENDING
 connected with sth,en,PENDING
+connectio,en,PENDING
 connection,en,PENDING
 conquer,en,PENDING
 conscience,en,PENDING
@@ -1357,6 +1495,7 @@ conserve,en,PENDING
 consider,en,PENDING
 considerable,en,PENDING
 considerably,en,PENDING
+consideratio,en,PENDING
 consideration,en,PENDING
 considered to be,en,PENDING
 consist of sb,en,PENDING
@@ -1378,6 +1517,7 @@ constitutional,en,PENDING
 constrain,en,PENDING
 constraint,en,PENDING
 construct,en,PENDING
+constructio,en,PENDING
 construction,en,PENDING
 constructive,en,PENDING
 consult,en,PENDING
@@ -1385,8 +1525,10 @@ consultant,en,PENDING
 consultation,en,PENDING
 consume,en,PENDING
 consumer,en,PENDING
+consumptio,en,PENDING
 consumption,en,PENDING
 contact,en,PENDING
+contai,en,PENDING
 contain,en,PENDING
 contemplate,en,PENDING
 contemporary,en,PENDING
@@ -1408,6 +1550,7 @@ contrary,en,PENDING
 contrast,en,PENDING
 contribute to sth,en,PENDING
 contribute,en,PENDING
+contributio,en,PENDING
 contribution,en,PENDING
 contributor,en,PENDING
 control over sb,en,PENDING
@@ -1417,13 +1560,16 @@ controversial,en,PENDING
 controversy,en,PENDING
 convenience,en,PENDING
 convenient,en,PENDING
+conventio,en,PENDING
 convention,en,PENDING
 conventional,en,PENDING
+conversatio,en,PENDING
 conversation,en,PENDING
 conversion,en,PENDING
 convert,en,PENDING
 convey,en,PENDING
 convict,en,PENDING
+convictio,en,PENDING
 conviction,en,PENDING
 convince,en,PENDING
 convincing,en,PENDING
@@ -1432,6 +1578,7 @@ cooker,en,PENDING
 cookie,en,PENDING
 cool,en,PENDING
 cooperate,en,PENDING
+cooperatio,en,PENDING
 cooperation,en,PENDING
 cooperative,en,PENDING
 coordinate,en,PENDING
@@ -1443,10 +1590,12 @@ cope,en,PENDING
 copper,en,PENDING
 copy,en,PENDING
 copyright,en,PENDING
+cor,en,PENDING
 core,en,PENDING
 corn,en,PENDING
 corner,en,PENDING
 corporation,en,PENDING
+corpuses or databases of authentic english,en,PENDING
 correct,en,PENDING
 correction,en,PENDING
 correctly,en,PENDING
@@ -1463,7 +1612,9 @@ corruption,en,PENDING
 cost,en,PENDING
 costly,en,PENDING
 cottage,en,PENDING
+cotto,en,PENDING
 cotton,en,PENDING
+could modal,en,PENDING
 could,en,PENDING
 council,en,PENDING
 councillor,en,PENDING
@@ -1482,6 +1633,7 @@ courage,en,PENDING
 course,en,PENDING
 court,en,PENDING
 courtesy,en,PENDING
+cousi,en,PENDING
 cousin,en,PENDING
 cover,en,PENDING
 coverage,en,PENDING
@@ -1492,6 +1644,7 @@ crash,en,PENDING
 crawl,en,PENDING
 crazy,en,PENDING
 create,en,PENDING
+creatio,en,PENDING
 creation,en,PENDING
 creative,en,PENDING
 creativity,en,PENDING
@@ -1506,6 +1659,7 @@ crew,en,PENDING
 crime,en,PENDING
 criminal,en,PENDING
 crisis,en,PENDING
+criterio,en,PENDING
 criterion,en,PENDING
 critic,en,PENDING
 critical,en,PENDING
@@ -1515,6 +1669,7 @@ criticize,en,PENDING
 critique,en,PENDING
 crop,en,PENDING
 cross,en,PENDING
+crow,en,PENDING
 crowd,en,PENDING
 crown,en,PENDING
 crucial,en,PENDING
@@ -1539,8 +1694,10 @@ currency,en,PENDING
 current,en,PENDING
 currently,en,PENDING
 curriculum,en,PENDING
+curtai,en,PENDING
 curtain,en,PENDING
 curve,en,PENDING
+cushio,en,PENDING
 cushion,en,PENDING
 custody,en,PENDING
 custom,en,PENDING
@@ -1590,6 +1747,7 @@ decade,en,PENDING
 decent,en,PENDING
 decide on sth,en,PENDING
 decide,en,PENDING
+decisio,en,PENDING
 decision,en,PENDING
 decision-making,en,PENDING
 decisive,en,PENDING
@@ -1618,6 +1776,7 @@ deficit,en,PENDING
 define,en,PENDING
 definite,en,PENDING
 definitely,en,PENDING
+definitio,en,PENDING
 definition,en,PENDING
 defy,en,PENDING
 degree,en,PENDING
@@ -1634,6 +1793,7 @@ democracy,en,PENDING
 democratic,en,PENDING
 demon,en,PENDING
 demonstrate,en,PENDING
+demonstratio,en,PENDING
 demonstration,en,PENDING
 denial,en,PENDING
 denote,en,PENDING
@@ -1662,6 +1822,7 @@ depict,en,PENDING
 deploy,en,PENDING
 deployment,en,PENDING
 deposit,en,PENDING
+depressio,en,PENDING
 depression,en,PENDING
 deprive sb of sth,en,PENDING
 deprive sth of sth,en,PENDING
@@ -1673,10 +1834,12 @@ derived from,en,PENDING
 descend,en,PENDING
 descent,en,PENDING
 describe,en,PENDING
+descriptio,en,PENDING
 description,en,PENDING
 descriptive,en,PENDING
 desert,en,PENDING
 deserve,en,PENDING
+desig,en,PENDING
 design,en,PENDING
 designate,en,PENDING
 designer,en,PENDING
@@ -1690,6 +1853,7 @@ despite the fact that...,en,PENDING
 despite the fact that…,en,PENDING
 despite,en,PENDING
 destroy,en,PENDING
+destructio,en,PENDING
 destruction,en,PENDING
 destructive,en,PENDING
 detail,en,PENDING
@@ -1700,6 +1864,7 @@ detection,en,PENDING
 detention,en,PENDING
 deteriorate,en,PENDING
 determinant,en,PENDING
+determinatio,en,PENDING
 determination,en,PENDING
 determine,en,PENDING
 determined by,en,PENDING
@@ -1721,6 +1886,7 @@ diamond,en,PENDING
 diary,en,PENDING
 dictate,en,PENDING
 dictator,en,PENDING
+dictionary of contemporary english marks all,en,PENDING
 die,en,PENDING
 diet,en,PENDING
 differ,en,PENDING
@@ -1741,6 +1907,7 @@ dig,en,PENDING
 digital,en,PENDING
 dignity,en,PENDING
 dilemma,en,PENDING
+dimensio,en,PENDING
 dimension,en,PENDING
 diminish,en,PENDING
 dinner,en,PENDING
@@ -1748,6 +1915,7 @@ dip,en,PENDING
 diplomat,en,PENDING
 diplomatic,en,PENDING
 direct,en,PENDING
+directio,en,PENDING
 direction,en,PENDING
 directly,en,PENDING
 director,en,PENDING
@@ -1779,6 +1947,7 @@ discovery,en,PENDING
 discretion,en,PENDING
 discrimination,en,PENDING
 discuss,en,PENDING
+discussio,en,PENDING
 discussion,en,PENDING
 disease,en,PENDING
 disgusting,en,PENDING
@@ -1800,6 +1969,7 @@ dissolve,en,PENDING
 distance,en,PENDING
 distant,en,PENDING
 distinct,en,PENDING
+distinctio,en,PENDING
 distinction,en,PENDING
 distinctive,en,PENDING
 distinguish,en,PENDING
@@ -1807,6 +1977,7 @@ distort,en,PENDING
 distract,en,PENDING
 distress,en,PENDING
 distribute,en,PENDING
+distributio,en,PENDING
 distribution,en,PENDING
 district,en,PENDING
 disturb,en,PENDING
@@ -1817,6 +1988,7 @@ diversity,en,PENDING
 divert,en,PENDING
 divide,en,PENDING
 divine,en,PENDING
+divisio,en,PENDING
 division,en,PENDING
 divorce,en,PENDING
 do well,en,PENDING
@@ -1841,9 +2013,12 @@ dose,en,PENDING
 dot,en,PENDING
 double,en,PENDING
 doubt,en,PENDING
+dow,en,PENDING
 down,en,PENDING
 downstairs,en,PENDING
+downtow,en,PENDING
 downtown,en,PENDING
+dozen number,en,PENDING
 dozen,en,PENDING
 draft,en,PENDING
 drag,en,PENDING
@@ -1900,6 +2075,7 @@ earth,en,PENDING
 ease,en,PENDING
 easily,en,PENDING
 east,en,PENDING
+easter,en,PENDING
 eastern,en,PENDING
 easy,en,PENDING
 eat,en,PENDING
@@ -1912,9 +2088,11 @@ economics,en,PENDING
 economist,en,PENDING
 economy,en,PENDING
 edge,en,PENDING
+editio,en,PENDING
 edition,en,PENDING
 editor,en,PENDING
 editorial,en,PENDING
+educatio,en,PENDING
 education,en,PENDING
 educational,en,PENDING
 educator,en,PENDING
@@ -1934,6 +2112,7 @@ elaborate,en,PENDING
 elbow,en,PENDING
 elderly,en,PENDING
 elect,en,PENDING
+electio,en,PENDING
 election,en,PENDING
 electoral,en,PENDING
 electric,en,PENDING
@@ -1963,7 +2142,9 @@ embrace,en,PENDING
 emerge,en,PENDING
 emergence,en,PENDING
 emergency,en,PENDING
+emeritus professor of english language,en,PENDING
 emission,en,PENDING
+emotio,en,PENDING
 emotion,en,PENDING
 emotional,en,PENDING
 emotionally,en,PENDING
@@ -2007,6 +2188,7 @@ engaging,en,PENDING
 engine,en,PENDING
 engineer,en,PENDING
 engineering,en,PENDING
+english. note that is has no marker for writte,en,PENDING
 enhance,en,PENDING
 enjoy,en,PENDING
 enjoyable,en,PENDING
@@ -2071,6 +2253,7 @@ ethnicity,en,PENDING
 evacuate,en,PENDING
 evaluate,en,PENDING
 evaluation,en,PENDING
+eve,en,PENDING
 even if,en,PENDING
 even in the absence of any,en,PENDING
 even in the absence of,en,PENDING
@@ -2110,6 +2293,7 @@ exactly the same,en,PENDING
 exactly,en,PENDING
 exaggerate,en,PENDING
 exam,en,PENDING
+examinatio,en,PENDING
 examination,en,PENDING
 examine,en,PENDING
 example,en,PENDING
@@ -2118,6 +2302,7 @@ excellence,en,PENDING
 excellent,en,PENDING
 except for,en,PENDING
 except,en,PENDING
+exceptio,en,PENDING
 exception,en,PENDING
 exceptional,en,PENDING
 excess,en,PENDING
@@ -2138,6 +2323,7 @@ exemplify,en,PENDING
 exercise,en,PENDING
 exert,en,PENDING
 exhibit,en,PENDING
+exhibitio,en,PENDING
 exhibition,en,PENDING
 exile,en,PENDING
 exist,en,PENDING
@@ -2146,8 +2332,10 @@ existing,en,PENDING
 exit,en,PENDING
 exotic,en,PENDING
 expand,en,PENDING
+expansio,en,PENDING
 expansion,en,PENDING
 expect,en,PENDING
+expectatio,en,PENDING
 expectation,en,PENDING
 expenditure,en,PENDING
 expense,en,PENDING
@@ -2160,7 +2348,9 @@ experimental,en,PENDING
 expert,en,PENDING
 expertise,en,PENDING
 expire,en,PENDING
+explai,en,PENDING
 explain,en,PENDING
+explanatio,en,PENDING
 explanation,en,PENDING
 explanatory,en,PENDING
 explicit,en,PENDING
@@ -2169,6 +2359,7 @@ exploit,en,PENDING
 exploitation,en,PENDING
 exploration,en,PENDING
 explore,en,PENDING
+explosio,en,PENDING
 explosion,en,PENDING
 explosive,en,PENDING
 export,en,PENDING
@@ -2176,8 +2367,10 @@ expose,en,PENDING
 exposure to sth,en,PENDING
 exposure,en,PENDING
 express,en,PENDING
+expressio,en,PENDING
 expression,en,PENDING
 extend,en,PENDING
+extensio,en,PENDING
 extension,en,PENDING
 extensive,en,PENDING
 extensively,en,PENDING
@@ -2190,6 +2383,7 @@ extreme,en,PENDING
 extremely,en,PENDING
 extremist,en,PENDING
 eye,en,PENDING
+fa,en,PENDING
 fabric,en,PENDING
 fabulous,en,PENDING
 face,en,PENDING
@@ -2239,6 +2433,7 @@ fare,en,PENDING
 farm,en,PENDING
 farmer,en,PENDING
 fascinating,en,PENDING
+fashio,en,PENDING
 fashion,en,PENDING
 fast,en,PENDING
 fat,en,PENDING
@@ -2377,6 +2572,7 @@ for,en,PENDING
 forbid,en,PENDING
 force,en,PENDING
 forecast,en,PENDING
+foreig,en,PENDING
 foreign,en,PENDING
 foreigner,en,PENDING
 forest,en,PENDING
@@ -2389,6 +2585,7 @@ form,en,PENDING
 formal,en,PENDING
 formally,en,PENDING
 format,en,PENDING
+formatio,en,PENDING
 formation,en,PENDING
 former,en,PENDING
 formerly,en,PENDING
@@ -2406,6 +2603,7 @@ fossil,en,PENDING
 foster,en,PENDING
 found that,en,PENDING
 found to be,en,PENDING
+foundatio,en,PENDING
 foundation,en,PENDING
 founder,en,PENDING
 fraction,en,PENDING
@@ -2433,6 +2631,7 @@ frightened,en,PENDING
 from the fact that,en,PENDING
 from the perspective of,en,PENDING
 from the point of view of,en,PENDING
+from this is that in speaking (for instance whe,en,PENDING
 from,en,PENDING
 front,en,PENDING
 fruit,en,PENDING
@@ -2440,12 +2639,14 @@ frustrated,en,PENDING
 frustrating,en,PENDING
 frustration,en,PENDING
 fry,en,PENDING
+fu,en,PENDING
 fuel,en,PENDING
 fulfil,en,PENDING
 full,en,PENDING
 full-time,en,PENDING
 fully,en,PENDING
 fun,en,PENDING
+functio,en,PENDING
 function,en,PENDING
 functional,en,PENDING
 fund,en,PENDING
@@ -2461,6 +2662,7 @@ further,en,PENDING
 furthermore,en,PENDING
 fuss,en,PENDING
 future,en,PENDING
+gai,en,PENDING
 gain,en,PENDING
 gallery,en,PENDING
 gallon,en,PENDING
@@ -2471,6 +2673,7 @@ gang,en,PENDING
 gap,en,PENDING
 garage,en,PENDING
 garbage,en,PENDING
+garde,en,PENDING
 garden,en,PENDING
 garlic,en,PENDING
 gas,en,PENDING
@@ -2488,6 +2691,7 @@ generalization,en,PENDING
 generalize,en,PENDING
 generally,en,PENDING
 generate,en,PENDING
+generatio,en,PENDING
 generation,en,PENDING
 generic,en,PENDING
 generous,en,PENDING
@@ -2495,6 +2699,7 @@ genetic,en,PENDING
 genius,en,PENDING
 genocide,en,PENDING
 gentle,en,PENDING
+gentlema,en,PENDING
 gentleman,en,PENDING
 gently,en,PENDING
 genuine,en,PENDING
@@ -2595,6 +2800,7 @@ going to say,en,PENDING
 going to show you,en,PENDING
 going to talk about,en,PENDING
 gold,en,PENDING
+golde,en,PENDING
 golden,en,PENDING
 golf,en,PENDING
 good afternoon,en,PENDING
@@ -2614,6 +2820,7 @@ goodness,en,PENDING
 goods,en,PENDING
 gorgeous,en,PENDING
 gosh,en,PENDING
+gover,en,PENDING
 govern,en,PENDING
 governance,en,PENDING
 government,en,PENDING
@@ -2625,6 +2832,7 @@ grade,en,PENDING
 gradually,en,PENDING
 gram,en,PENDING
 grammar,en,PENDING
+grammatical patterns and collocations of,en,PENDING
 grand,en,PENDING
 grandad,en,PENDING
 grandfather,en,PENDING
@@ -2644,6 +2852,7 @@ gravity,en,PENDING
 great,en,PENDING
 greater than,en,PENDING
 greatly,en,PENDING
+gree,en,PENDING
 green,en,PENDING
 greenhouse,en,PENDING
 grey,en,PENDING
@@ -2660,6 +2869,7 @@ grow up,en,PENDING
 grow,en,PENDING
 growth in sth,en,PENDING
 growth,en,PENDING
+gu,en,PENDING
 guarantee,en,PENDING
 guard,en,PENDING
 guerrilla,en,PENDING
@@ -2668,6 +2878,8 @@ guess what…,en,PENDING
 guess,en,PENDING
 guest,en,PENDING
 guidance,en,PENDING
+guide to the most important words and phrases to know in the field of english for academic purposes .,en,PENDING
+guide to the most important words and phrases to know in the field of english for academic purposes eap.,en,PENDING
 guide,en,PENDING
 guideline,en,PENDING
 guilt,en,PENDING
@@ -2695,6 +2907,7 @@ handout,en,PENDING
 handy,en,PENDING
 hang on,en,PENDING
 hang,en,PENDING
+happe,en,PENDING
 happen to sb,en,PENDING
 happen to sth,en,PENDING
 happen,en,PENDING
@@ -2756,6 +2969,7 @@ he or she,en,PENDING
 he,en,PENDING
 head,en,PENDING
 headquarters,en,PENDING
+headwords in the dictionary give users access,en,PENDING
 heal,en,PENDING
 health problems,en,PENDING
 health,en,PENDING
@@ -2772,6 +2986,7 @@ heart,en,PENDING
 heat,en,PENDING
 heater,en,PENDING
 heating,en,PENDING
+heave,en,PENDING
 heaven,en,PENDING
 heavily,en,PENDING
 heavy,en,PENDING
@@ -2805,6 +3020,7 @@ high,en,PENDING
 high-profile,en,PENDING
 higher education,en,PENDING
 higher than,en,PENDING
+highlight the differences between spoken and,en,PENDING
 highlight,en,PENDING
 highly,en,PENDING
 highway,en,PENDING
@@ -2818,6 +3034,7 @@ hire,en,PENDING
 his best work to date,en,PENDING
 his or her,en,PENDING
 his,en,PENDING
+historia,en,PENDING
 historian,en,PENDING
 historical,en,PENDING
 historically,en,PENDING
@@ -2875,6 +3092,7 @@ how shall i put it?,en,PENDING
 how,en,PENDING
 however,en,PENDING
 huge,en,PENDING
+huma,en,PENDING
 human being,en,PENDING
 human rights,en,PENDING
 human,en,PENDING
@@ -2963,6 +3181,7 @@ illusion,en,PENDING
 illustrate,en,PENDING
 image,en,PENDING
 imagery,en,PENDING
+imaginatio,en,PENDING
 imagination,en,PENDING
 imagine,en,PENDING
 immediate,en,PENDING
@@ -2974,6 +3193,7 @@ immune,en,PENDING
 impact,en,PENDING
 implement,en,PENDING
 implementation,en,PENDING
+implicatio,en,PENDING
 implication,en,PENDING
 implicit,en,PENDING
 implicitly,en,PENDING
@@ -2987,6 +3207,7 @@ importantly,en,PENDING
 impose,en,PENDING
 impossible,en,PENDING
 impress,en,PENDING
+impressio,en,PENDING
 impression,en,PENDING
 impressive,en,PENDING
 imprison,en,PENDING
@@ -3052,6 +3273,7 @@ in much the same way as,en,PENDING
 in much the same way,en,PENDING
 in my opinion,en,PENDING
 in order of sth,en,PENDING
+in order to communicate effectively in both,en,PENDING
 in order to do sth,en,PENDING
 in order to,en,PENDING
 in other words,en,PENDING
@@ -3078,6 +3300,7 @@ in some ways,en,PENDING
 in space,en,PENDING
 in spite of sth,en,PENDING
 in spite of the fact that,en,PENDING
+in spoken and written english account for,en,PENDING
 in such a way ...,en,PENDING
 in such a way that,en,PENDING
 in such a way that...,en,PENDING
@@ -3123,6 +3346,7 @@ in the hands of sb,en,PENDING
 in the light of sth,en,PENDING
 in the light of,en,PENDING
 in the literature,en,PENDING
+in the longman corpus network – a group of,en,PENDING
 in the meantime,en,PENDING
 in the middle of sth,en,PENDING
 in the middle,en,PENDING
@@ -3173,6 +3397,7 @@ in touch,en,PENDING
 in town,en,PENDING
 in turn,en,PENDING
 in winter,en,PENDING
+in written english. the conclusion to be draw,en,PENDING
 in,en,PENDING
 inability,en,PENDING
 inadequate,en,PENDING
@@ -3203,6 +3428,7 @@ index,en,PENDING
 indicate that,en,PENDING
 indicate,en,PENDING
 indicates that,en,PENDING
+indicatio,en,PENDING
 indication,en,PENDING
 indicator,en,PENDING
 indictment,en,PENDING
@@ -3222,9 +3448,11 @@ inevitably,en,PENDING
 infamous,en,PENDING
 infant,en,PENDING
 infect,en,PENDING
+infectio,en,PENDING
 infection,en,PENDING
 infer,en,PENDING
 inference,en,PENDING
+inflatio,en,PENDING
 inflation,en,PENDING
 inflict,en,PENDING
 influence,en,PENDING
@@ -3232,6 +3460,8 @@ influential,en,PENDING
 info,en,PENDING
 inform,en,PENDING
 informal,en,PENDING
+informatio,en,PENDING
+information about relative frequency in spoke,en,PENDING
 information,en,PENDING
 informed,en,PENDING
 infrastructure,en,PENDING
@@ -3253,6 +3483,7 @@ ink,en,PENDING
 inmate,en,PENDING
 inner,en,PENDING
 innocent,en,PENDING
+innovatio,en,PENDING
 innovation,en,PENDING
 innovative,en,PENDING
 input,en,PENDING
@@ -3265,6 +3496,7 @@ insider,en,PENDING
 insight,en,PENDING
 insist,en,PENDING
 inspect,en,PENDING
+inspectio,en,PENDING
 inspection,en,PENDING
 inspector,en,PENDING
 inspiration,en,PENDING
@@ -3278,9 +3510,11 @@ instead of,en,PENDING
 instead,en,PENDING
 instinct,en,PENDING
 institute,en,PENDING
+institutio,en,PENDING
 institution,en,PENDING
 institutional,en,PENDING
 instruct,en,PENDING
+instructio,en,PENDING
 instruction,en,PENDING
 instrument,en,PENDING
 instrumental,en,PENDING
@@ -3303,11 +3537,14 @@ intensify,en,PENDING
 intensity,en,PENDING
 intensive,en,PENDING
 intent,en,PENDING
+intentio,en,PENDING
 intention,en,PENDING
 interact,en,PENDING
+interactio,en,PENDING
 interaction,en,PENDING
 interactive,en,PENDING
 interest,en,PENDING
+interested i,en,PENDING
 interested in,en,PENDING
 interested,en,PENDING
 interesting,en,PENDING
@@ -3321,9 +3558,11 @@ internal,en,PENDING
 international,en,PENDING
 internet,en,PENDING
 interpret,en,PENDING
+interpretatio,en,PENDING
 interpretation,en,PENDING
 interval,en,PENDING
 intervene,en,PENDING
+interventio,en,PENDING
 intervention,en,PENDING
 interview,en,PENDING
 interviewee,en,PENDING
@@ -3333,12 +3572,14 @@ into,en,PENDING
 intriguing,en,PENDING
 intrinsic,en,PENDING
 introduce,en,PENDING
+introductio,en,PENDING
 introduction,en,PENDING
 invade,en,PENDING
 invasion,en,PENDING
 invent,en,PENDING
 invest,en,PENDING
 investigate,en,PENDING
+investigatio,en,PENDING
 investigation,en,PENDING
 investigator,en,PENDING
 investment in sth,en,PENDING
@@ -3348,10 +3589,12 @@ invisible,en,PENDING
 invite,en,PENDING
 invoke,en,PENDING
 involve,en,PENDING
+involved i,en,PENDING
 involved in,en,PENDING
 involved,en,PENDING
 involvement in sth,en,PENDING
 involvement,en,PENDING
+iro,en,PENDING
 iron,en,PENDING
 ironic,en,PENDING
 ironically,en,PENDING
@@ -3369,6 +3612,7 @@ is defined as,en,PENDING
 is due to,en,PENDING
 is equal to,en,PENDING
 is important to,en,PENDING
+is in a position to understand 86% or more of,en,PENDING
 is likely to be,en,PENDING
 is likely to,en,PENDING
 is more likely to be,en,PENDING
@@ -3423,6 +3667,7 @@ it is interesting to note that,en,PENDING
 it is likely that,en,PENDING
 it is necessary to,en,PENDING
 it is not clear,en,PENDING
+it is not part of the top 3000 most frequent,en,PENDING
 it is not possible that,en,PENDING
 it is not possible to,en,PENDING
 it is not surprising that,en,PENDING
@@ -3439,7 +3684,9 @@ it should be noted that,en,PENDING
 it takes an hour to get there.,en,PENDING
 it takes …,en,PENDING
 it takes...,en,PENDING
+it would be more appropriate to use reserve.,en,PENDING
 it,en,PENDING
+it. many of the most frequent words have,en,PENDING
 item,en,PENDING
 its,en,PENDING
 itself,en,PENDING
@@ -3454,6 +3701,7 @@ jail,en,PENDING
 jam,en,PENDING
 jet,en,PENDING
 job,en,PENDING
+joi,en,PENDING
 join,en,PENDING
 joint,en,PENDING
 joke,en,PENDING
@@ -3480,6 +3728,7 @@ just,en,PENDING
 justice,en,PENDING
 justification,en,PENDING
 justify,en,PENDING
+kee,en,PENDING
 keen,en,PENDING
 keep in mind that...,en,PENDING
 keep in touch,en,PENDING
@@ -3504,6 +3753,7 @@ king,en,PENDING
 kingdom,en,PENDING
 kiss,en,PENDING
 kit,en,PENDING
+kitche,en,PENDING
 kitchen,en,PENDING
 knee,en,PENDING
 knife,en,PENDING
@@ -3545,6 +3795,7 @@ last year,en,PENDING
 last,en,PENDING
 late,en,PENDING
 lately,en,PENDING
+later o,en,PENDING
 later on,en,PENDING
 later,en,PENDING
 latter,en,PENDING
@@ -3558,6 +3809,7 @@ lay,en,PENDING
 layer,en,PENDING
 layout,en,PENDING
 lazy,en,PENDING
+lea,en,PENDING
 lead to sth,en,PENDING
 lead to,en,PENDING
 lead,en,PENDING
@@ -3571,6 +3823,7 @@ league,en,PENDING
 leak,en,PENDING
 lean,en,PENDING
 leap,en,PENDING
+lear,en,PENDING
 learn how to do sth,en,PENDING
 learn,en,PENDING
 learning,en,PENDING
@@ -3588,6 +3841,7 @@ legal,en,PENDING
 legally,en,PENDING
 legend,en,PENDING
 legendary,en,PENDING
+legislatio,en,PENDING
 legislation,en,PENDING
 legislative,en,PENDING
 legislature,en,PENDING
@@ -3604,6 +3858,7 @@ less than...,en,PENDING
 less than…,en,PENDING
 less,en,PENDING
 lesser,en,PENDING
+lesso,en,PENDING
 lesson,en,PENDING
 let alone,en,PENDING
 let me help you.,en,PENDING
@@ -3641,6 +3896,7 @@ likely,en,PENDING
 likewise,en,PENDING
 limb,en,PENDING
 limit,en,PENDING
+limitatio,en,PENDING
 limitation,en,PENDING
 limited,en,PENDING
 line,en,PENDING
@@ -3652,6 +3908,7 @@ linked to,en,PENDING
 lip,en,PENDING
 liquid,en,PENDING
 list,en,PENDING
+liste,en,PENDING
 listen to sb,en,PENDING
 listen to sth,en,PENDING
 listen,en,PENDING
@@ -3672,6 +3929,7 @@ lively,en,PENDING
 liver,en,PENDING
 living room,en,PENDING
 living,en,PENDING
+loa,en,PENDING
 load,en,PENDING
 loads of sb,en,PENDING
 loads of sth,en,PENDING
@@ -3682,6 +3940,7 @@ localized,en,PENDING
 locally,en,PENDING
 locate,en,PENDING
 located,en,PENDING
+locatio,en,PENDING
 location,en,PENDING
 lock,en,PENDING
 log,en,PENDING
@@ -3693,6 +3952,7 @@ long,en,PENDING
 long-standing,en,PENDING
 long-term,en,PENDING
 long-time,en,PENDING
+longman dictionaries are the only ones to,en,PENDING
 look after sb,en,PENDING
 look after sth,en,PENDING
 look after yourself,en,PENDING
@@ -3740,6 +4000,7 @@ lump,en,PENDING
 lunch,en,PENDING
 lunchtime,en,PENDING
 lyric,en,PENDING
+ma,en,PENDING
 machine,en,PENDING
 machinery,en,PENDING
 mad,en,PENDING
@@ -3751,11 +4012,13 @@ magistrate,en,PENDING
 magnetic,en,PENDING
 magnificent,en,PENDING
 magnitude,en,PENDING
+mai,en,PENDING
 mail,en,PENDING
 main,en,PENDING
 mainland,en,PENDING
 mainly,en,PENDING
 mainstream,en,PENDING
+maintai,en,PENDING
 maintain,en,PENDING
 maintenance,en,PENDING
 major,en,PENDING
@@ -3789,11 +4052,15 @@ manufacture,en,PENDING
 manufacturer,en,PENDING
 manufacturing,en,PENDING
 manuscript,en,PENDING
+many det.,en,PENDING
+many learner’s dictionaries include informatio,en,PENDING
 many of you,en,PENDING
+many pro,en,PENDING
 many,en,PENDING
 map,en,PENDING
 marathon,en,PENDING
 march,en,PENDING
+margi,en,PENDING
 margin,en,PENDING
 marginal,en,PENDING
 marine,en,PENDING
@@ -3824,6 +4091,7 @@ maximize,en,PENDING
 maximum,en,PENDING
 may be due to,en,PENDING
 may lead to,en,PENDING
+may modal,en,PENDING
 may or may not,en,PENDING
 may well be,en,PENDING
 may well,en,PENDING
@@ -3831,6 +4099,7 @@ may,en,PENDING
 maybe,en,PENDING
 mayor,en,PENDING
 me,en,PENDING
+mea,en,PENDING
 meal,en,PENDING
 mean to do sth,en,PENDING
 mean,en,PENDING
@@ -3867,6 +4136,7 @@ memory,en,PENDING
 men and women,en,PENDING
 mental health,en,PENDING
 mental,en,PENDING
+mentio,en,PENDING
 mention,en,PENDING
 mentor,en,PENDING
 menu,en,PENDING
@@ -3890,6 +4160,7 @@ middle,en,PENDING
 midnight,en,PENDING
 midst,en,PENDING
 might happen.,en,PENDING
+might modal,en,PENDING
 might,en,PENDING
 migrate,en,PENDING
 migration,en,PENDING
@@ -3923,6 +4194,7 @@ misery,en,PENDING
 misleading,en,PENDING
 miss,en,PENDING
 missile,en,PENDING
+missio,en,PENDING
 mission,en,PENDING
 mistake,en,PENDING
 mix,en,PENDING
@@ -3936,6 +4208,7 @@ mobilize,en,PENDING
 mode,en,PENDING
 model,en,PENDING
 modelling,en,PENDING
+moder,en,PENDING
 moderate,en,PENDING
 modern,en,PENDING
 modernity,en,PENDING
@@ -3956,6 +4229,7 @@ monster,en,PENDING
 month,en,PENDING
 monthly,en,PENDING
 monument,en,PENDING
+moo,en,PENDING
 mood,en,PENDING
 moon,en,PENDING
 moral,en,PENDING
@@ -3971,17 +4245,21 @@ moreover,en,PENDING
 morning,en,PENDING
 mortgage,en,PENDING
 mosque,en,PENDING
+most important for them to learn and study,en,PENDING
 most of you,en,PENDING
 most,en,PENDING
 mostly,en,PENDING
 mother,en,PENDING
+motio,en,PENDING
 motion,en,PENDING
 motivate,en,PENDING
+motivatio,en,PENDING
 motivation,en,PENDING
 motive,en,PENDING
 motor,en,PENDING
 motorist,en,PENDING
 motorway,en,PENDING
+mountai,en,PENDING
 mountain,en,PENDING
 mouse,en,PENDING
 mouth,en,PENDING
@@ -4005,6 +4283,7 @@ museum,en,PENDING
 mushroom,en,PENDING
 music,en,PENDING
 musical,en,PENDING
+must modal,en,PENDING
 must,en,PENDING
 mutual,en,PENDING
 my,en,PENDING
@@ -4017,6 +4296,7 @@ name,en,PENDING
 namely,en,PENDING
 narrow,en,PENDING
 nasty,en,PENDING
+natio,en,PENDING
 nation,en,PENDING
 national,en,PENDING
 nationwide,en,PENDING
@@ -4041,6 +4321,7 @@ negative,en,PENDING
 negatively,en,PENDING
 neglect,en,PENDING
 negotiate,en,PENDING
+negotiatio,en,PENDING
 negotiation,en,PENDING
 neighbour,en,PENDING
 neighbourhood,en,PENDING
@@ -4101,6 +4382,7 @@ norm,en,PENDING
 normal,en,PENDING
 normally,en,PENDING
 north,en,PENDING
+norther,en,PENDING
 northern,en,PENDING
 nose,en,PENDING
 not any longer,en,PENDING
@@ -4123,6 +4405,7 @@ nothing to do with,en,PENDING
 nothing,en,PENDING
 notice,en,PENDING
 notify,en,PENDING
+notio,en,PENDING
 notion,en,PENDING
 notorious,en,PENDING
 novel,en,PENDING
@@ -4139,12 +4422,16 @@ nursery,en,PENDING
 nursing,en,PENDING
 nut,en,PENDING
 nutrition,en,PENDING
+o,en,PENDING
 obesity,en,PENDING
 object,en,PENDING
+objectio,en,PENDING
 objection,en,PENDING
 objective,en,PENDING
+obligatio,en,PENDING
 obligation,en,PENDING
 oblige,en,PENDING
+observatio,en,PENDING
 observation,en,PENDING
 observe,en,PENDING
 observed in,en,PENDING
@@ -4152,19 +4439,24 @@ observer,en,PENDING
 obsess,en,PENDING
 obsession,en,PENDING
 obstacle,en,PENDING
+obtai,en,PENDING
 obtain,en,PENDING
 obvious,en,PENDING
 obviously,en,PENDING
+occasio,en,PENDING
 occasion,en,PENDING
 occasional,en,PENDING
 occasionally,en,PENDING
+occupatio,en,PENDING
 occupation,en,PENDING
 occupy,en,PENDING
 occur,en,PENDING
 occurrence,en,PENDING
+ocea,en,PENDING
 ocean,en,PENDING
 odd,en,PENDING
 odds,en,PENDING
+of book a table at a restaurant). it is marked,en,PENDING
 of course,en,PENDING
 of some kind,en,PENDING
 of the total,en,PENDING
@@ -4180,6 +4472,7 @@ office,en,PENDING
 officer,en,PENDING
 official,en,PENDING
 offspring,en,PENDING
+ofte,en,PENDING
 often referred to as,en,PENDING
 often,en,PENDING
 oh dear,en,PENDING
@@ -4243,6 +4536,7 @@ once a…,en,PENDING
 once,en,PENDING
 one another,en,PENDING
 one day,en,PENDING
+one number,en,PENDING
 one of the key,en,PENDING
 one of the most important,en,PENDING
 one of the most,en,PENDING
@@ -4252,30 +4546,36 @@ one or more of,en,PENDING
 one or two,en,PENDING
 one,en,PENDING
 ongoing,en,PENDING
+onio,en,PENDING
 onion,en,PENDING
 online,en,PENDING
 only,en,PENDING
 onto,en,PENDING
+ope,en,PENDING
 open,en,PENDING
 opening,en,PENDING
 openly,en,PENDING
 opera,en,PENDING
 operate,en,PENDING
+operatio,en,PENDING
 operation,en,PENDING
 operational,en,PENDING
 operator,en,PENDING
+opinio,en,PENDING
 opinion,en,PENDING
 opponent,en,PENDING
 opportunity,en,PENDING
 oppose,en,PENDING
 opposed to sth,en,PENDING
 opposite,en,PENDING
+oppositio,en,PENDING
 opposition,en,PENDING
 opt,en,PENDING
 optical,en,PENDING
 optimal,en,PENDING
 optimism,en,PENDING
 optimistic,en,PENDING
+optio,en,PENDING
 option,en,PENDING
 or so,en,PENDING
 or somebody,en,PENDING
@@ -4291,14 +4591,17 @@ orchestra,en,PENDING
 order,en,PENDING
 ordinary people,en,PENDING
 ordinary,en,PENDING
+orga,en,PENDING
 organ,en,PENDING
 organic,en,PENDING
+organizatio,en,PENDING
 organization,en,PENDING
 organizational,en,PENDING
 organize,en,PENDING
 organized,en,PENDING
 orient,en,PENDING
 orientation,en,PENDING
+origi,en,PENDING
 origin,en,PENDING
 original,en,PENDING
 originally,en,PENDING
@@ -4306,6 +4609,7 @@ originate,en,PENDING
 other than,en,PENDING
 other,en,PENDING
 otherwise,en,PENDING
+ought to modal,en,PENDING
 ought to,en,PENDING
 ounce,en,PENDING
 our understanding of,en,PENDING
@@ -4327,6 +4631,7 @@ outrage,en,PENDING
 outside,en,PENDING
 outsider,en,PENDING
 outstanding,en,PENDING
+ove,en,PENDING
 oven,en,PENDING
 over a period of time,en,PENDING
 over the course of...,en,PENDING
@@ -4348,18 +4653,21 @@ overturn,en,PENDING
 overview,en,PENDING
 overwhelm,en,PENDING
 overwhelming,en,PENDING
+ow,en,PENDING
 owe,en,PENDING
 own,en,PENDING
 owner,en,PENDING
 ownership,en,PENDING
 oxygen,en,PENDING
 o’clock,en,PENDING
+pa,en,PENDING
 pace,en,PENDING
 pack,en,PENDING
 package,en,PENDING
 packet,en,PENDING
 pad,en,PENDING
 page,en,PENDING
+pai,en,PENDING
 pain,en,PENDING
 paint,en,PENDING
 painting,en,PENDING
@@ -4376,6 +4684,7 @@ parade,en,PENDING
 parallel,en,PENDING
 parameter,en,PENDING
 parcel,en,PENDING
+pardo,en,PENDING
 pardon,en,PENDING
 parent,en,PENDING
 parental,en,PENDING
@@ -4402,6 +4711,7 @@ pass,en,PENDING
 passage,en,PENDING
 passenger,en,PENDING
 passing,en,PENDING
+passio,en,PENDING
 passion,en,PENDING
 passionate,en,PENDING
 passive,en,PENDING
@@ -4416,6 +4726,7 @@ patience,en,PENDING
 patient,en,PENDING
 patrol,en,PENDING
 patron,en,PENDING
+patter,en,PENDING
 pattern,en,PENDING
 pause,en,PENDING
 pay attention to sb,en,PENDING
@@ -4424,6 +4735,7 @@ pay attention,en,PENDING
 pay for sth,en,PENDING
 pay,en,PENDING
 payment,en,PENDING
+pe,en,PENDING
 peace,en,PENDING
 peaceful,en,PENDING
 peak,en,PENDING
@@ -4434,6 +4746,7 @@ pen,en,PENDING
 penalty,en,PENDING
 pencil,en,PENDING
 penny,en,PENDING
+pensio,en,PENDING
 pension,en,PENDING
 people,en,PENDING
 pepper,en,PENDING
@@ -4443,6 +4756,7 @@ per,en,PENDING
 perceive,en,PENDING
 percent,en,PENDING
 percentage,en,PENDING
+perceptio,en,PENDING
 perception,en,PENDING
 perfect,en,PENDING
 perfectly,en,PENDING
@@ -4453,10 +4767,12 @@ period of time,en,PENDING
 period,en,PENDING
 permanent,en,PENDING
 permanently,en,PENDING
+permissio,en,PENDING
 permission,en,PENDING
 permit,en,PENDING
 persist,en,PENDING
 persistent,en,PENDING
+perso,en,PENDING
 person,en,PENDING
 personal,en,PENDING
 personality,en,PENDING
@@ -4467,6 +4783,7 @@ persuade,en,PENDING
 petition,en,PENDING
 petrol,en,PENDING
 phase,en,PENDING
+phenomeno,en,PENDING
 phenomenon,en,PENDING
 philosopher,en,PENDING
 philosophical,en,PENDING
@@ -4482,6 +4799,7 @@ physical,en,PENDING
 physically,en,PENDING
 physician,en,PENDING
 physics,en,PENDING
+pi,en,PENDING
 piano,en,PENDING
 pick sb up,en,PENDING
 pick sth up,en,PENDING
@@ -4504,8 +4822,10 @@ pit,en,PENDING
 pitch,en,PENDING
 pity,en,PENDING
 pizza,en,PENDING
+pla,en,PENDING
 place,en,PENDING
 placement,en,PENDING
+plai,en,PENDING
 plain,en,PENDING
 plan for sth,en,PENDING
 plan,en,PENDING
@@ -4550,29 +4870,35 @@ pole,en,PENDING
 police officer,en,PENDING
 police station,en,PENDING
 police,en,PENDING
+policema,en,PENDING
 policeman,en,PENDING
 policy,en,PENDING
 polite,en,PENDING
 political,en,PENDING
+politicia,en,PENDING
 politician,en,PENDING
 politics,en,PENDING
 poll,en,PENDING
+pollutio,en,PENDING
 pollution,en,PENDING
 pond,en,PENDING
 pool,en,PENDING
 poor,en,PENDING
 pop,en,PENDING
 popular,en,PENDING
+populatio,en,PENDING
 population,en,PENDING
 port,en,PENDING
 portfolio,en,PENDING
 portion,en,PENDING
 portray,en,PENDING
 pose,en,PENDING
+positio,en,PENDING
 position,en,PENDING
 positive,en,PENDING
 positively,en,PENDING
 possess,en,PENDING
+possessio,en,PENDING
 possession,en,PENDING
 possibility,en,PENDING
 possible,en,PENDING
@@ -4622,6 +4948,7 @@ preliminary,en,PENDING
 premier,en,PENDING
 premise,en,PENDING
 premium,en,PENDING
+preparatio,en,PENDING
 preparation,en,PENDING
 prepare,en,PENDING
 prepared to do sth,en,PENDING
@@ -4630,6 +4957,7 @@ prescribe,en,PENDING
 prescription,en,PENDING
 presence,en,PENDING
 present,en,PENDING
+presentatio,en,PENDING
 presentation,en,PENDING
 presently,en,PENDING
 preservation,en,PENDING
@@ -4673,6 +5001,7 @@ printer,en,PENDING
 prior to,en,PENDING
 prior,en,PENDING
 priority,en,PENDING
+priso,en,PENDING
 prison,en,PENDING
 prisoner,en,PENDING
 private,en,PENDING
@@ -4697,9 +5026,11 @@ proclaim,en,PENDING
 produce,en,PENDING
 producer,en,PENDING
 product,en,PENDING
+productio,en,PENDING
 production,en,PENDING
 productive,en,PENDING
 productivity,en,PENDING
+professio,en,PENDING
 profession,en,PENDING
 professional,en,PENDING
 professor,en,PENDING
@@ -4720,6 +5051,7 @@ prominent,en,PENDING
 promise,en,PENDING
 promising,en,PENDING
 promote,en,PENDING
+promotio,en,PENDING
 promotion,en,PENDING
 prompt,en,PENDING
 pronounced,en,PENDING
@@ -4728,6 +5060,7 @@ propaganda,en,PENDING
 proper,en,PENDING
 properly,en,PENDING
 property,en,PENDING
+proportio,en,PENDING
 proportion,en,PENDING
 proportional,en,PENDING
 proposal,en,PENDING
@@ -4735,12 +5068,14 @@ propose,en,PENDING
 proposed,en,PENDING
 proposition,en,PENDING
 prosecute,en,PENDING
+prosecutio,en,PENDING
 prosecution,en,PENDING
 prosecutor,en,PENDING
 prospect,en,PENDING
 prospective,en,PENDING
 prosperity,en,PENDING
 protect,en,PENDING
+protectio,en,PENDING
 protection,en,PENDING
 protective,en,PENDING
 protein,en,PENDING
@@ -4755,6 +5090,7 @@ provided,en,PENDING
 providing,en,PENDING
 province,en,PENDING
 provincial,en,PENDING
+provisio,en,PENDING
 provision,en,PENDING
 provoke,en,PENDING
 psychiatric,en,PENDING
@@ -4763,6 +5099,7 @@ psychology,en,PENDING
 pub,en,PENDING
 public transport,en,PENDING
 public,en,PENDING
+publicatio,en,PENDING
 publication,en,PENDING
 publicity,en,PENDING
 publish,en,PENDING
@@ -4792,6 +5129,7 @@ put sth together,en,PENDING
 put sth up,en,PENDING
 put,en,PENDING
 puzzle,en,PENDING
+qualificatio,en,PENDING
 qualification,en,PENDING
 qualify,en,PENDING
 qualitative,en,PENDING
@@ -4801,9 +5139,11 @@ quantify,en,PENDING
 quantitative,en,PENDING
 quantity,en,PENDING
 quarter,en,PENDING
+quee,en,PENDING
 queen,en,PENDING
 query,en,PENDING
 quest,en,PENDING
+questio,en,PENDING
 question,en,PENDING
 questionnaire,en,PENDING
 queue,en,PENDING
@@ -4833,6 +5173,7 @@ radiation,en,PENDING
 radical,en,PENDING
 radio,en,PENDING
 rage,en,PENDING
+rai,en,PENDING
 raid,en,PENDING
 rail,en,PENDING
 railway,en,PENDING
@@ -4855,6 +5196,7 @@ rare,en,PENDING
 rarely,en,PENDING
 rat,en,PENDING
 rate,en,PENDING
+rather tha,en,PENDING
 rather than,en,PENDING
 rather,en,PENDING
 rating,en,PENDING
@@ -4866,11 +5208,13 @@ raw,en,PENDING
 ray,en,PENDING
 reach,en,PENDING
 react,en,PENDING
+reactio,en,PENDING
 reaction to sth,en,PENDING
 reaction,en,PENDING
 read,en,PENDING
 reader,en,PENDING
 readily,en,PENDING
+reading under the directorship of hilary nesi and paul thompson. corpus development of base was assisted by,en,PENDING
 reading,en,PENDING
 ready,en,PENDING
 real,en,PENDING
@@ -4884,6 +5228,7 @@ really like,en,PENDING
 really,en,PENDING
 realm,en,PENDING
 rear,en,PENDING
+reaso,en,PENDING
 reason,en,PENDING
 reasonable,en,PENDING
 reasonably,en,PENDING
@@ -4900,11 +5245,14 @@ receive,en,PENDING
 receiver,en,PENDING
 recent,en,PENDING
 recently,en,PENDING
+receptio,en,PENDING
 reception,en,PENDING
 recession,en,PENDING
 recipe,en,PENDING
 recipient,en,PENDING
+recko,en,PENDING
 reckon,en,PENDING
+recognitio,en,PENDING
 recognition,en,PENDING
 recognize,en,PENDING
 recommend,en,PENDING
@@ -4920,6 +5268,7 @@ recruit,en,PENDING
 recruitment,en,PENDING
 red,en,PENDING
 reduce,en,PENDING
+reductio,en,PENDING
 reduction in the number of,en,PENDING
 reduction,en,PENDING
 refer to sb as sth,en,PENDING
@@ -4934,6 +5283,7 @@ referendum,en,PENDING
 referred to as,en,PENDING
 refers to,en,PENDING
 reflect,en,PENDING
+reflectio,en,PENDING
 reflection,en,PENDING
 reform,en,PENDING
 refrigerator,en,PENDING
@@ -4948,14 +5298,17 @@ regarded as,en,PENDING
 regardless of,en,PENDING
 regardless,en,PENDING
 regime,en,PENDING
+regio,en,PENDING
 region,en,PENDING
 regional,en,PENDING
 register,en,PENDING
+registratio,en,PENDING
 registration,en,PENDING
 regret,en,PENDING
 regular,en,PENDING
 regularly,en,PENDING
 regulate,en,PENDING
+regulatio,en,PENDING
 regulation,en,PENDING
 regulator,en,PENDING
 regulatory,en,PENDING
@@ -4974,6 +5327,7 @@ related,en,PENDING
 relating to sb,en,PENDING
 relating to sth,en,PENDING
 relating to,en,PENDING
+relatio,en,PENDING
 relation,en,PENDING
 relationship,en,PENDING
 relative to,en,PENDING
@@ -4992,12 +5346,14 @@ reliance,en,PENDING
 relief,en,PENDING
 relieve,en,PENDING
 relieved,en,PENDING
+religio,en,PENDING
 religion,en,PENDING
 religious,en,PENDING
 reluctant,en,PENDING
 rely on sb,en,PENDING
 rely on sth,en,PENDING
 rely,en,PENDING
+remai,en,PENDING
 remain,en,PENDING
 remainder,en,PENDING
 remaining,en,PENDING
@@ -5028,11 +5384,14 @@ reportedly,en,PENDING
 reporter,en,PENDING
 reporting,en,PENDING
 represent,en,PENDING
+representatio,en,PENDING
 representation,en,PENDING
 representative,en,PENDING
+represents the core of the english language and,en,PENDING
 reproduce,en,PENDING
 reproduction,en,PENDING
 republic,en,PENDING
+reputatio,en,PENDING
 reputation,en,PENDING
 request,en,PENDING
 require,en,PENDING
@@ -5048,11 +5407,14 @@ residence,en,PENDING
 resident,en,PENDING
 residential,en,PENDING
 residue,en,PENDING
+resig,en,PENDING
 resign,en,PENDING
+resignatio,en,PENDING
 resignation,en,PENDING
 resist,en,PENDING
 resistance,en,PENDING
 resistant,en,PENDING
+resolutio,en,PENDING
 resolution,en,PENDING
 resolve,en,PENDING
 resort,en,PENDING
@@ -5075,6 +5437,7 @@ restoration,en,PENDING
 restore,en,PENDING
 restraint,en,PENDING
 restrict,en,PENDING
+restrictio,en,PENDING
 restriction,en,PENDING
 restrictive,en,PENDING
 result in sth,en,PENDING
@@ -5082,12 +5445,14 @@ result in,en,PENDING
 result,en,PENDING
 results in,en,PENDING
 resume,en,PENDING
+retai,en,PENDING
 retail,en,PENDING
 retain,en,PENDING
 retire,en,PENDING
 retirement,en,PENDING
 retreat,en,PENDING
 retrieve,en,PENDING
+retur,en,PENDING
 return,en,PENDING
 reveal,en,PENDING
 revelation,en,PENDING
@@ -5098,6 +5463,7 @@ review,en,PENDING
 revision,en,PENDING
 revival,en,PENDING
 revive,en,PENDING
+revolutio,en,PENDING
 revolution,en,PENDING
 revolutionary,en,PENDING
 reward,en,PENDING
@@ -5147,10 +5513,12 @@ route,en,PENDING
 routine,en,PENDING
 row,en,PENDING
 royal,en,PENDING
+ru,en,PENDING
 rub,en,PENDING
 rubber,en,PENDING
 rubbish,en,PENDING
 rude,en,PENDING
+rui,en,PENDING
 ruin,en,PENDING
 rule,en,PENDING
 ruling,en,PENDING
@@ -5160,6 +5528,10 @@ run out,en,PENDING
 run,en,PENDING
 rural,en,PENDING
 rush,en,PENDING
+s1 = one of the 1000 most frequent words in spoken english; w1 = one of the 1000 most frequent words in written english,en,PENDING
+s2 = one of the 2000 most frequent words in spoken english; w2 = one of the 2000 most frequent words in written english,en,PENDING
+s2 – one of the top 2000 words of spoke,en,PENDING
+s3 = one of the 3000 most frequent words in spoken english; w3 = one of the 3000 most frequent words in written english,en,PENDING
 sack,en,PENDING
 sacred,en,PENDING
 sacrifice,en,PENDING
@@ -5180,6 +5552,7 @@ sanction,en,PENDING
 sand,en,PENDING
 sandwich,en,PENDING
 satellite,en,PENDING
+satisfactio,en,PENDING
 satisfaction,en,PENDING
 satisfied,en,PENDING
 satisfy,en,PENDING
@@ -5210,6 +5583,7 @@ scope,en,PENDING
 score,en,PENDING
 scratch,en,PENDING
 scream,en,PENDING
+scree,en,PENDING
 screen,en,PENDING
 screening,en,PENDING
 screw,en,PENDING
@@ -5221,20 +5595,24 @@ search engine,en,PENDING
 search for sb,en,PENDING
 search for sth,en,PENDING
 search,en,PENDING
+seaso,en,PENDING
 season,en,PENDING
 seat,en,PENDING
+second number,en,PENDING
 second,en,PENDING
 secondary school,en,PENDING
 secondary,en,PENDING
 secondly,en,PENDING
 secret,en,PENDING
 secretary,en,PENDING
+sectio,en,PENDING
 section,en,PENDING
 sector,en,PENDING
 secular,en,PENDING
 secure,en,PENDING
 security,en,PENDING
 see also,en,PENDING
+see clearly which words are frequent in writte,en,PENDING
 see you around,en,PENDING
 see you later,en,PENDING
 see you soon,en,PENDING
@@ -5251,6 +5629,8 @@ segment,en,PENDING
 seize,en,PENDING
 seldom,en,PENDING
 select,en,PENDING
+selectio,en,PENDING
+selection of the appropriate word or phrase i,en,PENDING
 selection,en,PENDING
 selective,en,PENDING
 self,en,PENDING
@@ -5278,6 +5658,7 @@ seriously,en,PENDING
 servant,en,PENDING
 serve,en,PENDING
 service,en,PENDING
+sessio,en,PENDING
 session,en,PENDING
 set out,en,PENDING
 set sth up,en,PENDING
@@ -5298,6 +5679,7 @@ sexuality,en,PENDING
 sexy,en,PENDING
 shadow,en,PENDING
 shake,en,PENDING
+shall modal,en,PENDING
 shall,en,PENDING
 shame,en,PENDING
 shape,en,PENDING
@@ -5337,6 +5719,7 @@ short-term,en,PENDING
 shortage,en,PENDING
 shortly,en,PENDING
 shot,en,PENDING
+should modal,en,PENDING
 should to be taken into account,en,PENDING
 should,en,PENDING
 shoulder,en,PENDING
@@ -5345,13 +5728,17 @@ shove,en,PENDING
 show that,en,PENDING
 show,en,PENDING
 shower,en,PENDING
+shows students of english which words are the,en,PENDING
+shows that these 3000 most frequent words,en,PENDING
 shows that,en,PENDING
 shrink,en,PENDING
 shrug,en,PENDING
 shut,en,PENDING
+si,en,PENDING
 sibling,en,PENDING
 sick,en,PENDING
 side,en,PENDING
+sig,en,PENDING
 sigh,en,PENDING
 sight,en,PENDING
 sign,en,PENDING
@@ -5388,9 +5775,11 @@ sit down,en,PENDING
 sit,en,PENDING
 site,en,PENDING
 situated,en,PENDING
+situatio,en,PENDING
 situation,en,PENDING
 size,en,PENDING
 sketch,en,PENDING
+ski,en,PENDING
 skill,en,PENDING
 skilled,en,PENDING
 skin,en,PENDING
@@ -5457,6 +5846,7 @@ solicitor,en,PENDING
 solid,en,PENDING
 solidarity,en,PENDING
 solo,en,PENDING
+solutio,en,PENDING
 solution to sth,en,PENDING
 solution,en,PENDING
 solve,en,PENDING
@@ -5481,6 +5871,7 @@ somewhat,en,PENDING
 somewhere,en,PENDING
 son,en,PENDING
 song,en,PENDING
+soo,en,PENDING
 soon,en,PENDING
 sophisticated,en,PENDING
 sore,en,PENDING
@@ -5497,6 +5888,7 @@ sound,en,PENDING
 soup,en,PENDING
 source,en,PENDING
 south,en,PENDING
+souther,en,PENDING
 southern,en,PENDING
 sovereignty,en,PENDING
 space,en,PENDING
@@ -5508,6 +5900,7 @@ spatial,en,PENDING
 speak to sb,en,PENDING
 speak,en,PENDING
 speaker,en,PENDING
+special symbols:,en,PENDING
 special,en,PENDING
 specialist,en,PENDING
 specialize,en,PENDING
@@ -5524,6 +5917,7 @@ spectator,en,PENDING
 spectrum,en,PENDING
 speculate,en,PENDING
 speculation,en,PENDING
+speech and writing.,en,PENDING
 speech,en,PENDING
 speed,en,PENDING
 spell,en,PENDING
@@ -5533,6 +5927,7 @@ spend time with sb,en,PENDING
 spend time,en,PENDING
 spend,en,PENDING
 sphere,en,PENDING
+spi,en,PENDING
 spill,en,PENDING
 spin,en,PENDING
 spine,en,PENDING
@@ -5541,10 +5936,13 @@ spiritual,en,PENDING
 spite,en,PENDING
 split,en,PENDING
 spoil,en,PENDING
+spokesma,en,PENDING
 spokesman,en,PENDING
 spokesperson,en,PENDING
 spokeswoman,en,PENDING
 sponsorship,en,PENDING
+spontaneous speech and some informal writing.’,en,PENDING
+spoo,en,PENDING
 spoon,en,PENDING
 sport,en,PENDING
 sporting,en,PENDING
@@ -5582,6 +5980,7 @@ start,en,PENDING
 starve,en,PENDING
 state,en,PENDING
 statement,en,PENDING
+statio,en,PENDING
 station,en,PENDING
 statistic,en,PENDING
 statistical,en,PENDING
@@ -5619,6 +6018,7 @@ storage,en,PENDING
 store,en,PENDING
 storm,en,PENDING
 story,en,PENDING
+strai,en,PENDING
 straight,en,PENDING
 straightforward,en,PENDING
 strain,en,PENDING
@@ -5632,6 +6032,7 @@ strawberry,en,PENDING
 stream,en,PENDING
 street,en,PENDING
 strength,en,PENDING
+strengthe,en,PENDING
 strengthen,en,PENDING
 stress,en,PENDING
 stretch,en,PENDING
@@ -5649,6 +6050,7 @@ structural,en,PENDING
 structure,en,PENDING
 struggle,en,PENDING
 student,en,PENDING
+students develop good comprehension and,en,PENDING
 studio,en,PENDING
 study,en,PENDING
 stuff,en,PENDING
@@ -5657,6 +6059,7 @@ stun,en,PENDING
 stunning,en,PENDING
 stupid,en,PENDING
 style,en,PENDING
+su,en,PENDING
 subject to sth,en,PENDING
 subject to,en,PENDING
 subject,en,PENDING
@@ -5693,6 +6096,7 @@ such as,en,PENDING
 such that,en,PENDING
 such,en,PENDING
 suck,en,PENDING
+sudde,en,PENDING
 sudden,en,PENDING
 suddenly,en,PENDING
 sue,en,PENDING
@@ -5703,6 +6107,7 @@ sufficient,en,PENDING
 sufficiently,en,PENDING
 sugar,en,PENDING
 suggest,en,PENDING
+suggestio,en,PENDING
 suggestion,en,PENDING
 suicide,en,PENDING
 suit,en,PENDING
@@ -5757,8 +6162,10 @@ survivor,en,PENDING
 suspect,en,PENDING
 suspend,en,PENDING
 suspension,en,PENDING
+suspicio,en,PENDING
 suspicion,en,PENDING
 suspicious,en,PENDING
+sustai,en,PENDING
 sustain,en,PENDING
 sustainable,en,PENDING
 swallow,en,PENDING
@@ -5781,6 +6188,9 @@ synthesis,en,PENDING
 system,en,PENDING
 systematic,en,PENDING
 systematically,en,PENDING
+t ake for example the verb book (in the meaning,en,PENDING
+t o ensure that users have access to the,en,PENDING
+t,en,PENDING
 table,en,PENDING
 tablet,en,PENDING
 tackle,en,PENDING
@@ -5837,6 +6247,7 @@ technological,en,PENDING
 technology,en,PENDING
 teens,en,PENDING
 telephone,en,PENDING
+televisio,en,PENDING
 television,en,PENDING
 tell me all about it.,en,PENDING
 tell the truth,en,PENDING
@@ -5857,6 +6268,7 @@ tendency,en,PENDING
 tender,en,PENDING
 tends to be,en,PENDING
 tennis,en,PENDING
+tensio,en,PENDING
 tension,en,PENDING
 tent,en,PENDING
 tenure,en,PENDING
@@ -5881,6 +6293,7 @@ testing,en,PENDING
 text,en,PENDING
 textbook,en,PENDING
 texture,en,PENDING
+tha,en,PENDING
 than,en,PENDING
 thank you very much,en,PENDING
 thank you,en,PENDING
@@ -5903,6 +6316,7 @@ that’s it,en,PENDING
 the 19th century,en,PENDING
 the 20th century,en,PENDING
 the 21st century,en,PENDING
+the 3000 most frequent words in both spoke,en,PENDING
 the ability of,en,PENDING
 the ability to,en,PENDING
 the above,en,PENDING
@@ -5935,6 +6349,7 @@ the definition of,en,PENDING
 the degree of,en,PENDING
 the degree to which,en,PENDING
 the development of,en,PENDING
+the difference betwee,en,PENDING
 the difference between,en,PENDING
 the distribution of,en,PENDING
 the effect of,en,PENDING
@@ -5963,6 +6378,7 @@ the following…,en,PENDING
 the form of,en,PENDING
 the formation of,en,PENDING
 the former,en,PENDING
+the frequency markers that identify the,en,PENDING
 the frequency of,en,PENDING
 the good things about sth,en,PENDING
 the growth of,en,PENDING
@@ -5979,6 +6395,7 @@ the introduction of,en,PENDING
 the issue of,en,PENDING
 the kinds of,en,PENDING
 the lack of,en,PENDING
+the language learner. ldoce shows in graphic,en,PENDING
 the last time,en,PENDING
 the latter,en,PENDING
 the level of,en,PENDING
@@ -6029,6 +6446,7 @@ the reason for this is that,en,PENDING
 the reason for,en,PENDING
 the reason why,en,PENDING
 the reduction in,en,PENDING
+the relationship betwee,en,PENDING
 the relationship between,en,PENDING
 the rest of sth,en,PENDING
 the rest of the world,en,PENDING
@@ -6057,6 +6475,7 @@ the way that,en,PENDING
 the ways in which,en,PENDING
 the whole of,en,PENDING
 the wide range of,en,PENDING
+the words that are in the longma,en,PENDING
 the work of,en,PENDING
 the,en,PENDING
 theatre,en,PENDING
@@ -6090,12 +6509,15 @@ thereafter,en,PENDING
 thereby,en,PENDING
 therefore,en,PENDING
 these days,en,PENDING
+these frequency markers added to the,en,PENDING
 these sorts of,en,PENDING
+these words.,en,PENDING
 thesis,en,PENDING
 they say you can’t buy,en,PENDING
 they say...,en,PENDING
 they say…,en,PENDING
 they,en,PENDING
+thi,en,PENDING
 thick,en,PENDING
 thin,en,PENDING
 thing,en,PENDING
@@ -6140,7 +6562,9 @@ thousands of...,en,PENDING
 thousands of…,en,PENDING
 thread,en,PENDING
 threat,en,PENDING
+threate,en,PENDING
 threaten,en,PENDING
+three number,en,PENDING
 three,en,PENDING
 threshold,en,PENDING
 thrilled,en,PENDING
@@ -6152,6 +6576,7 @@ throw sth away,en,PENDING
 throw,en,PENDING
 thumb,en,PENDING
 thus,en,PENDING
+ti,en,PENDING
 ticket,en,PENDING
 tide,en,PENDING
 tidy,en,PENDING
@@ -6171,6 +6596,7 @@ tired,en,PENDING
 tissue,en,PENDING
 title,en,PENDING
 to a greater or lesser extent,en,PENDING
+to a wealth of information that can help the,en,PENDING
 to account for,en,PENDING
 to be aware of,en,PENDING
 to bear in mind,en,PENDING
@@ -6182,6 +6608,7 @@ to do with,en,PENDING
 to ensure that,en,PENDING
 to find out,en,PENDING
 to note that,en,PENDING
+to recognise it and know a main meaning of,en,PENDING
 to remind you,en,PENDING
 to see how,en,PENDING
 to show you,en,PENDING
@@ -6231,6 +6658,7 @@ tough,en,PENDING
 tour,en,PENDING
 tourist,en,PENDING
 tournament,en,PENDING
+tow,en,PENDING
 towards,en,PENDING
 towel,en,PENDING
 tower,en,PENDING
@@ -6243,24 +6671,28 @@ track,en,PENDING
 trade,en,PENDING
 trademark,en,PENDING
 trading,en,PENDING
+traditio,en,PENDING
 tradition,en,PENDING
 traditional,en,PENDING
 traditionally,en,PENDING
 traffic,en,PENDING
 tragedy,en,PENDING
 tragic,en,PENDING
+trai,en,PENDING
 trail,en,PENDING
 trailer,en,PENDING
 train,en,PENDING
 trainer,en,PENDING
 training,en,PENDING
 trait,en,PENDING
+transactio,en,PENDING
 transaction,en,PENDING
 transcript,en,PENDING
 transfer,en,PENDING
 transform,en,PENDING
 transformation,en,PENDING
 transit,en,PENDING
+transitio,en,PENDING
 transition,en,PENDING
 translate,en,PENDING
 transmission,en,PENDING
@@ -6268,6 +6700,7 @@ transmit,en,PENDING
 transparency,en,PENDING
 transparent,en,PENDING
 transport,en,PENDING
+transportatio,en,PENDING
 transportation,en,PENDING
 trap,en,PENDING
 trash,en,PENDING
@@ -6312,6 +6745,7 @@ tube,en,PENDING
 tuition,en,PENDING
 tune,en,PENDING
 tunnel,en,PENDING
+tur,en,PENDING
 turn into sth,en,PENDING
 turn out to be sth,en,PENDING
 turn out,en,PENDING
@@ -6347,6 +6781,7 @@ underlying,en,PENDING
 undermine,en,PENDING
 underneath,en,PENDING
 understand,en,PENDING
+understanding of the longman communicatio,en,PENDING
 understanding,en,PENDING
 undertake,en,PENDING
 undertaking,en,PENDING
@@ -6360,6 +6795,7 @@ unfortunately,en,PENDING
 unhappy,en,PENDING
 uniform,en,PENDING
 unify,en,PENDING
+unio,en,PENDING
 union,en,PENDING
 unique,en,PENDING
 unit,en,PENDING
@@ -6369,6 +6805,7 @@ unity,en,PENDING
 universal,en,PENDING
 universe,en,PENDING
 university,en,PENDING
+unknow,en,PENDING
 unknown,en,PENDING
 unless,en,PENDING
 unlike,en,PENDING
@@ -6388,16 +6825,19 @@ up,en,PENDING
 upcoming,en,PENDING
 upgrade,en,PENDING
 uphold,en,PENDING
+upo,en,PENDING
 upon,en,PENDING
 upper,en,PENDING
 upset,en,PENDING
 upstairs,en,PENDING
+urba,en,PENDING
 urban,en,PENDING
 urge,en,PENDING
 urgent,en,PENDING
 us,en,PENDING
 usage,en,PENDING
 use,en,PENDING
+used to modal,en,PENDING
 used to,en,PENDING
 used,en,PENDING
 useful,en,PENDING
@@ -6409,6 +6849,8 @@ utility,en,PENDING
 utilization,en,PENDING
 utilize,en,PENDING
 utterly,en,PENDING
+va,en,PENDING
+vacatio,en,PENDING
 vacation,en,PENDING
 vacuum,en,PENDING
 vague,en,PENDING
@@ -6423,6 +6865,7 @@ van,en,PENDING
 vanish,en,PENDING
 variable,en,PENDING
 variance,en,PENDING
+variatio,en,PENDING
 variation in,en,PENDING
 variation,en,PENDING
 varied,en,PENDING
@@ -6438,6 +6881,7 @@ verbal,en,PENDING
 verdict,en,PENDING
 verify,en,PENDING
 verse,en,PENDING
+versio,en,PENDING
 version,en,PENDING
 versus,en,PENDING
 vertical,en,PENDING
@@ -6467,6 +6911,7 @@ virtue,en,PENDING
 virus,en,PENDING
 visa,en,PENDING
 visible,en,PENDING
+visio,en,PENDING
 vision,en,PENDING
 visit,en,PENDING
 visitor,en,PENDING
@@ -6525,6 +6970,7 @@ weak,en,PENDING
 weaken,en,PENDING
 weakness,en,PENDING
 wealth,en,PENDING
+weapo,en,PENDING
 weapon,en,PENDING
 wear,en,PENDING
 weather,en,PENDING
@@ -6548,21 +6994,26 @@ well-being,en,PENDING
 were more likely to be,en,PENDING
 were more likely to,en,PENDING
 west,en,PENDING
+wester,en,PENDING
 western,en,PENDING
 wet,en,PENDING
 what about...?,en,PENDING
 what about…?,en,PENDING
 what are you plans for next,en,PENDING
 what do you think?,en,PENDING
+what do you think…?,en,PENDING
 what does that mean?,en,PENDING
 what happens if,en,PENDING
 what happens to,en,PENDING
+what i mea,en,PENDING
 what i mean by,en,PENDING
 what i mean,en,PENDING
 what i want to do,en,PENDING
 what kind of music do you,en,PENDING
 what sorts of things do you,en,PENDING
 what,en,PENDING
+whatever det.,en,PENDING
+whatever pro,en,PENDING
 whatever,en,PENDING
 whatsoever,en,PENDING
 what’s going on?,en,PENDING
@@ -6583,6 +7034,7 @@ whether or not,en,PENDING
 whether or not...,en,PENDING
 whether or not…,en,PENDING
 whether,en,PENDING
+which is in the top 3000 most frequent words,en,PENDING
 which,en,PENDING
 while at the same time,en,PENDING
 while,en,PENDING
@@ -6598,9 +7050,11 @@ wholly,en,PENDING
 whom,en,PENDING
 whose,en,PENDING
 why do you think?,en,PENDING
+why do you think…?,en,PENDING
 why not...?,en,PENDING
 why not…?,en,PENDING
 why,en,PENDING
+wi,en,PENDING
 wicked,en,PENDING
 wide,en,PENDING
 widely,en,PENDING
@@ -6611,6 +7065,7 @@ width,en,PENDING
 wife,en,PENDING
 wild,en,PENDING
 will be discussed in more detail,en,PENDING
+will modal,en,PENDING
 will,en,PENDING
 willing,en,PENDING
 willingness,en,PENDING
@@ -6640,14 +7095,17 @@ with the use of,en,PENDING
 with,en,PENDING
 withdraw,en,PENDING
 withdrawal,en,PENDING
+withi,en,PENDING
 within the context of,en,PENDING
 within,en,PENDING
 without,en,PENDING
 witness,en,PENDING
+woma,en,PENDING
 woman,en,PENDING
 wonder,en,PENDING
 wonderful,en,PENDING
 wood,en,PENDING
+woode,en,PENDING
 wooden,en,PENDING
 wool,en,PENDING
 word,en,PENDING
@@ -6678,11 +7136,13 @@ worry,en,PENDING
 worrying,en,PENDING
 worse,en,PENDING
 worship,en,PENDING
+worth learning and knowing how to use.’,en,PENDING
 worth,en,PENDING
 worthwhile,en,PENDING
 worthy,en,PENDING
 would like,en,PENDING
 would love to do sth,en,PENDING
+would modal,en,PENDING
 would rather...,en,PENDING
 would rather…,en,PENDING
 would you like...?,en,PENDING
@@ -6695,6 +7155,7 @@ write sth down,en,PENDING
 write,en,PENDING
 writer,en,PENDING
 writing,en,PENDING
+written frequency.,en,PENDING
 wrong with sb,en,PENDING
 wrong with sth,en,PENDING
 wrong,en,PENDING
@@ -6745,3 +7206,5 @@ youth,en,PENDING
 you’ll get over it.,en,PENDING
 you’re welcome,en,PENDING
 zone,en,PENDING
+‘there are two distinct modes of english:,en,PENDING
+‘this [frequency] information is gold dust for,en,PENDING
