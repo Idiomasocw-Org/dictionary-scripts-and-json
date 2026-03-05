@@ -150,20 +150,14 @@ function processFile(inputFilePath) {
 // ─────────────────────────────────────────────────────────────────
 // MAIN
 // ─────────────────────────────────────────────────────────────────
-const filesToProcess = [
-    'copia de Longman Communication 3000.txt',
-    'copia de OPAL_spoken phrases.txt',
-    'copia de OPAL_spoken single words.txt'
-];
+const dirPath = 'c:\\Users\\barbara\\Documents\\raw-videos-ocw\\dictionary-scripts-and-json\\';
+const files = fs.readdirSync(dirPath);
+const filesToProcess = files.filter(f => f.startsWith('copia de ') && f.endsWith('.txt'));
 
 const allNewPhrases = new Set();
 
 for (const file of filesToProcess) {
-    const filePath = path.join('c:\\Users\\barbara\\Documents\\raw-videos-ocw\\dictionary-scripts-and-json\\', file);
-    if (!fs.existsSync(filePath)) {
-        console.log(`\n⚠️ File not found: ${file}`);
-        continue;
-    }
+    const filePath = path.join(dirPath, file);
     const set = processFile(filePath);
     for (const p of set) allNewPhrases.add(p);
 }
