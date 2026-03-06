@@ -1,21 +1,21 @@
 lemma,language_code,status
-a bit,en,PENDING
 a bit more,en,PENDING
 a bit of a…,en,PENDING
 a bit of sth,en,PENDING
+a bit,en,PENDING
 a couple of sth,en,PENDING
 a few,en,PENDING
 a good idea,en,PENDING
 a great deal,en,PENDING
-a kind of...,en,PENDING
-a little,en,PENDING
+a kind of,en,PENDING
 a little bit,en,PENDING
 a little more,en,PENDING
+a little,en,PENDING
 a long time ago,en,PENDING
 a long way,en,PENDING
-a lot,en,PENDING
 a lot more,en,PENDING
 a lot of sth,en,PENDING
+a lot,en,PENDING
 a means of sth,en,PENDING
 a number of sth,en,PENDING
 a period of time,en,PENDING
@@ -72,8 +72,8 @@ as much as,en,PENDING
 as of…,en,PENDING
 as opposed to,en,PENDING
 as part of sth,en,PENDING
-as soon as,en,PENDING
 as soon as possible,en,PENDING
+as soon as,en,PENDING
 as such,en,PENDING
 as though…,en,PENDING
 as to,en,PENDING
@@ -91,17 +91,17 @@ at school,en,PENDING
 at some point,en,PENDING
 at the age of…,en,PENDING
 at the beginning of sth,en,PENDING
-at the end,en,PENDING
 at the end of sth,en,PENDING
 at the end of the day,en,PENDING
+at the end,en,PENDING
 at the expense of sb,en,PENDING
 at the expense of sth,en,PENDING
 at the hands of sb,en,PENDING
 at the moment,en,PENDING
 at the same time,en,PENDING
 at the start of sth,en,PENDING
-at the time,en,PENDING
 at the time of sth,en,PENDING
+at the time,en,PENDING
 at the top,en,PENDING
 at the weekend,en,PENDING
 at this point,en,PENDING
@@ -168,7 +168,7 @@ by the time that…,en,PENDING
 by the time …,en,PENDING
 call for sth,en,PENDING
 call on sb,en,PENDING
-can't afford sth,en,PENDING
+cant afford sth,en,PENDING
 car park,en,PENDING
 care about sth,en,PENDING
 care for sb,en,PENDING
@@ -305,8 +305,8 @@ get in,en,PENDING
 get lost,en,PENDING
 get married,en,PENDING
 get off,en,PENDING
-get on,en,PENDING
 get on with sb,en,PENDING
+get on,en,PENDING
 get out,en,PENDING
 get over sb,en,PENDING
 get over sth,en,PENDING
@@ -326,8 +326,8 @@ go ahead,en,PENDING
 go and…,en,PENDING
 go away,en,PENDING
 go back,en,PENDING
-go down,en,PENDING
 go down sth,en,PENDING
+go down,en,PENDING
 go for sth,en,PENDING
 go home,en,PENDING
 go into sth,en,PENDING
@@ -360,8 +360,8 @@ happy with sth,en,PENDING
 hard work,en,PENDING
 have a look,en,PENDING
 have fun,en,PENDING
-have got,en,PENDING
 have got to,en,PENDING
+have got,en,PENDING
 have no idea,en,PENDING
 have nothing to do with sb,en,PENDING
 have nothing to do with sth,en,PENDING
@@ -389,19 +389,19 @@ how much…?,en,PENDING
 how often…?,en,PENDING
 human being,en,PENDING
 human rights,en,PENDING
-i don't care,en,PENDING
+i dont care,en,PENDING
 i guess,en,PENDING
 i have to say…,en,PENDING
 i mean,en,PENDING
 i think so,en,PENDING
 i wonder if…,en,PENDING
 i would say…,en,PENDING
-i'm afraid…,en,PENDING
-i'm sorry,en,PENDING
 if i were you,en,PENDING
 if necessary,en,PENDING
 if only…,en,PENDING
 if you want to,en,PENDING
+im afraid…,en,PENDING
+im sorry,en,PENDING
 important for sb,en,PENDING
 important for sth,en,PENDING
 in a position to do sth,en,PENDING
@@ -682,8 +682,8 @@ result in sth,en,PENDING
 right now,en,PENDING
 rise in sth,en,PENDING
 role model,en,PENDING
-run out,en,PENDING
 run out of sth,en,PENDING
+run out,en,PENDING
 save money,en,PENDING
 science fiction,en,PENDING
 search engine,en,PENDING
@@ -751,7 +751,7 @@ thanks to sb,en,PENDING
 thanks to sth,en,PENDING
 that day,en,PENDING
 that is,en,PENDING
-that's it,en,PENDING
+thats it,en,PENDING
 the 20th century,en,PENDING
 the best thing,en,PENDING
 the case,en,PENDING
@@ -838,4 +838,4 @@ x years ago,en,PENDING
 x years later,en,PENDING
 x years old,en,PENDING
 you see,en,PENDING
-you're welcome,en,PENDING
+youre welcome,en,PENDING

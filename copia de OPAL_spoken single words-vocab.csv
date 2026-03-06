@@ -1,9 +1,9 @@
 lemma,language_code,status
 ability,en,PENDING
 absolute,en,PENDING
+academic purposes . this list gives the 600 most important words in academic speaking,en,PENDING
+academic purposes eap. this list gives the 600 most important words in academic speaking,en,PENDING
 academic,en,PENDING
-"academic purposes . this list gives the 600 most important words in academic speaking,",en,PENDING
-"academic purposes eap. this list gives the 600 most important words in academic speaking,",en,PENDING
 access,en,PENDING
 according to,en,PENDING
 account,en,PENDING
@@ -27,8 +27,8 @@ amount,en,PENDING
 an essential guide to the most important words and phrases to know in the field of english for,en,PENDING
 analyse,en,PENDING
 analysis,en,PENDING
-"and a subset of the british academic spoken english base corpus, developed within the university of warwick",en,PENDING
-"and a subset of the british academic spoken english corpus, developed within the university of warwick",en,PENDING
+and a subset of the british academic spoken english base corpus developed within the university of warwick,en,PENDING
+and a subset of the british academic spoken english corpus developed within the university of warwick,en,PENDING
 and for which relevant permissions have been obtained. base was developed at the universities of warwick and,en,PENDING
 answer,en,PENDING
 appear,en,PENDING
@@ -70,7 +70,7 @@ body,en,PENDING
 briefly,en,PENDING
 broad,en,PENDING
 call,en,PENDING
-can modal,en,PENDING
+can,en,PENDING
 capacity,en,PENDING
 care,en,PENDING
 case,en,PENDING
@@ -164,7 +164,7 @@ distinct,en,PENDING
 distinctio,en,PENDING
 distinguish,en,PENDING
 divide,en,PENDING
-"divided into six sublists of 100 words each, with the most important words in sublist 1.",en,PENDING
+divided into six sublists of 100 words each with the most important words in sublist 1,en,PENDING
 draw,en,PENDING
 duty,en,PENDING
 early,en,PENDING
@@ -232,7 +232,7 @@ framework,en,PENDING
 free,en,PENDING
 functio,en,PENDING
 fundamental,en,PENDING
-"funding from baleap, euralex, the british academy and the arts and humanities research council.",en,PENDING
+funding from baleap euralex the british academy and the arts and humanities research council,en,PENDING
 gai,en,PENDING
 gender,en,PENDING
 general,en,PENDING
@@ -325,11 +325,11 @@ maintai,en,PENDING
 major,en,PENDING
 majority,en,PENDING
 male,en,PENDING
-many det.,en,PENDING
 many pro,en,PENDING
+many,en,PENDING
 material,en,PENDING
 maximum,en,PENDING
-may modal,en,PENDING
+may,en,PENDING
 means,en,PENDING
 measure,en,PENDING
 mechanism,en,PENDING
@@ -338,7 +338,7 @@ mental,en,PENDING
 mentio,en,PENDING
 method,en,PENDING
 middle,en,PENDING
-might modal,en,PENDING
+might,en,PENDING
 model,en,PENDING
 moder,en,PENDING
 module,en,PENDING
@@ -381,8 +381,8 @@ particular,en,PENDING
 particularly,en,PENDING
 partly,en,PENDING
 patter,en,PENDING
-per,en,PENDING
 per cent,en,PENDING
+per,en,PENDING
 perceive,en,PENDING
 perfectly,en,PENDING
 perform,en,PENDING
@@ -444,8 +444,8 @@ reach,en,PENDING
 react,en,PENDING
 reactio,en,PENDING
 read,en,PENDING
-reading,en,PENDING
 reading under the directorship of hilary nesi and paul thompson. corpus development of base was assisted by,en,PENDING
+reading,en,PENDING
 real,en,PENDING
 reality,en,PENDING
 reaso,en,PENDING
@@ -475,7 +475,7 @@ risk,en,PENDING
 role,en,PENDING
 roughly,en,PENDING
 rule,en,PENDING
-"same adj., pro",en,PENDING
+same pro,en,PENDING
 sample,en,PENDING
 scale,en,PENDING
 science,en,PENDING
@@ -557,10 +557,10 @@ terms,en,PENDING
 test,en,PENDING
 text,en,PENDING
 textbook,en,PENDING
-"the fiction subcorpus of the oxford english corpus , the spoken element of the british national corpus",en,PENDING
-"the fiction subcorpus of the oxford english corpus , the spoken element of the british national corpus bnc",en,PENDING
-"the fiction subcorpus of the oxford english corpus oec, the spoken element of the british national corpus",en,PENDING
-"the fiction subcorpus of the oxford english corpus oec, the spoken element of the british national corpus bnc",en,PENDING
+the fiction subcorpus of the oxford english corpus  the spoken element of the british national corpus bnc,en,PENDING
+the fiction subcorpus of the oxford english corpus  the spoken element of the british national corpus,en,PENDING
+the fiction subcorpus of the oxford english corpus oec the spoken element of the british national corpus bnc,en,PENDING
+the fiction subcorpus of the oxford english corpus oec the spoken element of the british national corpus,en,PENDING
 theme,en,PENDING
 theoretical,en,PENDING
 theory,en,PENDING
@@ -606,8 +606,8 @@ view,en,PENDING
 volume,en,PENDING
 way,en,PENDING
 welfare,en,PENDING
-whatever det.,en,PENDING
 whatever pro,en,PENDING
+whatever,en,PENDING
 whereas,en,PENDING
 whole,en,PENDING
 withi,en,PENDING

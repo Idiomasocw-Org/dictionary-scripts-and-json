@@ -6,9 +6,9 @@ above,en,PENDING
 absence,en,PENDING
 absent,en,PENDING
 absolute,en,PENDING
+academic purposes . this list gives the 1 200 most important words in academic writing,en,PENDING
+academic purposes eap. this list gives the 1 200 most important words in academic writing,en,PENDING
 academic,en,PENDING
-"academic purposes . this list gives the 1 200 most important words in academic writing,",en,PENDING
-"academic purposes eap. this list gives the 1 200 most important words in academic writing,",en,PENDING
 accept,en,PENDING
 acceptable,en,PENDING
 acceptance,en,PENDING
@@ -70,8 +70,8 @@ analyse,en,PENDING
 analysis,en,PENDING
 analyst,en,PENDING
 analytical,en,PENDING
-"and a subset of the british academic spoken english base corpus, developed within the university of warwick",en,PENDING
-"and a subset of the british academic spoken english corpus, developed within the university of warwick",en,PENDING
+and a subset of the british academic spoken english base corpus developed within the university of warwick,en,PENDING
+and a subset of the british academic spoken english corpus developed within the university of warwick,en,PENDING
 and for which relevant permissions have been obtained. base was developed at the universities of warwick and,en,PENDING
 animal,en,PENDING
 annual,en,PENDING
@@ -133,7 +133,7 @@ bias,en,PENDING
 broad,en,PENDING
 broadly,en,PENDING
 burde,en,PENDING
-can modal,en,PENDING
+can,en,PENDING
 capability,en,PENDING
 capable,en,PENDING
 capacity,en,PENDING
@@ -336,7 +336,7 @@ distributio,en,PENDING
 diverse,en,PENDING
 diversity,en,PENDING
 divide,en,PENDING
-"divided into twelve sublists of 100 words each, with the most important words in sublist 1.",en,PENDING
+divided into twelve sublists of 100 words each with the most important words in sublist 1,en,PENDING
 divisio,en,PENDING
 document,en,PENDING
 domai,en,PENDING
@@ -490,8 +490,8 @@ functional,en,PENDING
 fund,en,PENDING
 fundamental,en,PENDING
 fundamentally,en,PENDING
+funding from baleap euralex the british academy and the arts and humanities research council,en,PENDING
 funding,en,PENDING
-"funding from baleap, euralex, the british academy and the arts and humanities research council.",en,PENDING
 further,en,PENDING
 furthermore,en,PENDING
 future,en,PENDING
@@ -647,7 +647,7 @@ leadership,en,PENDING
 learning,en,PENDING
 legal,en,PENDING
 legally,en,PENDING
-"less adv., det., pro",en,PENDING
+less pro,en,PENDING
 level,en,PENDING
 likely,en,PENDING
 limit,en,PENDING
@@ -671,13 +671,13 @@ maintai,en,PENDING
 major,en,PENDING
 majority,en,PENDING
 male,en,PENDING
-many det.,en,PENDING
+many,en,PENDING
 margi,en,PENDING
 material,en,PENDING
 matter,en,PENDING
 maximize,en,PENDING
 maximum,en,PENDING
-may modal,en,PENDING
+may,en,PENDING
 meaning,en,PENDING
 meaningful,en,PENDING
 means,en,PENDING
@@ -692,7 +692,7 @@ mental,en,PENDING
 method,en,PENDING
 methodological,en,PENDING
 methodology,en,PENDING
-might modal,en,PENDING
+might,en,PENDING
 migrate,en,PENDING
 migratio,en,PENDING
 minimal,en,PENDING
@@ -713,12 +713,12 @@ modernizatio,en,PENDING
 modify,en,PENDING
 monitor,en,PENDING
 moreover,en,PENDING
-most det.,en,PENDING
+most,en,PENDING
 motivate,en,PENDING
 motivatio,en,PENDING
 movement,en,PENDING
 multiple,en,PENDING
-must modal,en,PENDING
+must,en,PENDING
 namely,en,PENDING
 national,en,PENDING
 natural,en,PENDING
@@ -791,8 +791,8 @@ particular,en,PENDING
 particularly,en,PENDING
 partly,en,PENDING
 patter,en,PENDING
-per,en,PENDING
 per cent,en,PENDING
+per,en,PENDING
 perceive,en,PENDING
 percentage,en,PENDING
 perceptio,en,PENDING
@@ -1017,7 +1017,7 @@ sexuality,en,PENDING
 shape,en,PENDING
 share,en,PENDING
 shift,en,PENDING
-should modal,en,PENDING
+should,en,PENDING
 show,en,PENDING
 significance,en,PENDING
 significant,en,PENDING
@@ -1087,7 +1087,7 @@ substitute,en,PENDING
 substitutio,en,PENDING
 successful,en,PENDING
 successfully,en,PENDING
-such det.,en,PENDING
+such,en,PENDING
 sufficient,en,PENDING
 sufficiently,en,PENDING
 suggest,en,PENDING
@@ -1096,7 +1096,7 @@ sum,en,PENDING
 summarize,en,PENDING
 summary,en,PENDING
 supply,en,PENDING
-"support n., v,",en,PENDING
+support,en,PENDING
 survey,en,PENDING
 survival,en,PENDING
 sustai,en,PENDING
@@ -1118,10 +1118,10 @@ terms,en,PENDING
 territory,en,PENDING
 test,en,PENDING
 text,en,PENDING
-"the fiction subcorpus of the oxford english corpus , the spoken element of the british national corpus",en,PENDING
-"the fiction subcorpus of the oxford english corpus , the spoken element of the british national corpus bnc",en,PENDING
-"the fiction subcorpus of the oxford english corpus oec, the spoken element of the british national corpus",en,PENDING
-"the fiction subcorpus of the oxford english corpus oec, the spoken element of the british national corpus bnc",en,PENDING
+the fiction subcorpus of the oxford english corpus  the spoken element of the british national corpus bnc,en,PENDING
+the fiction subcorpus of the oxford english corpus  the spoken element of the british national corpus,en,PENDING
+the fiction subcorpus of the oxford english corpus oec the spoken element of the british national corpus bnc,en,PENDING
+the fiction subcorpus of the oxford english corpus oec the spoken element of the british national corpus,en,PENDING
 theme,en,PENDING
 theoretical,en,PENDING
 theoretically,en,PENDING

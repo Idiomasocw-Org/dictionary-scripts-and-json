@@ -1,7 +1,5 @@
 lemma,language_code,status
-"a, an indefinite article",en,PENDING
-a1,en,PENDING
-a2,en,PENDING
+a an indefinite,en,PENDING
 abando,en,PENDING
 ability,en,PENDING
 able,en,PENDING
@@ -72,7 +70,7 @@ aggressive,en,PENDING
 ago,en,PENDING
 agree,en,PENDING
 agreement,en,PENDING
-ah exclam.,en,PENDING
+ah exclam,en,PENDING
 ahead,en,PENDING
 aid,en,PENDING
 aim,en,PENDING
@@ -85,10 +83,10 @@ album,en,PENDING
 alcohol,en,PENDING
 alcoholic,en,PENDING
 alive,en,PENDING
+all pro,en,PENDING
+all right exclam,en,PENDING
+all right exclam,en,PENDING
 all,en,PENDING
-"all det., pro",en,PENDING
-all right adj. exclam.,en,PENDING
-"all right adv., exclam.",en,PENDING
 allow,en,PENDING
 almost,en,PENDING
 alone,en,PENDING
@@ -122,18 +120,18 @@ annoy,en,PENDING
 annoyed,en,PENDING
 annoying,en,PENDING
 annual,en,PENDING
-another det.,en,PENDING
 another pro,en,PENDING
+another,en,PENDING
 answer,en,PENDING
 anxious,en,PENDING
-any,en,PENDING
-"any det., pro",en,PENDING
 any more,en,PENDING
+any pro,en,PENDING
+any,en,PENDING
 anybody pro,en,PENDING
 anyone pro,en,PENDING
 anything pro,en,PENDING
 anyway,en,PENDING
-"anywhere adv., pro",en,PENDING
+anywhere pro,en,PENDING
 apart,en,PENDING
 apartment,en,PENDING
 apologize,en,PENDING
@@ -196,7 +194,7 @@ attach,en,PENDING
 attack,en,PENDING
 attempt,en,PENDING
 attend,en,PENDING
-"attention n., exclam.",en,PENDING
+attention exclam,en,PENDING
 attitude,en,PENDING
 attract,en,PENDING
 attractio,en,PENDING
@@ -214,8 +212,6 @@ award,en,PENDING
 aware,en,PENDING
 away,en,PENDING
 awful,en,PENDING
-b1,en,PENDING
-b2,en,PENDING
 ba,en,PENDING
 baby,en,PENDING
 back,en,PENDING
@@ -230,9 +226,9 @@ balance,en,PENDING
 ball,en,PENDING
 banana,en,PENDING
 band,en,PENDING
-bank,en,PENDING
 bank money,en,PENDING
 bank river,en,PENDING
+bank,en,PENDING
 bar,en,PENDING
 barrier,en,PENDING
 base,en,PENDING
@@ -249,9 +245,9 @@ battle,en,PENDING
 be,en,PENDING
 bea,en,PENDING
 beach,en,PENDING
-bear,en,PENDING
 bear animal,en,PENDING
 bear deal with,en,PENDING
+bear,en,PENDING
 beat,en,PENDING
 beautiful,en,PENDING
 beauty,en,PENDING
@@ -323,8 +319,8 @@ bored,en,PENDING
 boring,en,PENDING
 borrow,en,PENDING
 boss,en,PENDING
-both det.,en,PENDING
 both pro,en,PENDING
+both,en,PENDING
 bother,en,PENDING
 bottle,en,PENDING
 bottom,en,PENDING
@@ -373,7 +369,7 @@ butter,en,PENDING
 butto,en,PENDING
 buy,en,PENDING
 by,en,PENDING
-bye exclam.,en,PENDING
+bye exclam,en,PENDING
 cable,en,PENDING
 cafe,en,PENDING
 cake,en,PENDING
@@ -385,12 +381,12 @@ camp,en,PENDING
 campaig,en,PENDING
 camping,en,PENDING
 campus,en,PENDING
-can1 modal,en,PENDING
+can1,en,PENDING
 can2,en,PENDING
 cancel,en,PENDING
 cancer,en,PENDING
 candidate,en,PENDING
-cannot modal,en,PENDING
+cannot,en,PENDING
 cap,en,PENDING
 capable,en,PENDING
 capacity,en,PENDING
@@ -612,7 +608,7 @@ cost,en,PENDING
 costume,en,PENDING
 cottage,en,PENDING
 cotto,en,PENDING
-could modal,en,PENDING
+could,en,PENDING
 council,en,PENDING
 count,en,PENDING
 country,en,PENDING
@@ -681,8 +677,8 @@ daughter,en,PENDING
 day,en,PENDING
 dead,en,PENDING
 deal,en,PENDING
+dear exclam,en,PENDING
 dear,en,PENDING
-dear exclam.,en,PENDING
 death,en,PENDING
 debate,en,PENDING
 debt,en,PENDING
@@ -802,14 +798,14 @@ domestic,en,PENDING
 dominate,en,PENDING
 donate,en,PENDING
 door,en,PENDING
+double pro,en,PENDING
 double,en,PENDING
-"double adj., det., pro",en,PENDING
 doubt,en,PENDING
 dow,en,PENDING
 download,en,PENDING
 downstairs,en,PENDING
 downwards,en,PENDING
-"dozen n., det.",en,PENDING
+dozen,en,PENDING
 draft,en,PENDING
 drag,en,PENDING
 drama,en,PENDING
@@ -833,8 +829,8 @@ during,en,PENDING
 dust,en,PENDING
 duty,en,PENDING
 dvd,en,PENDING
-each det.,en,PENDING
 each pro,en,PENDING
+each,en,PENDING
 ear,en,PENDING
 early,en,PENDING
 earth,en,PENDING
@@ -863,8 +859,8 @@ egg,en,PENDING
 eight number,en,PENDING
 eighteen number,en,PENDING
 eighty number,en,PENDING
-either det.,en,PENDING
 either pro,en,PENDING
+either,en,PENDING
 elderly,en,PENDING
 elect,en,PENDING
 electio,en,PENDING
@@ -906,7 +902,7 @@ engineering,en,PENDING
 enhance,en,PENDING
 enjoy,en,PENDING
 enormous,en,PENDING
-"enough det., pro",en,PENDING
+enough pro,en,PENDING
 enquiry,en,PENDING
 ensure,en,PENDING
 enter,en,PENDING
@@ -940,7 +936,7 @@ evening,en,PENDING
 event,en,PENDING
 eventually,en,PENDING
 ever,en,PENDING
-every det.,en,PENDING
+every,en,PENDING
 everybody pro,en,PENDING
 everyday,en,PENDING
 everyone pro,en,PENDING
@@ -1040,8 +1036,8 @@ fellow,en,PENDING
 female,en,PENDING
 fence,en,PENDING
 festival,en,PENDING
-"few adj., pro",en,PENDING
-few det. pro,en,PENDING
+few pro,en,PENDING
+few pro,en,PENDING
 fictio,en,PENDING
 field,en,PENDING
 fifteen number,en,PENDING
@@ -1064,9 +1060,8 @@ finger,en,PENDING
 finish,en,PENDING
 fire,en,PENDING
 firm,en,PENDING
-first,en,PENDING
-first det.,en,PENDING
 first number,en,PENDING
+first,en,PENDING
 firstly,en,PENDING
 fish,en,PENDING
 fishing,en,PENDING
@@ -1189,7 +1184,7 @@ god,en,PENDING
 gold,en,PENDING
 golf,en,PENDING
 good,en,PENDING
-goodbye exclam.,en,PENDING
+goodbye exclam,en,PENDING
 goods,en,PENDING
 gover,en,PENDING
 government,en,PENDING
@@ -1225,9 +1220,8 @@ guy,en,PENDING
 gym,en,PENDING
 habit,en,PENDING
 hair,en,PENDING
+half pro,en,PENDING
 half,en,PENDING
-"half n., det.",en,PENDING
-"half n., pro",en,PENDING
 hall,en,PENDING
 hand,en,PENDING
 handle,en,PENDING
@@ -1242,8 +1236,8 @@ harm,en,PENDING
 harmful,en,PENDING
 hat,en,PENDING
 hate,en,PENDING
+have to,en,PENDING
 have,en,PENDING
-have to modal,en,PENDING
 he pro,en,PENDING
 head,en,PENDING
 headache,en,PENDING
@@ -1262,17 +1256,17 @@ heel,en,PENDING
 height,en,PENDING
 helicopter,en,PENDING
 hell,en,PENDING
-hello exclam.,en,PENDING
+hello exclam,en,PENDING
 help,en,PENDING
 helpful,en,PENDING
-"her pron., det.",en,PENDING
+her,en,PENDING
 here,en,PENDING
 hero,en,PENDING
 hers pro,en,PENDING
 herself pro,en,PENDING
 hesitate,en,PENDING
-hey exclam.,en,PENDING
-hi exclam.,en,PENDING
+hey exclam,en,PENDING
+hi exclam,en,PENDING
 hide,en,PENDING
 high,en,PENDING
 highlight,en,PENDING
@@ -1281,8 +1275,8 @@ hill,en,PENDING
 him pro,en,PENDING
 himself pro,en,PENDING
 hire,en,PENDING
-his det.,en,PENDING
 his pro,en,PENDING
+his,en,PENDING
 historic,en,PENDING
 historical,en,PENDING
 history,en,PENDING
@@ -1324,10 +1318,9 @@ hurricane,en,PENDING
 hurry,en,PENDING
 hurt,en,PENDING
 husband,en,PENDING
-i,en,PENDING
 i pro,en,PENDING
-ice,en,PENDING
 ice cream,en,PENDING
+ice,en,PENDING
 idea,en,PENDING
 ideal,en,PENDING
 identify,en,PENDING
@@ -1438,10 +1431,10 @@ involved,en,PENDING
 iro,en,PENDING
 island,en,PENDING
 issue,en,PENDING
-it,en,PENDING
 it pro,en,PENDING
+it,en,PENDING
 item,en,PENDING
-its det.,en,PENDING
+its,en,PENDING
 itself pro,en,PENDING
 jacket,en,PENDING
 jam,en,PENDING
@@ -1475,9 +1468,9 @@ kid,en,PENDING
 kill,en,PENDING
 killing,en,PENDING
 kilometre,en,PENDING
-kind,en,PENDING
 kind caring,en,PENDING
 kind type,en,PENDING
+kind,en,PENDING
 king,en,PENDING
 kiss,en,PENDING
 kitche,en,PENDING
@@ -1500,11 +1493,9 @@ language,en,PENDING
 laptop,en,PENDING
 large,en,PENDING
 largely,en,PENDING
-last1,en,PENDING
-last1 det.,en,PENDING
 last1 final,en,PENDING
-last1 final det.,en,PENDING
 last1 taking time,en,PENDING
+last1,en,PENDING
 late,en,PENDING
 later,en,PENDING
 latest,en,PENDING
@@ -1525,8 +1516,8 @@ leaf,en,PENDING
 league,en,PENDING
 lear,en,PENDING
 learning,en,PENDING
-least det.,en,PENDING
 least pro,en,PENDING
+least,en,PENDING
 leather,en,PENDING
 leave,en,PENDING
 lecture,en,PENDING
@@ -1537,8 +1528,8 @@ leisure,en,PENDING
 lemo,en,PENDING
 lend,en,PENDING
 length,en,PENDING
-less det.,en,PENDING
 less pro,en,PENDING
+less,en,PENDING
 lesso,en,PENDING
 let,en,PENDING
 letter,en,PENDING
@@ -1546,22 +1537,19 @@ level,en,PENDING
 library,en,PENDING
 licence,en,PENDING
 lie1,en,PENDING
-lie2,en,PENDING
 lie2 tell a lie,en,PENDING
+lie2,en,PENDING
 life,en,PENDING
 lifestyle,en,PENDING
 lift,en,PENDING
-light,en,PENDING
 light from the a lamp,en,PENDING
-"light from the a lamp n.,",en,PENDING
 light from the sun lamp,en,PENDING
-"light from the sun lamp n.,",en,PENDING
-"light n.,",en,PENDING
 light not heavy,en,PENDING
-like,en,PENDING
+light,en,PENDING
 like find sb pleasant,en,PENDING
 like find sth pleasant,en,PENDING
 like similar,en,PENDING
+like,en,PENDING
 likely,en,PENDING
 limit,en,PENDING
 limited,en,PENDING
@@ -1574,9 +1562,8 @@ list,en,PENDING
 liste,en,PENDING
 listener,en,PENDING
 literature,en,PENDING
+little pro,en,PENDING
 little,en,PENDING
-"little adj., det.",en,PENDING
-"little adj., pro",en,PENDING
 live1,en,PENDING
 live2,en,PENDING
 lively,en,PENDING
@@ -1599,7 +1586,7 @@ lorry,en,PENDING
 lose,en,PENDING
 loss,en,PENDING
 lost,en,PENDING
-"lot pron., det.",en,PENDING
+lot,en,PENDING
 loud,en,PENDING
 loudly,en,PENDING
 love,en,PENDING
@@ -1629,8 +1616,8 @@ manage,en,PENDING
 management,en,PENDING
 manager,en,PENDING
 manner,en,PENDING
-many det.,en,PENDING
 many pro,en,PENDING
+many,en,PENDING
 map,en,PENDING
 march,en,PENDING
 mark,en,PENDING
@@ -1642,9 +1629,9 @@ marry,en,PENDING
 mass,en,PENDING
 massive,en,PENDING
 master,en,PENDING
-match,en,PENDING
 match contest,en,PENDING
 match correspond,en,PENDING
+match,en,PENDING
 matching,en,PENDING
 material,en,PENDING
 mathematics,en,PENDING
@@ -1652,7 +1639,6 @@ maths,en,PENDING
 matter,en,PENDING
 maximum,en,PENDING
 may,en,PENDING
-may modal,en,PENDING
 maybe,en,PENDING
 me pro,en,PENDING
 mea,en,PENDING
@@ -1682,17 +1668,17 @@ method,en,PENDING
 metre,en,PENDING
 middle,en,PENDING
 midnight,en,PENDING
-might modal,en,PENDING
+might,en,PENDING
 mild,en,PENDING
 mile,en,PENDING
 military,en,PENDING
 milk,en,PENDING
 million number,en,PENDING
 mind,en,PENDING
-mine,en,PENDING
 mine belongs to me pro,en,PENDING
 mine hole in the ground,en,PENDING
 mine pro,en,PENDING
+mine,en,PENDING
 mineral,en,PENDING
 minimum,en,PENDING
 minister,en,PENDING
@@ -1720,11 +1706,11 @@ month,en,PENDING
 moo,en,PENDING
 mood,en,PENDING
 moral,en,PENDING
-more det.,en,PENDING
 more pro,en,PENDING
+more,en,PENDING
 morning,en,PENDING
-most det.,en,PENDING
 most pro,en,PENDING
+most,en,PENDING
 mostly,en,PENDING
 mother,en,PENDING
 motor,en,PENDING
@@ -1736,8 +1722,8 @@ mouth,en,PENDING
 move,en,PENDING
 movement,en,PENDING
 movie,en,PENDING
-much det.,en,PENDING
 much pro,en,PENDING
+much,en,PENDING
 mud,en,PENDING
 multiple,en,PENDING
 multiply,en,PENDING
@@ -1748,8 +1734,8 @@ museum,en,PENDING
 music,en,PENDING
 musical,en,PENDING
 musicia,en,PENDING
-must modal,en,PENDING
-my det.,en,PENDING
+must,en,PENDING
+my,en,PENDING
 myself pro,en,PENDING
 mysterious,en,PENDING
 mystery,en,PENDING
@@ -1770,14 +1756,12 @@ necessarily,en,PENDING
 necessary,en,PENDING
 neck,en,PENDING
 need,en,PENDING
-need modal,en,PENDING
 needle,en,PENDING
 negative,en,PENDING
 neighbour,en,PENDING
 neighbourhood,en,PENDING
-neither,en,PENDING
-neither det.,en,PENDING
 neither pro,en,PENDING
+neither,en,PENDING
 nerve,en,PENDING
 nervous,en,PENDING
 net,en,PENDING
@@ -1787,15 +1771,15 @@ nevertheless,en,PENDING
 new,en,PENDING
 news,en,PENDING
 newspaper,en,PENDING
-next,en,PENDING
 next to,en,PENDING
+next,en,PENDING
 nice,en,PENDING
 night,en,PENDING
 nightmare,en,PENDING
 nine number,en,PENDING
 nineteen number,en,PENDING
 ninety number,en,PENDING
-"no exclam., det.",en,PENDING
+no exclam,en,PENDING
 no one pro,en,PENDING
 nobody pro,en,PENDING
 noise,en,PENDING
@@ -1821,7 +1805,6 @@ number,en,PENDING
 numerous,en,PENDING
 nurse,en,PENDING
 nut,en,PENDING
-o,en,PENDING
 obey,en,PENDING
 object,en,PENDING
 objective,en,PENDING
@@ -1847,14 +1830,14 @@ office,en,PENDING
 officer,en,PENDING
 official,en,PENDING
 ofte,en,PENDING
-oh exclam.,en,PENDING
+oh exclam,en,PENDING
 oil,en,PENDING
-ok exclam.,en,PENDING
+ok exclam,en,PENDING
 old,en,PENDING
 old-fashioned,en,PENDING
 once,en,PENDING
-"one det., pro",en,PENDING
 one number pro,en,PENDING
+one pro,en,PENDING
 onio,en,PENDING
 online,en,PENDING
 only,en,PENDING
@@ -1883,11 +1866,11 @@ organizer,en,PENDING
 origi,en,PENDING
 original,en,PENDING
 originally,en,PENDING
-other adj.,en,PENDING
 other pro,en,PENDING
+other,en,PENDING
 otherwise,en,PENDING
-ought modal,en,PENDING
-our det.,en,PENDING
+ought,en,PENDING
+our,en,PENDING
 ours pro,en,PENDING
 ourselves pro,en,PENDING
 out,en,PENDING
@@ -1902,8 +1885,8 @@ over,en,PENDING
 overall,en,PENDING
 ow,en,PENDING
 owe,en,PENDING
-own adj.,en,PENDING
 own pro,en,PENDING
+own,en,PENDING
 owner,en,PENDING
 o’clock,en,PENDING
 pa,en,PENDING
@@ -1954,8 +1937,8 @@ penny,en,PENDING
 pension1,en,PENDING
 people,en,PENDING
 pepper,en,PENDING
-per,en,PENDING
 per cent,en,PENDING
+per,en,PENDING
 percentage,en,PENDING
 perfect,en,PENDING
 perfectly,en,PENDING
@@ -2009,8 +1992,8 @@ platform,en,PENDING
 play,en,PENDING
 player,en,PENDING
 pleasant,en,PENDING
+please exclam,en,PENDING
 please,en,PENDING
-please exclam.,en,PENDING
 pleased,en,PENDING
 pleasure,en,PENDING
 plenty pro,en,PENDING
@@ -2167,9 +2150,9 @@ quit,en,PENDING
 quite,en,PENDING
 quotatio,en,PENDING
 quote,en,PENDING
-race,en,PENDING
 race competition,en,PENDING
 race people,en,PENDING
+race,en,PENDING
 racing,en,PENDING
 radio,en,PENDING
 rai,en,PENDING
@@ -2279,10 +2262,10 @@ respond,en,PENDING
 response,en,PENDING
 responsibility,en,PENDING
 responsible,en,PENDING
-rest,en,PENDING
 rest relax,en,PENDING
 rest remaining part,en,PENDING
 rest sleep,en,PENDING
+rest,en,PENDING
 restaurant,en,PENDING
 result,en,PENDING
 retai,en,PENDING
@@ -2307,9 +2290,9 @@ risk,en,PENDING
 river,en,PENDING
 road,en,PENDING
 robot,en,PENDING
-rock,en,PENDING
 rock music,en,PENDING
 rock stone,en,PENDING
+rock,en,PENDING
 role,en,PENDING
 roll,en,PENDING
 romantic,en,PENDING
@@ -2345,7 +2328,7 @@ salad,en,PENDING
 salary,en,PENDING
 sale,en,PENDING
 salt,en,PENDING
-"same adj., pro",en,PENDING
+same pro,en,PENDING
 sample,en,PENDING
 sand,en,PENDING
 sandwich,en,PENDING
@@ -2377,11 +2360,9 @@ sea,en,PENDING
 search,en,PENDING
 seaso,en,PENDING
 seat,en,PENDING
-second1,en,PENDING
-second1 det.,en,PENDING
 second1 next after the first,en,PENDING
-second1 next after the first det.,en,PENDING
 second1 unit of time,en,PENDING
+second1,en,PENDING
 secondary,en,PENDING
 secondly,en,PENDING
 secret,en,PENDING
@@ -2414,23 +2395,23 @@ servant,en,PENDING
 serve,en,PENDING
 service,en,PENDING
 sessio,en,PENDING
-set,en,PENDING
 set group,en,PENDING
 set put,en,PENDING
+set,en,PENDING
 setting,en,PENDING
 settle,en,PENDING
 seven number,en,PENDING
 seventeen number,en,PENDING
 seventy number,en,PENDING
-several det.,en,PENDING
 several pro,en,PENDING
+several,en,PENDING
 severe,en,PENDING
 sex,en,PENDING
 sexual,en,PENDING
 shade,en,PENDING
 shadow,en,PENDING
 shake,en,PENDING
-shall modal,en,PENDING
+shall,en,PENDING
 shallow,en,PENDING
 shame,en,PENDING
 shape,en,PENDING
@@ -2456,7 +2437,7 @@ shop,en,PENDING
 shopping,en,PENDING
 short,en,PENDING
 shot,en,PENDING
-should modal,en,PENDING
+should,en,PENDING
 shoulder,en,PENDING
 shout,en,PENDING
 show,en,PENDING
@@ -2534,16 +2515,16 @@ soldier,en,PENDING
 solid,en,PENDING
 solutio,en,PENDING
 solve,en,PENDING
-"some det., pro",en,PENDING
+some pro,en,PENDING
 somebody pro,en,PENDING
 someone pro,en,PENDING
 something pro,en,PENDING
 sometimes,en,PENDING
 somewhat,en,PENDING
-"somewhere adv., pro",en,PENDING
+somewhere pro,en,PENDING
 song,en,PENDING
 soo,en,PENDING
-"sorry adj., exclam.",en,PENDING
+sorry exclam,en,PENDING
 sort,en,PENDING
 soul,en,PENDING
 sound,en,PENDING
@@ -2601,10 +2582,10 @@ steal,en,PENDING
 steel,en,PENDING
 steep,en,PENDING
 step,en,PENDING
-stick,en,PENDING
 stick piece of wood,en,PENDING
 stick push attach,en,PENDING
 stick push into,en,PENDING
+stick,en,PENDING
 sticky,en,PENDING
 stiff,en,PENDING
 still,en,PENDING
@@ -2645,8 +2626,8 @@ succeed,en,PENDING
 success,en,PENDING
 successful,en,PENDING
 successfully,en,PENDING
-such det.,en,PENDING
 such pro,en,PENDING
+such,en,PENDING
 sudde,en,PENDING
 suddenly,en,PENDING
 suffer,en,PENDING
@@ -2688,7 +2669,6 @@ symbol,en,PENDING
 sympathy,en,PENDING
 symptom,en,PENDING
 system,en,PENDING
-t,en,PENDING
 t-shirt,en,PENDING
 table,en,PENDING
 tablet,en,PENDING
@@ -2733,15 +2713,15 @@ test,en,PENDING
 text,en,PENDING
 tha,en,PENDING
 thank,en,PENDING
-thanks exclam.,en,PENDING
+thanks exclam,en,PENDING
+that pro,en,PENDING
 that,en,PENDING
-"that det., pro",en,PENDING
-the,en,PENDING
-the definite article,en,PENDING
-"the oxford 3000 is the list of the 3000 most important words to learn in english, from a 1 to b2 level.",en,PENDING
+the definite,en,PENDING
+the oxford 3000 is the list of the 3000 most important words to learn in english from a 1 to level,en,PENDING
 the oxford 3000™ by cefr level,en,PENDING
+the,en,PENDING
 theatre,en,PENDING
-their det.,en,PENDING
+their,en,PENDING
 theirs pro,en,PENDING
 them pro,en,PENDING
 theme,en,PENDING
@@ -2757,14 +2737,13 @@ thief,en,PENDING
 thing,en,PENDING
 think,en,PENDING
 thinking,en,PENDING
-third,en,PENDING
 third number,en,PENDING
+third,en,PENDING
 thirsty,en,PENDING
 thirteen number,en,PENDING
 thirty number,en,PENDING
-this,en,PENDING
-this det.,en,PENDING
 this pro,en,PENDING
+this,en,PENDING
 though,en,PENDING
 thought,en,PENDING
 thousand number,en,PENDING
@@ -2788,7 +2767,7 @@ tiny,en,PENDING
 tip,en,PENDING
 tired,en,PENDING
 title,en,PENDING
-"to prep., infinitive marker",en,PENDING
+to infinitive marker,en,PENDING
 today,en,PENDING
 toe,en,PENDING
 together,en,PENDING
@@ -2905,7 +2884,7 @@ urba,en,PENDING
 urge,en,PENDING
 us pro,en,PENDING
 use,en,PENDING
-used to modal,en,PENDING
+used to,en,PENDING
 used1,en,PENDING
 used2,en,PENDING
 useful,en,PENDING
@@ -2980,33 +2959,31 @@ week,en,PENDING
 weekend,en,PENDING
 weigh,en,PENDING
 weight,en,PENDING
+welcome exclam,en,PENDING
 welcome,en,PENDING
-welcome exclam.,en,PENDING
-"well adv., adj., exclam.",en,PENDING
+well exclam,en,PENDING
 west,en,PENDING
 wester,en,PENDING
 wet,en,PENDING
-what det.,en,PENDING
-what pron.,en,PENDING
-whatever det.,en,PENDING
+what,en,PENDING
 whatever pro,en,PENDING
+whatever,en,PENDING
 wheel,en,PENDING
-"when adv., pro",en,PENDING
+when pro,en,PENDING
 whenever,en,PENDING
 where,en,PENDING
 whereas,en,PENDING
 wherever,en,PENDING
 whether,en,PENDING
-which det.,en,PENDING
-which pron.,en,PENDING
+which,en,PENDING
 while,en,PENDING
 whisper,en,PENDING
 white,en,PENDING
 who pro,en,PENDING
 whole,en,PENDING
 whom pro,en,PENDING
-whose det.,en,PENDING
 whose pro,en,PENDING
+whose,en,PENDING
 why,en,PENDING
 wi,en,PENDING
 wide,en,PENDING
@@ -3015,7 +2992,6 @@ wife,en,PENDING
 wild,en,PENDING
 wildlife,en,PENDING
 will,en,PENDING
-will modal,en,PENDING
 willing,en,PENDING
 wind1,en,PENDING
 wind2,en,PENDING
@@ -3048,9 +3024,9 @@ worry,en,PENDING
 worse,en,PENDING
 worst,en,PENDING
 worth,en,PENDING
-would modal,en,PENDING
+would,en,PENDING
 wound,en,PENDING
-wow exclam.,en,PENDING
+wow exclam,en,PENDING
 wrap,en,PENDING
 write,en,PENDING
 writer,en,PENDING
@@ -3058,15 +3034,15 @@ writing,en,PENDING
 writte,en,PENDING
 wrong,en,PENDING
 yard,en,PENDING
-yeah exclam.,en,PENDING
+yeah exclam,en,PENDING
 year,en,PENDING
 yellow,en,PENDING
-yes exclam.,en,PENDING
+yes exclam,en,PENDING
 yesterday,en,PENDING
 yet,en,PENDING
 you pro,en,PENDING
 young,en,PENDING
-your det.,en,PENDING
+your,en,PENDING
 yours pro,en,PENDING
 yourself pro,en,PENDING
 youth,en,PENDING
