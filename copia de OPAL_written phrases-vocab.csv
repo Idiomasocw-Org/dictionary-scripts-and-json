@@ -1,8 +1,4 @@
 lemma,language_code,status
-1 1. expressing the existence of something,en,PENDING
-1 1. expressing the non-existence of something,en,PENDING
-1 2. referring to the text and to other texts,en,PENDING
-7 . making contrasts,en,PENDING
 a better understanding of,en,PENDING
 a change i,en,PENDING
 a combination of,en,PENDING
@@ -40,9 +36,6 @@ an important role to play i,en,PENDING
 an increase i,en,PENDING
 an integral part of,en,PENDING
 an understanding of,en,PENDING
-and a subset of the british academic spoken english base corpus developed within the university of warwick,en,PENDING
-and a subset of the british academic spoken english corpus developed within the university of warwick,en,PENDING
-and for which relevant permissions have been obtained. base was developed at the universities of warwick and,en,PENDING
 and so o,en,PENDING
 appears to be,en,PENDING
 are associated with,en,PENDING
@@ -142,6 +135,8 @@ even in the absence of,en,PENDING
 evidence for,en,PENDING
 evidence of,en,PENDING
 evidence that,en,PENDING
+expressing the existence of something,en,PENDING
+expressing the non-existence of something,en,PENDING
 feature of,en,PENDING
 features of,en,PENDING
 focus o,en,PENDING
@@ -155,11 +150,8 @@ found to be,en,PENDING
 from the fact that,en,PENDING
 from the perspective of,en,PENDING
 from the point of view of,en,PENDING
-funding from baleap euralex the british academy and the arts and humanities research council,en,PENDING
 give rise to,en,PENDING
 greater,en,PENDING
-guide to the most important words and phrases to know in the field of english for academic purposes eap,en,PENDING
-guide to the most important words and phrases to know in the field of english for academic purposes,en,PENDING
 has been shown to be,en,PENDING
 has been shown to,en,PENDING
 has the potential to,en,PENDING
@@ -310,6 +302,7 @@ less,en,PENDING
 lies at the heart of,en,PENDING
 linked to,en,PENDING
 lower tha,en,PENDING
+making contrasts,en,PENDING
 may be due to,en,PENDING
 may lead to,en,PENDING
 more or less,en,PENDING
@@ -341,11 +334,11 @@ plays an important role in,en,PENDING
 plays an important role,en,PENDING
 prior to,en,PENDING
 rather tha,en,PENDING
-reading under the directorship of hilary nesi and paul thompson. corpus development of base was assisted by,en,PENDING
 reasons for,en,PENDING
 reduction in the number of,en,PENDING
 refer to,en,PENDING
 referred to as,en,PENDING
+referring to the text and to other texts,en,PENDING
 refers to,en,PENDING
 regarded as,en,PENDING
 related to,en,PENDING
@@ -410,10 +403,6 @@ the existence of,en,PENDING
 the extent of,en,PENDING
 the extent to which,en,PENDING
 the fact that,en,PENDING
-the fiction subcorpus of the oxford english corpus  the spoken element of the british national corpus bnc,en,PENDING
-the fiction subcorpus of the oxford english corpus  the spoken element of the british national corpus,en,PENDING
-the fiction subcorpus of the oxford english corpus oec the spoken element of the british national corpus bnc,en,PENDING
-the fiction subcorpus of the oxford english corpus oec the spoken element of the british national corpus,en,PENDING
 the following,en,PENDING
 the form of,en,PENDING
 the formation of,en,PENDING
@@ -493,7 +482,6 @@ this is not the case,en,PENDING
 this is not to say that,en,PENDING
 this is not to suggest that,en,PENDING
 this is the case,en,PENDING
-this list gives around 370 important phrases for academic writing grouped into 1 5 functional areas,en,PENDING
 this means that,en,PENDING
 to a greater or lesser extent,en,PENDING
 to account for,en,PENDING
@@ -517,4 +505,3 @@ with respect to,en,PENDING
 with the exception of,en,PENDING
 with the use of,en,PENDING
 within the context of,en,PENDING
-written phrases,en,PENDING

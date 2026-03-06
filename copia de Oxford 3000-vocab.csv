@@ -1,5 +1,4 @@
 lemma,language_code,status
-a an indefinite,en,PENDING
 abandon,en,PENDING
 ability,en,PENDING
 able,en,PENDING
@@ -85,7 +84,6 @@ album,en,PENDING
 alcohol,en,PENDING
 alcoholic,en,PENDING
 alive,en,PENDING
-all right exclam.,en,PENDING
 all right exclam.,en,PENDING
 all,en,PENDING
 allow,en,PENDING
@@ -675,7 +673,7 @@ daughter,en,PENDING
 day,en,PENDING
 dead,en,PENDING
 deal,en,PENDING
-dear  exclam.,en,PENDING
+dear exclam.,en,PENDING
 death,en,PENDING
 debate,en,PENDING
 debt,en,PENDING
@@ -1803,6 +1801,7 @@ occasion,en,PENDING
 occasionally,en,PENDING
 occur,en,PENDING
 ocean,en,PENDING
+oclock,en,PENDING
 october,en,PENDING
 odd,en,PENDING
 of,en,PENDING
@@ -1871,7 +1870,6 @@ overall,en,PENDING
 owe,en,PENDING
 own,en,PENDING
 owner,en,PENDING
-o’clock,en,PENDING
 pace,en,PENDING
 pack,en,PENDING
 package,en,PENDING
@@ -2698,8 +2696,7 @@ thank,en,PENDING
 thanks exclam.,en,PENDING
 that,en,PENDING
 the definite,en,PENDING
-the oxford 3000 is the list of the 3000 most important words to learn in english from a 1 to level,en,PENDING
-the oxford 3000™,en,PENDING
+the oxford 3000,en,PENDING
 theatre,en,PENDING
 their,en,PENDING
 theirs,en,PENDING

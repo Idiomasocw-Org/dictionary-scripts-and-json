@@ -221,8 +221,8 @@ by the time,en,PENDING
 call for sth,en,PENDING
 call on sb to do sth,en,PENDING
 call on sb,en,PENDING
-can’t afford sth,en,PENDING
-can’t afford to do sth,en,PENDING
+cant afford sth,en,PENDING
+cant afford to do sth,en,PENDING
 car park,en,PENDING
 care about sth,en,PENDING
 care for sb,en,PENDING
@@ -469,7 +469,7 @@ have time to do sth,en,PENDING
 have time,en,PENDING
 have to do with sb,en,PENDING
 have to do with sth,en,PENDING
-have you ever...?,en,PENDING
+have you ever?,en,PENDING
 he came into the room,en,PENDING
 he or she,en,PENDING
 health problems,en,PENDING
@@ -483,20 +483,20 @@ high street,en,PENDING
 higher education,en,PENDING
 his best work to date,en,PENDING
 his or her,en,PENDING
-how about...?,en,PENDING
+how about?,en,PENDING
 how are you?,en,PENDING
-how long...?,en,PENDING
-how many...?,en,PENDING
-how much...?,en,PENDING
-how often...?,en,PENDING
+how long?,en,PENDING
+how many?,en,PENDING
+how much?,en,PENDING
+how often?,en,PENDING
 how shall i put it?,en,PENDING
 human being,en,PENDING
 human rights,en,PENDING
-i didn’t enjoy it at all,en,PENDING
-i didn’t even see it,en,PENDING
-i didn’t mean to,en,PENDING
-i don’t care,en,PENDING
-i don’t think so,en,PENDING
+i didnt enjoy it at all,en,PENDING
+i didnt even see it,en,PENDING
+i didnt mean to,en,PENDING
+i dont care,en,PENDING
+i dont think so,en,PENDING
 i guess,en,PENDING
 i had a kind of feeling this,en,PENDING
 i have to say,en,PENDING
@@ -508,10 +508,15 @@ i wonder if,en,PENDING
 i would like to,en,PENDING
 i would like,en,PENDING
 i would say,en,PENDING
+id really like to,en,PENDING
 if i were you,en,PENDING
 if necessary,en,PENDING
 if only,en,PENDING
 if you want to,en,PENDING
+im afraid,en,PENDING
+im getting off here,en,PENDING
+im sorry,en,PENDING
+im staying in tonight,en,PENDING
 important for sb,en,PENDING
 important for sth,en,PENDING
 in a position to do sth,en,PENDING
@@ -639,12 +644,7 @@ it is important for sth to do,en,PENDING
 it is important to do sth,en,PENDING
 it takes an hour to get there,en,PENDING
 it takes,en,PENDING
-it’s a good idea to,en,PENDING
-i’d really like to,en,PENDING
-i’m afraid,en,PENDING
-i’m getting off here,en,PENDING
-i’m sorry,en,PENDING
-i’m staying in tonight,en,PENDING
+its a good idea to,en,PENDING
 just in case,en,PENDING
 keep in mind that,en,PENDING
 keep in touch,en,PENDING
@@ -735,8 +735,8 @@ not any longer,en,PENDING
 not at all,en,PENDING
 not even,en,PENDING
 not necessarily,en,PENDING
+not only but also,en,PENDING
 not only,en,PENDING
-not only... but also,en,PENDING
 not to mention,en,PENDING
 nothing but,en,PENDING
 nothing like,en,PENDING
@@ -829,7 +829,7 @@ pretty good,en,PENDING
 pretty much,en,PENDING
 prices are going down,en,PENDING
 prices are going up,en,PENDING
-prices ranging from €25 to €60,en,PENDING
+prices ranging from 25 to 60,en,PENDING
 primary school,en,PENDING
 prime minister,en,PENDING
 prior to,en,PENDING
@@ -969,16 +969,16 @@ thanks to sb,en,PENDING
 thanks to sth,en,PENDING
 that day,en,PENDING
 that is,en,PENDING
-that’s a good idea!,en,PENDING
-that’s it,en,PENDING
+thats a good idea!,en,PENDING
+thats it,en,PENDING
 the 19th century,en,PENDING
 the 20th century,en,PENDING
 the 21st century,en,PENDING
 the alarm went off,en,PENDING
 the bad things about sth,en,PENDING
+the best in the country,en,PENDING
 the best thing to do,en,PENDING
 the best thing,en,PENDING
-the best... in the country,en,PENDING
 the case,en,PENDING
 the extent to which,en,PENDING
 the fact that,en,PENDING
@@ -1007,7 +1007,7 @@ there is,en,PENDING
 there was,en,PENDING
 there were,en,PENDING
 these days,en,PENDING
-they say you can’t buy,en,PENDING
+they say you cant buy,en,PENDING
 they say,en,PENDING
 think about sb,en,PENDING
 think about sth,en,PENDING
@@ -1057,15 +1057,15 @@ wake up,en,PENDING
 way of life,en,PENDING
 welcome to sth,en,PENDING
 well known,en,PENDING
-what about...?,en,PENDING
+what about?,en,PENDING
 what are you plans for next,en,PENDING
 what kind of music do you,en,PENDING
 what sorts of things do you,en,PENDING
-what’s going on?,en,PENDING
+whats going on?,en,PENDING
 when it comes to doing sth,en,PENDING
 when it comes to sth,en,PENDING
 whether or not,en,PENDING
-why not...?,en,PENDING
+why not?,en,PENDING
 with regard to sb,en,PENDING
 with regard to sth,en,PENDING
 with respect to sth,en,PENDING
@@ -1087,7 +1087,7 @@ worried about sth,en,PENDING
 would like,en,PENDING
 would love to do sth,en,PENDING
 would rather,en,PENDING
-would you like...?,en,PENDING
+would you like?,en,PENDING
 write sth down,en,PENDING
 wrong with sb,en,PENDING
 wrong with sth,en,PENDING
@@ -1105,5 +1105,5 @@ x years later,en,PENDING
 x years old,en,PENDING
 year?,en,PENDING
 you see,en,PENDING
-you’ll get over it,en,PENDING
-you’re welcome,en,PENDING
+youll get over it,en,PENDING
+youre welcome,en,PENDING

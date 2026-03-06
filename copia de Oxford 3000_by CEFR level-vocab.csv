@@ -1,5 +1,4 @@
 lemma,language_code,status
-a an indefinite,en,PENDING
 abando,en,PENDING
 ability,en,PENDING
 able,en,PENDING
@@ -70,7 +69,7 @@ aggressive,en,PENDING
 ago,en,PENDING
 agree,en,PENDING
 agreement,en,PENDING
-ah exclam,en,PENDING
+ah,en,PENDING
 ahead,en,PENDING
 aid,en,PENDING
 aim,en,PENDING
@@ -84,8 +83,7 @@ alcohol,en,PENDING
 alcoholic,en,PENDING
 alive,en,PENDING
 all pro,en,PENDING
-all right exclam,en,PENDING
-all right exclam,en,PENDING
+all right,en,PENDING
 all,en,PENDING
 allow,en,PENDING
 almost,en,PENDING
@@ -194,7 +192,7 @@ attach,en,PENDING
 attack,en,PENDING
 attempt,en,PENDING
 attend,en,PENDING
-attention exclam,en,PENDING
+attention,en,PENDING
 attitude,en,PENDING
 attract,en,PENDING
 attractio,en,PENDING
@@ -369,7 +367,7 @@ butter,en,PENDING
 butto,en,PENDING
 buy,en,PENDING
 by,en,PENDING
-bye exclam,en,PENDING
+bye,en,PENDING
 cable,en,PENDING
 cafe,en,PENDING
 cake,en,PENDING
@@ -677,7 +675,6 @@ daughter,en,PENDING
 day,en,PENDING
 dead,en,PENDING
 deal,en,PENDING
-dear exclam,en,PENDING
 dear,en,PENDING
 death,en,PENDING
 debate,en,PENDING
@@ -1037,7 +1034,6 @@ female,en,PENDING
 fence,en,PENDING
 festival,en,PENDING
 few pro,en,PENDING
-few pro,en,PENDING
 fictio,en,PENDING
 field,en,PENDING
 fifteen number,en,PENDING
@@ -1184,7 +1180,7 @@ god,en,PENDING
 gold,en,PENDING
 golf,en,PENDING
 good,en,PENDING
-goodbye exclam,en,PENDING
+goodbye,en,PENDING
 goods,en,PENDING
 gover,en,PENDING
 government,en,PENDING
@@ -1256,7 +1252,7 @@ heel,en,PENDING
 height,en,PENDING
 helicopter,en,PENDING
 hell,en,PENDING
-hello exclam,en,PENDING
+hello,en,PENDING
 help,en,PENDING
 helpful,en,PENDING
 her,en,PENDING
@@ -1265,8 +1261,8 @@ hero,en,PENDING
 hers pro,en,PENDING
 herself pro,en,PENDING
 hesitate,en,PENDING
-hey exclam,en,PENDING
-hi exclam,en,PENDING
+hey,en,PENDING
+hi,en,PENDING
 hide,en,PENDING
 high,en,PENDING
 highlight,en,PENDING
@@ -1779,8 +1775,8 @@ nightmare,en,PENDING
 nine number,en,PENDING
 nineteen number,en,PENDING
 ninety number,en,PENDING
-no exclam,en,PENDING
 no one pro,en,PENDING
+no,en,PENDING
 nobody pro,en,PENDING
 noise,en,PENDING
 noisy,en,PENDING
@@ -1818,6 +1814,7 @@ occasio,en,PENDING
 occasionally,en,PENDING
 occur,en,PENDING
 ocea,en,PENDING
+oclock,en,PENDING
 october,en,PENDING
 odd,en,PENDING
 of,en,PENDING
@@ -1830,9 +1827,9 @@ office,en,PENDING
 officer,en,PENDING
 official,en,PENDING
 ofte,en,PENDING
-oh exclam,en,PENDING
+oh,en,PENDING
 oil,en,PENDING
-ok exclam,en,PENDING
+ok,en,PENDING
 old,en,PENDING
 old-fashioned,en,PENDING
 once,en,PENDING
@@ -1888,7 +1885,6 @@ owe,en,PENDING
 own pro,en,PENDING
 own,en,PENDING
 owner,en,PENDING
-o’clock,en,PENDING
 pa,en,PENDING
 pace,en,PENDING
 pack,en,PENDING
@@ -1992,7 +1988,6 @@ platform,en,PENDING
 play,en,PENDING
 player,en,PENDING
 pleasant,en,PENDING
-please exclam,en,PENDING
 please,en,PENDING
 pleased,en,PENDING
 pleasure,en,PENDING
@@ -2524,7 +2519,7 @@ somewhat,en,PENDING
 somewhere pro,en,PENDING
 song,en,PENDING
 soo,en,PENDING
-sorry exclam,en,PENDING
+sorry,en,PENDING
 sort,en,PENDING
 soul,en,PENDING
 sound,en,PENDING
@@ -2713,12 +2708,11 @@ test,en,PENDING
 text,en,PENDING
 tha,en,PENDING
 thank,en,PENDING
-thanks exclam,en,PENDING
+thanks,en,PENDING
 that pro,en,PENDING
 that,en,PENDING
 the definite,en,PENDING
-the oxford 3000 is the list of the 3000 most important words to learn in english from a 1 to level,en,PENDING
-the oxford 3000™ by cefr level,en,PENDING
+the oxford 3000 by cefr level,en,PENDING
 the,en,PENDING
 theatre,en,PENDING
 their,en,PENDING
@@ -2959,9 +2953,8 @@ week,en,PENDING
 weekend,en,PENDING
 weigh,en,PENDING
 weight,en,PENDING
-welcome exclam,en,PENDING
 welcome,en,PENDING
-well exclam,en,PENDING
+well,en,PENDING
 west,en,PENDING
 wester,en,PENDING
 wet,en,PENDING
@@ -3026,7 +3019,7 @@ worst,en,PENDING
 worth,en,PENDING
 would,en,PENDING
 wound,en,PENDING
-wow exclam,en,PENDING
+wow,en,PENDING
 wrap,en,PENDING
 write,en,PENDING
 writer,en,PENDING
@@ -3034,10 +3027,10 @@ writing,en,PENDING
 writte,en,PENDING
 wrong,en,PENDING
 yard,en,PENDING
-yeah exclam,en,PENDING
+yeah,en,PENDING
 year,en,PENDING
 yellow,en,PENDING
-yes exclam,en,PENDING
+yes,en,PENDING
 yesterday,en,PENDING
 yet,en,PENDING
 you pro,en,PENDING
