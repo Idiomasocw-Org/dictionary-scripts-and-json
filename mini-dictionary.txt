@@ -1,3 +1,4 @@
+169flatten out
 abide by sth
 accede
 account for sth
@@ -43,6 +44,9 @@ be bogged down
 be bursting with sth
 be cast away
 be caught up in sth
+be cut out for sth
+be floating about
+be floating around
 bear on sth
 bear out sb
 bear out sth
@@ -187,7 +191,7 @@ call upon sth
 calm down
 calm down sb
 calm sb down
-capitalise on sth
+capitalize on sth
 carry forward sth
 carry off sth
 carry sth forward
@@ -285,7 +289,7 @@ come into sth
 come on
 come out
 come out against
-come out in favour of
+come out in favor of
 come out of sth
 come out with sth
 come over sb
@@ -298,8 +302,279 @@ come up against sb
 come up against sth
 comeback
 confide in sb
+cordon off sth
+cordon sth off
+cotton on
+cough sth up
+cough up
+cough up sth
 couldn't ask for sb
 couldn't ask for sth
+count against sb
+count against sth
+count on sth
+count out sb
+count sb out
+count towards sth
+count upon sth
+cover sth up
+cover up
+cover up sth
+cover-up
+cream off sb
+cream sb off
+creep up on sb
+cross off sth
+cross over
+cross sth off
+cross sth off sth
+crowd around
+crowd around sb
+crowd around sth
+crowd round
+crowd round sb
+crowd round sth
+curl up
+cut down sth
+cut in
+cut in on
+cut in on sth
+cut in sth
+cut it out
+cut off sth
+cut off your nose
+cut out sth
+cut sth down
+cut sth off
+cut sth out
+dash off
+deal in sth
+deal with sth
+decide on sb
+decide on sth
+decide upon sb
+decide upon sth
+defer
+depend on sb
+depend on sth
+depend upon sb
+depend upon sth
+deprive sb of sth
+deprive sth of sth
+descend
+detract from sth
+devote sth
+die away
+die down
+die out
+dig sth up
+dig up sth
+dig your heels in
+dip sth in
+dip sth in sth
+disagree with sb
+dive in sth
+dive into sth
+do in sb
+do out sth
+do sb in
+do sb out of sth
+do sth out
+do sth up
+do up sth
+do without
+do without sb
+do without sth
+do yourself up
+doll yourself up
+doom sb
+doom sth
+dot sth with sth
+double back
+double over
+double sb over
+double sb up
+double up
+double up as sth
+downcast
+downpour
+downpour a sudden, heavy fall of rain
+drag out
+drag out sth
+drag sb away from
+drag sb into sth
+drag sth into sth
+drag sth out
+drag sth out of sb
+draw back
+draw out sb
+draw out sth
+draw sb out
+draw sth out
+draw sth up
+draw up sth
+dream on
+dress sb up
+dress up
+dress up sb
+drill down
+drink
+drink in
+drink sth up
+drink up
+drink up sth
+drone on
+drop back
+drop by
+drop off
+drop off sb
+drop off sth
+drop out
+drop sb off
+drop sth off
+drown out sth
+drown sth out
+drum up sth
+dry out
+dry out sth
+dry sth out
+dry up
+dumb down sth
+dumb sth down
+dumb sth up
+dumb up sth
+dwell on sth
+dwell upon sth
+ease off
+ease up
+eat away at sb
+eat away at sth
+eat in
+eat into sth
+eat sth up
+eat up
+eat up sth
+egg on sb
+egg sb on
+eke out sth
+eke sth out
+encroach on sth
+encroach upon sth
+engage sb in sth
+expand on sth
+expand upon sth
+explain away sth
+explain sth away
+face up
+factor in sth
+factor sth in
+fade in
+fade out
+fall apart
+fall back on sth
+fall back upon sth
+fall behind
+fall behind sb
+fall in
+fall into sth
+fall off
+fall through
+fallback
+farm out sth
+farm sth out
+feed on sth
+feed upon sth
+feel up
+fend for yourself
+ferret out sth
+ferret sth out
+fight back sth
+fight off sb
+fight off sth
+fight sb off
+fight sth back
+fight sth off
+fill sb up
+fill up sb
+finish off sb
+finish sb off
+finish sth up
+finish up
+finish up sth
+finish with sth
+firm sth up
+firm up sth
+fish out sth
+fish sth out
+fit in
+fit in with sth
+fix sth up
+fix up sth
+flag down sth
+flag sth down
+flare up
+flash back
+flashback
+fling off sth
+fling sth off
+fling yourself into
+flirt with sb
+flirt with sth
+floating about
+floating around
+flood back
+flood in sth
+flood into sth
+flush out sb
+flush out sth
+flush sb out
+flush sth out
+fly about
+fly about somewhere
+fly about swh
+fly around
+fly around somewhere
+fly around swh
+fly at sb
+fly into sth
+focus on sth
+focus sth on sth
+focus sth upon sth
+focus upon sth
+fog up
+fold sth up
+fold up
+fold up sth
+freeze out sb
+freeze over
+freeze sb out
+freeze up
+fritter away sth
+fritter sth away
+frown on sth
+frown upon sth
+fry-up
+fuss over sb
+fuss over sth
+gain on sb
+gain on sth
+gain upon sb
+gain upon sth
+gang up
+gather sth up
+gather up sth
+gear sth
+gear sth to sb
+gear sth to sth
+gear sth towards sb
+gear sth towards sth
+get across sth
+get around
+get away with doing sth
+get away with sth sth
+get back into sth
+get by
+get sth across
 not agree with sb
 not care for sb
 not care for sth
