@@ -1,5 +1,6 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
+import process from 'process';
 
 /**
  * Generates a CSV file from a word list file
