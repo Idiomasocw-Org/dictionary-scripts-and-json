@@ -1,0 +1,20 @@
+{
+  "title": "Howl's Moving Castle",
+  "type": "movie",
+  "release_year": 2004,
+  "director": "Hayao Miyazaki",
+  "studio": "Studio Ghibli",
+  "language": "en",
+  "duration_minutes": 113,
+  "audio_file": "ep1-howls-move-castle-audio.mp3",
+  "video_filename": "ep1-howls-move-castle.mp4",
+  "description": "A young woman cursed with an old body teams up with a wizard to try to break the spell. Based on the novel by Diana Wynne Jones.",
+  "genre": [
+    "Animation",
+    "Adventure",
+    "Fantasy"
+  ],
+  "imdb_id": "tt0416742",
+  "created_at": "2026-03-31T00:00:00Z",
+  "status": "COMPLETED"
+}
