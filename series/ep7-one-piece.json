@@ -1,0 +1,16 @@
+{
+    "title": "One Piece",
+    "type": "series",
+    "release_year": 2023,
+    "season_number": 1,
+    "episode_number": 7,
+    "episode_title": "The Girl with the Sawfish Tattoo",
+    "language_code": "en",
+    "copyright_status": "fair_use",
+    "copyright_notes": "Fair use justification: Short micro-clips (2-3 seconds) extracted solely for transformative, educational linguistic reference. Content owned by Netflix / Tomorrow Studios. Use does not substitute viewing the original series. No market substitution intended.",
+    "source_url": "https://www.netflix.com/title/80217863",
+    "video_filename": "ep7-one-piece.mp4",
+    "audio_filename": "ep7-one-piece-audio.mp3",
+    "s3_path": "s3://ocw-academy-raw-videos/en/one-piece/season1/ep7-one-piece.mp4",
+    "s3_audio_path": "s3://ocw-academy-raw-videos/en/one-piece/season1/ep7-one-piece-audio.mp3"
+}
