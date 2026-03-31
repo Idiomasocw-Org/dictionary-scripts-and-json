@@ -1,0 +1,20 @@
+{
+    "title": "Pride & Prejudice",
+    "type": "movie",
+    "release_year": 2005,
+    "director": "Joe Wright",
+    "description": "Rain scene: Mr. Darcy's proposal and Elizabeth Bennet's rejection. A critical turning point revealing deep-seated pride and prejudice.",
+    "language_code": "en",
+    "copyright_status": "fair_use",
+    "copyright_notes": "Fair use justification: Short micro-clips (2-3 seconds) extracted for transformative, educational linguistic reference and sentiment analysis. Content owned by Focus Features and Universal Pictures.",
+    "video_filename": "ep1-pri-pre.mp4",
+    "audio_filename": "ep1-pri-pre.mp3",
+    "s3_path": "s3://ocw-academy-raw-videos/en/pride-and-prejudice/ep1-pri-pre.mp4",
+    "s3_audio_path": "s3://ocw-academy-raw-videos/en/pride-and-prejudice/ep1-pri-pre.mp3",
+    "key_vocabulary": ["struggle in vain", "ardently", "civility", "propriety", "scruples", "arrogance", "conceit", "disdain", "prevailed upon"],
+    "interaction_notes": {
+        "validation_script": "V2.7",
+        "cleaning_button": "V2.0",
+        "suggested_activity": "Sentiment Analysis (regret, pride, love)"
+    }
+}

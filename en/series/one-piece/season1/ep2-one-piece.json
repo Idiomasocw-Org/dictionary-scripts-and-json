@@ -1,0 +1,16 @@
+﻿{
+    "title":  "One Piece (Live-Action)",
+    "type":  "series",
+    "release_year":  2023,
+    "season_number":  1,
+    "episode_number":  2,
+    "episode_title":  "The Man in the Straw Hat",
+    "language_code":  "en",
+    "copyright_status":  "fair_use",
+    "copyright_notes":  "Fair use justification: Short micro-clips (2-3 seconds) extracted solely for transformative, educational linguistic reference. Content owned by Netflix, Tomorrow Studios and Shueisha. Use does not substitute viewing the original series. No market substitution intended. Premiere date: 2023-08-31.",
+    "source_url":  null,
+    "video_filename":  "ep2-one-piece.mp4",
+    "audio_filename":  "ep2-one-piece.mp3",
+    "s3_path":  "s3://ocw-academy-raw-videos/en/one-piece/season1/ep2-one-piece.mp4",
+    "s3_audio_path":  "s3://ocw-academy-raw-videos/en/one-piece/season1/ep2-one-piece-audio.mp3"
+}

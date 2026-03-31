@@ -1,0 +1,16 @@
+{
+    "title": "Cosmos: A Spacetime Odyssey",
+    "type": "series",
+    "release_year": 2014,
+    "season_number": 1,
+    "episode_number": 1,
+    "episode_title": "Standing Up in the Milky Way",
+    "language_code": "en",
+    "copyright_status": "fair_use",
+    "copyright_notes": "Fair use justification: Short micro-clips extracted solely for transformative, educational linguistic reference. Content owned by Fox/National Geographic. Use does not substitute viewing the original series. No market substitution intended.",
+    "source_url": null,
+    "video_filename": "ep1-cosmos.mp4",
+    "audio_filename": "ep1-cosmos-audio.mp3",
+    "s3_path": "s3://ocw-academy-raw-videos/en/cosmos/season1/ep1-cosmos.mp4",
+    "s3_audio_path": "s3://ocw-academy-raw-videos/en/cosmos/season1/ep1-cosmos-audio.mp3"
+}

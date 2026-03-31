@@ -1,0 +1,16 @@
+{
+    "title": "Scooby-Doo, Where Are You!",
+    "type": "series",
+    "release_year": 1969,
+    "season_number": 1,
+    "episode_number": 1,
+    "episode_title": "What a Night for a Knight",
+    "language_code": "en",
+    "copyright_status": "fair_use",
+    "copyright_notes": "Fair use justification: Short micro-clips (2-3 seconds) extracted solely for transformative, educational linguistic reference. Content owned by Warner Bros. Entertainment. Use does not substitute viewing the original series. No market substitution intended.",
+    "source_url": null,
+    "video_filename": "ep1-sco-doo.mp4",
+    "audio_filename": "ep1-sco-doo-audio.mp3",
+    "s3_path": "s3://ocw-academy-raw-videos/en/scooby-doo/season1/ep1-sco-doo.mp4",
+    "s3_audio_path": "s3://ocw-academy-raw-videos/en/scooby-doo/season1/ep1-sco-doo-audio.mp3"
+}

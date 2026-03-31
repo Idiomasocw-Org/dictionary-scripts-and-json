@@ -1,0 +1,14 @@
+{
+    "title": "Maze Runner",
+    "type": "movie",
+    "release_year": 2014,
+    "part_number": 1,
+    "language_code": "en",
+    "copyright_status": "fair_use",
+    "copyright_notes": "Fair use justification: Short micro-clips (2-3 seconds) extracted solely for transformative, educational linguistic reference. Content owned by 20th Century Fox. Use does not substitute viewing the original movie. No market substitution intended.",
+    "source_url": null,
+    "video_filename": "ep1-maze-run.mp4",
+    "audio_filename": "ep1-maze-run-audio.mp3",
+    "s3_path": "s3://ocw-academy-raw-videos/en/maze-runner/part1/ep1-maze-run.mp4",
+    "s3_audio_path": "s3://ocw-academy-raw-videos/en/maze-runner/part1/ep1-maze-run-audio.mp3"
+}
