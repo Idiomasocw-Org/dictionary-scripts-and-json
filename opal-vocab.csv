@@ -1,189 +1,229 @@
 lemma,language_code,status
+(and) you can see that,en,PENDING
+(are) less likely to,en,PENDING
+(as) a consequence of,en,PENDING
+(as) a form of,en,PENDING
+(as) a means of,en,PENDING
+(as) a source of,en,PENDING
+(as) a way of,en,PENDING
+(as/is) a function of,en,PENDING
+(be) due to the fact that,en,PENDING
+(be) regarded as,en,PENDING
+(be/is) due to,en,PENDING
+(by/from) the fact that,en,PENDING
+(by/with) the use of,en,PENDING
+(can) be thought of as,en,PENDING
+(even) in the absence of (any),en,PENDING
+(going to) come to,en,PENDING
+(in) a (wide) variety of,en,PENDING
+(in) a/the (wide) range of,en,PENDING
+(in) the context of,en,PENDING
+(in) the development of,en,PENDING
+(is) (often) referred to as,en,PENDING
+(is) an example of,en,PENDING
+(is/are/be) associated with,en,PENDING
+(just) to remind you,en,PENDING
+(lots and) lots of,en,PENDING
+(not only) but also,en,PENDING
+(one of) the most important,en,PENDING
+(over) a period of time,en,PENDING
+(quite) a lot (of),en,PENDING
+(so) for example,en,PENDING
+(so) in other words,en,PENDING
+(the) way(s) in which,en,PENDING
+(this) is not to say/suggest that,en,PENDING
+(to) note that,en,PENDING
+(to) take into account,en,PENDING
+(to/should/need to) be taken into account,en,PENDING
+(was/have been) found to be,en,PENDING
+/ say,en,PENDING
+"1 1. expressing aims, causes and effects",en,PENDING
+1 1. expressing the existence/non-existence of something,en,PENDING
+1 2. referring to the text and to other texts,en,PENDING
+1 3. hedging and expressing degrees of certainty,en,PENDING
+10. expressing quantity/degree and increase/decrease,en,PENDING
+10. expressing relationships between things and ideas,en,PENDING
+12. ordering content and making time references,en,PENDING
+13. referring to time,en,PENDING
+14. marking a shift in or change of topic,en,PENDING
+14. phrases with (the) (noun) of,en,PENDING
+15. direct address or instruction to students/audience,en,PENDING
+15. miscellaneous,en,PENDING
+16. expressing quantity and increase/decrease,en,PENDING
+2. drawing attention to something or focusing on it,en,PENDING
+2. specifying topics and relations between ideas,en,PENDING
+3. drawing attention to something or focusing on it,en,PENDING
+3. hedging and expressing degrees of certainty,en,PENDING
+4. clarifying and restating,en,PENDING
+4. explaining and defining,en,PENDING
+5. giving examples,en,PENDING
+5. giving examples or presenting evidence,en,PENDING
+6. adding,en,PENDING
+"6. expressing aims, causes and effects",en,PENDING
+7 . making contrasts,en,PENDING
+7 . using vague language,en,PENDING
+8. classifying and comparing things,en,PENDING
+8. comparing,en,PENDING
+9. adding,en,PENDING
+9. making contrasts,en,PENDING
+a (little) bit more about,en,PENDING
+a (whole) range of,en,PENDING
+a (whole) series of,en,PENDING
 a better understanding of,en,PENDING
 a bit like,en,PENDING
-a bit more about,en,PENDING
 a certain amount of,en,PENDING
 a change in,en,PENDING
 a combination of,en,PENDING
-a consequence of,en,PENDING
-a form of,en,PENDING
 a function of,en,PENDING
 a group of,en,PENDING
 a high degree of,en,PENDING
 a high level of,en,PENDING
 a kind of,en,PENDING
-a lack of,en,PENDING
 a large number of,en,PENDING
+a little bit (of),en,PENDING
 a little bit about,en,PENDING
-a little bit more about,en,PENDING
-a little bit of,en,PENDING
-a little bit,en,PENDING
-a lot of,en,PENDING
-a lot,en,PENDING
-a means of,en,PENDING
 a measure of,en,PENDING
-a number of different,en,PENDING
 a number of,en,PENDING
-a period of time,en,PENDING
-a proportion of,en,PENDING
-a range of,en,PENDING
-a reduction in,en,PENDING
+a number of different,en,PENDING
 a sense of,en,PENDING
 a series of,en,PENDING
 a small number of,en,PENDING
 a sort of,en,PENDING
-a source of,en,PENDING
-a type of,en,PENDING
 a variety of,en,PENDING
 a very important,en,PENDING
 a way of,en,PENDING
-a whole range of,en,PENDING
-a whole series of,en,PENDING
-a wide range of,en,PENDING
-a wide variety of,en,PENDING
-ability,en,PENDING
-abnormal,en,PENDING
-abnormality,en,PENDING
-above,en,PENDING
-absence,en,PENDING
-absent,en,PENDING
-absolute,en,PENDING
-academic,en,PENDING
-accept,en,PENDING
-acceptable,en,PENDING
-acceptance,en,PENDING
-access,en,PENDING
-accessible,en,PENDING
+a/the reduction in,en,PENDING
+a/the type of,en,PENDING
+ability n.,en,PENDING
+abnormal adj.,en,PENDING
+abnormality n.,en,PENDING
+"above adv., adj., n.",en,PENDING
+absence n.,en,PENDING
+absent adj.,en,PENDING
+absolute adj.,en,PENDING
+"academic adj., n.",en,PENDING
+accept v.,en,PENDING
+acceptable adj.,en,PENDING
+acceptance n.,en,PENDING
+access n.,en,PENDING
+"access n., v.",en,PENDING
+accessible adj.,en,PENDING
 according to,en,PENDING
-accordingly,en,PENDING
-account,en,PENDING
-accountability,en,PENDING
-accumulate,en,PENDING
-accumulation,en,PENDING
-accuracy,en,PENDING
-accurate,en,PENDING
-accurately,en,PENDING
-achieve,en,PENDING
-achievement,en,PENDING
-acknowledge,en,PENDING
-acquire,en,PENDING
-acquisition,en,PENDING
-act,en,PENDING
-action,en,PENDING
-active,en,PENDING
-actively,en,PENDING
-activity,en,PENDING
-actual,en,PENDING
-actually,en,PENDING
-adapt,en,PENDING
-adaptation,en,PENDING
-adaptive,en,PENDING
-add,en,PENDING
-addition,en,PENDING
-additional,en,PENDING
-additionally,en,PENDING
-address,en,PENDING
-adequate,en,PENDING
-adequately,en,PENDING
-adjust,en,PENDING
-adjustment,en,PENDING
-administer,en,PENDING
-administration,en,PENDING
-administrative,en,PENDING
-adopt,en,PENDING
-adult,en,PENDING
-advantage,en,PENDING
-affect,en,PENDING
-again,en,PENDING
-age,en,PENDING
-agenda,en,PENDING
-agent,en,PENDING
-agreement,en,PENDING
-agricultural,en,PENDING
-aim,en,PENDING
+according to prep.,en,PENDING
+accordingly adv.,en,PENDING
+"account n., v.",en,PENDING
+accountability n.,en,PENDING
+accumulate v.,en,PENDING
+accumulation n.,en,PENDING
+accuracy n.,en,PENDING
+accurate adj.,en,PENDING
+accurately adv.,en,PENDING
+achieve v.,en,PENDING
+achievement n.,en,PENDING
+acknowledge v.,en,PENDING
+acquire v.,en,PENDING
+acquisition n.,en,PENDING
+"act n., v.",en,PENDING
+action n.,en,PENDING
+active adj.,en,PENDING
+actively adv.,en,PENDING
+activity n.,en,PENDING
+actual adj.,en,PENDING
+actually adv.,en,PENDING
+adapt v.,en,PENDING
+adaptation n.,en,PENDING
+adaptive adj.,en,PENDING
+add v.,en,PENDING
+addition n.,en,PENDING
+additional adj.,en,PENDING
+additionally adv.,en,PENDING
+address v.,en,PENDING
+adequate adj.,en,PENDING
+adequately adv.,en,PENDING
+adjust v.,en,PENDING
+adjustment n.,en,PENDING
+administer v.,en,PENDING
+administration n.,en,PENDING
+administrative adj.,en,PENDING
+adopt v.,en,PENDING
+"adult n., adj.",en,PENDING
+advantage n.,en,PENDING
+affect v.,en,PENDING
+again adv.,en,PENDING
+age n.,en,PENDING
+agenda n.,en,PENDING
+agent n.,en,PENDING
+agreement n.,en,PENDING
+agricultural adj.,en,PENDING
+"aim n., v.",en,PENDING
 all kinds of,en,PENDING
-all right so,en,PENDING
 all right,en,PENDING
-all sorts of,en,PENDING
+all right so,en,PENDING
 all sorts,en,PENDING
-allow,en,PENDING
-almost,en,PENDING
-already,en,PENDING
-also,en,PENDING
-alter,en,PENDING
-alteration,en,PENDING
-alternative,en,PENDING
-alternatively,en,PENDING
-although,en,PENDING
-among,en,PENDING
-amount,en,PENDING
+all sorts of,en,PENDING
+allow v.,en,PENDING
+almost adv.,en,PENDING
+already adv.,en,PENDING
+also adv.,en,PENDING
+alter v.,en,PENDING
+alteration n.,en,PENDING
+"alternative adj., n.",en,PENDING
+alternatively adv.,en,PENDING
+although conj.,en,PENDING
+among prep.,en,PENDING
+"amount n., v.",en,PENDING
 an awful lot of,en,PENDING
-an effect on,en,PENDING
-an effects on,en,PENDING
 an example of,en,PENDING
 an idea of,en,PENDING
 an impact on,en,PENDING
 an important role in,en,PENDING
 an important role to play in,en,PENDING
-an increase in,en,PENDING
 an integral part of,en,PENDING
 an understanding of,en,PENDING
-analyse,en,PENDING
-analysis,en,PENDING
-analyst,en,PENDING
-analytical,en,PENDING
+an/the increase in,en,PENDING
+analyse v.,en,PENDING
+analysis n.,en,PENDING
+analyst n.,en,PENDING
+analytical adj.,en,PENDING
+"and a subset of the british academic spoken english (base) corpus, developed within the university of warwick",en,PENDING
 and all the rest of it,en,PENDING
-and so on and so forth,en,PENDING
+and for which relevant permissions have been obtained. base was developed at the universities of warwick and,en,PENDING
 and so on,en,PENDING
+and so on (and so forth),en,PENDING
 and things like that,en,PENDING
-and you can see that,en,PENDING
-animal,en,PENDING
-annual,en,PENDING
-answer,en,PENDING
-anxiety,en,PENDING
-apparent,en,PENDING
-appear,en,PENDING
+animal n.,en,PENDING
+annual adj.,en,PENDING
+"answer n., v.",en,PENDING
+anxiety n.,en,PENDING
+apparent adj.,en,PENDING
+appear v.,en,PENDING
 appears to be,en,PENDING
-applicable,en,PENDING
-application,en,PENDING
-apply,en,PENDING
-approach,en,PENDING
-appropriate,en,PENDING
-appropriately,en,PENDING
-approximately,en,PENDING
-approximation,en,PENDING
-are associated with,en,PENDING
+applicable adj.,en,PENDING
+application n.,en,PENDING
+apply v.,en,PENDING
+approach n.,en,PENDING
+appropriate adj.,en,PENDING
+appropriately adv.,en,PENDING
+approximately adv.,en,PENDING
+approximation n.,en,PENDING
 are based on,en,PENDING
-are less likely to,en,PENDING
-are likely to be,en,PENDING
-are likely to,en,PENDING
-are more likely to be,en,PENDING
-are more likely to,en,PENDING
-are shown in,en,PENDING
 are there any questions?,en,PENDING
-area,en,PENDING
-arguably,en,PENDING
-argue that,en,PENDING
-argue,en,PENDING
-argues that,en,PENDING
-argument,en,PENDING
-arise,en,PENDING
-arrangement,en,PENDING
+area n.,en,PENDING
+arguably adv.,en,PENDING
+argue v.,en,PENDING
+argue(s) that,en,PENDING
+argument n.,en,PENDING
+arise v.,en,PENDING
+arrangement n.,en,PENDING
 article,en,PENDING
-as a consequence of,en,PENDING
-as a form of,en,PENDING
-as a function of,en,PENDING
-as a means of,en,PENDING
-as a result of,en,PENDING
-as a result,en,PENDING
-as a source of,en,PENDING
-as a way of,en,PENDING
+article n.,en,PENDING
+as a result (of),en,PENDING
 as a whole,en,PENDING
 as follows,en,PENDING
 as i said,en,PENDING
 as i say,en,PENDING
-as in the case of,en,PENDING
 as in,en,PENDING
+as in the case of,en,PENDING
 as it were,en,PENDING
 as opposed to,en,PENDING
 as part of,en,PENDING
@@ -191,577 +231,559 @@ as shown in,en,PENDING
 as to,en,PENDING
 as we have seen,en,PENDING
 as we shall see,en,PENDING
-as well as,en,PENDING
 as well,en,PENDING
+as well as,en,PENDING
 as you can see,en,PENDING
 as you know,en,PENDING
-aspect of,en,PENDING
-aspect,en,PENDING
-aspects of,en,PENDING
-assert,en,PENDING
-assertion,en,PENDING
-assess,en,PENDING
-assessment,en,PENDING
-assign,en,PENDING
-associate,en,PENDING
-associated with,en,PENDING
-associated,en,PENDING
+aspect n.,en,PENDING
+aspect(s) of,en,PENDING
+assert v.,en,PENDING
+assertion n.,en,PENDING
+assess v.,en,PENDING
+assessment n.,en,PENDING
+assign v.,en,PENDING
+associate v.,en,PENDING
+associated adj.,en,PENDING
 association between,en,PENDING
-association,en,PENDING
+association n.,en,PENDING
 assume that,en,PENDING
-assume,en,PENDING
-assumption,en,PENDING
+assume v.,en,PENDING
+assumption n.,en,PENDING
 at that point,en,PENDING
 at the beginning of,en,PENDING
-at the beginning,en,PENDING
+at the beginning/start (of),en,PENDING
 at the bottom of,en,PENDING
-at the end of,en,PENDING
-at the end,en,PENDING
+at the end (of),en,PENDING
 at the expense of,en,PENDING
 at the heart of,en,PENDING
 at the level of,en,PENDING
 at the same time,en,PENDING
-at the start of,en,PENDING
-at the start,en,PENDING
 at the top of,en,PENDING
 at this point,en,PENDING
 at this stage,en,PENDING
-attack,en,PENDING
-attempt,en,PENDING
-attention,en,PENDING
-attitude,en,PENDING
-attribute,en,PENDING
-author,en,PENDING
-authority,en,PENDING
-availability,en,PENDING
-available,en,PENDING
-average,en,PENDING
-avoid,en,PENDING
-aware,en,PENDING
-awareness,en,PENDING
+"attack v., n.",en,PENDING
+"attempt n., v.",en,PENDING
+attention n.,en,PENDING
+attitude n.,en,PENDING
+"attribute n., v.",en,PENDING
+author n.,en,PENDING
+authority n.,en,PENDING
+availability n.,en,PENDING
+available adj.,en,PENDING
+"average adj., n., v",en,PENDING
+"average n., adj.",en,PENDING
+avoid v.,en,PENDING
+aware adj.,en,PENDING
+awareness n.,en,PENDING
 back to that,en,PENDING
-background,en,PENDING
-balance,en,PENDING
-barrier,en,PENDING
-base,en,PENDING
+background n.,en,PENDING
+balance n.,en,PENDING
+"balance n., v.",en,PENDING
+barrier n.,en,PENDING
+"base n., v.",en,PENDING
+based adj.,en,PENDING
 based on the assumption that,en,PENDING
-based,en,PENDING
-basic,en,PENDING
-basically,en,PENDING
+basic adj.,en,PENDING
+basically adv.,en,PENDING
 basis for,en,PENDING
-basis,en,PENDING
-be associated with,en,PENDING
-be due to the fact that,en,PENDING
-be due to,en,PENDING
+basis n.,en,PENDING
 be expected to,en,PENDING
 be looking at,en,PENDING
-be regarded as,en,PENDING
-be taken into account,en,PENDING
-be thought of as,en,PENDING
+bear in mind,en,PENDING
+because conj.,en,PENDING
 because of,en,PENDING
-because,en,PENDING
-become,en,PENDING
+become linking v.,en,PENDING
 been talking about,en,PENDING
-begin,en,PENDING
-beginning,en,PENDING
-behave,en,PENDING
-behaviour,en,PENDING
-belief,en,PENDING
-below,en,PENDING
-beneficial,en,PENDING
-beneficiary,en,PENDING
-benefit,en,PENDING
-between,en,PENDING
-beyond the scope of this book,en,PENDING
-beyond the scope of this chapter,en,PENDING
-beyond the scope of this,en,PENDING
-beyond the scope of,en,PENDING
-beyond,en,PENDING
-bias,en,PENDING
-body,en,PENDING
-briefly,en,PENDING
-broad,en,PENDING
-broadly,en,PENDING
-burden,en,PENDING
-but also,en,PENDING
+begin v.,en,PENDING
+beginning n.,en,PENDING
+behave v.,en,PENDING
+behaviour n.,en,PENDING
+belief n.,en,PENDING
+"below adv., prep.",en,PENDING
+beneficial adj.,en,PENDING
+beneficiary n.,en,PENDING
+benefit n.,en,PENDING
+"benefit n., v.",en,PENDING
+between prep.,en,PENDING
+beyond prep.,en,PENDING
+"beyond prep., adv.",en,PENDING
+beyond the scope of (this book /article/,en,PENDING
+"bias n., v.",en,PENDING
+body n.,en,PENDING
+briefly adv.,en,PENDING
+broad adj.,en,PENDING
+broadly adv.,en,PENDING
+burden n.,en,PENDING
 but in fact,en,PENDING
 by a factor of,en,PENDING
 by means of,en,PENDING
 by the end of,en,PENDING
-by the fact that,en,PENDING
-by the use of,en,PENDING
 by the way,en,PENDING
-call,en,PENDING
+call v.,en,PENDING
 can be applied to,en,PENDING
-can be described in terms of,en,PENDING
-can be explained in terms of,en,PENDING
+can be described /explained in terms of,en,PENDING
 can be found in,en,PENDING
-can be seen as,en,PENDING
-can be seen in,en,PENDING
-can be seen,en,PENDING
-can be thought of as,en,PENDING
+can be seen (as/in),en,PENDING
 can be used to,en,PENDING
-can lead to,en,PENDING
-can,en,PENDING
-capability,en,PENDING
-capable,en,PENDING
-capacity,en,PENDING
-care,en,PENDING
-case,en,PENDING
-categorize,en,PENDING
-category,en,PENDING
-causal,en,PENDING
-causation,en,PENDING
-cause,en,PENDING
+can modal v.,en,PENDING
+can/may lead to,en,PENDING
+capability n.,en,PENDING
+capable adj.,en,PENDING
+capacity n.,en,PENDING
+care n.,en,PENDING
+case n.,en,PENDING
+categorize v.,en,PENDING
+category n.,en,PENDING
+causal adj.,en,PENDING
+causation n.,en,PENDING
+"cause n., v.",en,PENDING
+"cause v., n.",en,PENDING
 caused by,en,PENDING
-central,en,PENDING
-centralize,en,PENDING
-centre,en,PENDING
-century,en,PENDING
-certain,en,PENDING
-certainty,en,PENDING
-chain,en,PENDING
-challenge,en,PENDING
-change,en,PENDING
-channel,en,PENDING
-character,en,PENDING
-characteristic,en,PENDING
+central adj.,en,PENDING
+centralize v.,en,PENDING
+centre n.,en,PENDING
+"centre n., v.",en,PENDING
+century n.,en,PENDING
+certain adj.,en,PENDING
+certainty n.,en,PENDING
+chain n.,en,PENDING
+"challenge n., v.",en,PENDING
+"change n., v.",en,PENDING
+channel n.,en,PENDING
+chapter),en,PENDING
+character n.,en,PENDING
+"characteristic n., adj.",en,PENDING
 characteristics of,en,PENDING
-characterization,en,PENDING
-characterize,en,PENDING
+characterization n.,en,PENDING
+characterize v.,en,PENDING
 characterized by,en,PENDING
-choice,en,PENDING
-choose,en,PENDING
-circumstance,en,PENDING
-cite,en,PENDING
+choice n.,en,PENDING
+choose v.,en,PENDING
+circumstance n.,en,PENDING
+cite v.,en,PENDING
+"claim n., v.",en,PENDING
 claim that,en,PENDING
-claim,en,PENDING
-class,en,PENDING
-classic,en,PENDING
-classical,en,PENDING
-classification,en,PENDING
-classify,en,PENDING
-clear,en,PENDING
-clearly,en,PENDING
-climate,en,PENDING
-closely,en,PENDING
-code,en,PENDING
-column,en,PENDING
-combination,en,PENDING
-combine,en,PENDING
-come back to that,en,PENDING
-come back to,en,PENDING
-come to,en,PENDING
-commercial,en,PENDING
-commit,en,PENDING
-commitment,en,PENDING
-common,en,PENDING
-commonly,en,PENDING
-communicate,en,PENDING
-communication,en,PENDING
-community,en,PENDING
-comparable,en,PENDING
-comparative,en,PENDING
-compare,en,PENDING
-compared to,en,PENDING
-compared with,en,PENDING
-comparison,en,PENDING
-compete,en,PENDING
-competition,en,PENDING
-completely,en,PENDING
-complex,en,PENDING
-complexity,en,PENDING
-component,en,PENDING
-composition,en,PENDING
-comprehensive,en,PENDING
-comprise,en,PENDING
-conceive,en,PENDING
-concentrate,en,PENDING
-concept,en,PENDING
-conception,en,PENDING
-conceptual,en,PENDING
-conceptualize,en,PENDING
-concern,en,PENDING
+class n.,en,PENDING
+classic adj.,en,PENDING
+"classic adj., n.",en,PENDING
+classical adj.,en,PENDING
+classification n.,en,PENDING
+classify v.,en,PENDING
+clear adj.,en,PENDING
+clearly adv.,en,PENDING
+climate n.,en,PENDING
+closely adv.,en,PENDING
+code n.,en,PENDING
+"code n., v.",en,PENDING
+column n.,en,PENDING
+combination n.,en,PENDING
+combine v.,en,PENDING
+come back to (that),en,PENDING
+commercial adj.,en,PENDING
+commit v.,en,PENDING
+commitment n.,en,PENDING
+common adj.,en,PENDING
+commonly adv.,en,PENDING
+communicate v.,en,PENDING
+communication n.,en,PENDING
+community n.,en,PENDING
+comparable adj.,en,PENDING
+comparative adj.,en,PENDING
+compare v.,en,PENDING
+compared with/to,en,PENDING
+comparison n.,en,PENDING
+compete v.,en,PENDING
+competition n.,en,PENDING
+completely adv.,en,PENDING
+complex adj.,en,PENDING
+"complex adj., n.",en,PENDING
+complexity n.,en,PENDING
+component n.,en,PENDING
+composition n.,en,PENDING
+comprehensive adj.,en,PENDING
+comprise v.,en,PENDING
+conceive v.,en,PENDING
+concentrate v.,en,PENDING
+concept n.,en,PENDING
+conception n.,en,PENDING
+conceptual adj.,en,PENDING
+conceptualize v.,en,PENDING
+concern v.,en,PENDING
+"concern v., n.",en,PENDING
 concerned with,en,PENDING
-conclude,en,PENDING
-conclusion,en,PENDING
-condition,en,PENDING
-conditional,en,PENDING
-conduct,en,PENDING
-confirm,en,PENDING
-conflict,en,PENDING
-connect,en,PENDING
-connection,en,PENDING
-consensus,en,PENDING
-consent,en,PENDING
-consequence,en,PENDING
-consequently,en,PENDING
-conservation,en,PENDING
-conservative,en,PENDING
-conserve,en,PENDING
-consider,en,PENDING
-considerable,en,PENDING
-considerably,en,PENDING
-consideration,en,PENDING
+conclude v.,en,PENDING
+conclusion n.,en,PENDING
+condition n.,en,PENDING
+conditional adj.,en,PENDING
+"conduct v., n.",en,PENDING
+confirm v.,en,PENDING
+"conflict n., v.",en,PENDING
+connect v.,en,PENDING
+connection n.,en,PENDING
+consensus n.,en,PENDING
+consent n.,en,PENDING
+consequence n.,en,PENDING
+consequently adv.,en,PENDING
+conservation n.,en,PENDING
+conservative adj.,en,PENDING
+conserve v.,en,PENDING
+consider v.,en,PENDING
+considerable adj.,en,PENDING
+considerably adv.,en,PENDING
+consideration n.,en,PENDING
 considered to be,en,PENDING
-consist,en,PENDING
-consistency,en,PENDING
+consist v.,en,PENDING
+consistency n.,en,PENDING
+consistent adj.,en,PENDING
 consistent with,en,PENDING
-consistent,en,PENDING
-consistently,en,PENDING
-constant,en,PENDING
-constitute,en,PENDING
-constrain,en,PENDING
-constraint,en,PENDING
-construct,en,PENDING
-construction,en,PENDING
-constructive,en,PENDING
-consume,en,PENDING
-consumption,en,PENDING
-contact,en,PENDING
-contain,en,PENDING
-contemporary,en,PENDING
-content,en,PENDING
-context,en,PENDING
-continuity,en,PENDING
-continuous,en,PENDING
-contrast,en,PENDING
-contribute,en,PENDING
-contribution,en,PENDING
-control,en,PENDING
-convention,en,PENDING
-conventional,en,PENDING
-conversion,en,PENDING
-convert,en,PENDING
-cooperation,en,PENDING
-cooperative,en,PENDING
-coordinate,en,PENDING
-coordination,en,PENDING
-core,en,PENDING
-correct,en,PENDING
-correction,en,PENDING
-correctly,en,PENDING
-correlate,en,PENDING
-correlation,en,PENDING
-correspond,en,PENDING
+consistently adv.,en,PENDING
+"constant adj., n.",en,PENDING
+constitute v.,en,PENDING
+constrain v.,en,PENDING
+constraint n.,en,PENDING
+construct v.,en,PENDING
+"construct v., n.",en,PENDING
+construction n.,en,PENDING
+constructive adj.,en,PENDING
+consume v.,en,PENDING
+consumption n.,en,PENDING
+contact n.,en,PENDING
+contain v.,en,PENDING
+contemporary adj.,en,PENDING
+"contemporary adj., n.",en,PENDING
+content n.,en,PENDING
+context n.,en,PENDING
+continuity n.,en,PENDING
+continuous adj.,en,PENDING
+"contrast n., v.",en,PENDING
+contribute v.,en,PENDING
+contribution n.,en,PENDING
+"control n., v.",en,PENDING
+convention n.,en,PENDING
+conventional adj.,en,PENDING
+conversion n.,en,PENDING
+convert v.,en,PENDING
+cooperation n.,en,PENDING
+cooperative adj.,en,PENDING
+"coordinate n., v.",en,PENDING
+coordination n.,en,PENDING
+core n.,en,PENDING
+correct adj.,en,PENDING
+correction n.,en,PENDING
+correctly adv.,en,PENDING
+correlate v.,en,PENDING
+correlation n.,en,PENDING
+correspond v.,en,PENDING
+corresponding adj.,en,PENDING
 corresponding to,en,PENDING
-corresponding,en,PENDING
-country,en,PENDING
-course,en,PENDING
-coverage,en,PENDING
-create,en,PENDING
-creation,en,PENDING
-creative,en,PENDING
-criterion,en,PENDING
-critical,en,PENDING
-critically,en,PENDING
-criticize,en,PENDING
-crucial,en,PENDING
-cultural,en,PENDING
-culturally,en,PENDING
-culture,en,PENDING
-cumulative,en,PENDING
-current,en,PENDING
-currently,en,PENDING
-cycle,en,PENDING
+country n.,en,PENDING
+course n.,en,PENDING
+coverage n.,en,PENDING
+create v.,en,PENDING
+creation n.,en,PENDING
+creative adj.,en,PENDING
+criterion n.,en,PENDING
+critical adj.,en,PENDING
+critically adv.,en,PENDING
+criticize v.,en,PENDING
+crucial adj.,en,PENDING
+cultural adj.,en,PENDING
+culturally adv.,en,PENDING
+culture n.,en,PENDING
+cumulative adj.,en,PENDING
+"current adj., n.",en,PENDING
+currently adv.,en,PENDING
+cycle n.,en,PENDING
+data n.,en,PENDING
 data on,en,PENDING
-data,en,PENDING
-deal,en,PENDING
-debate,en,PENDING
-decade,en,PENDING
-decision,en,PENDING
-decline,en,PENDING
-decrease,en,PENDING
-define,en,PENDING
-definition,en,PENDING
-degree,en,PENDING
-demand,en,PENDING
-demonstrate,en,PENDING
-denote,en,PENDING
-department,en,PENDING
-depend on,en,PENDING
-depend,en,PENDING
-dependence,en,PENDING
+deal v.,en,PENDING
+debate n.,en,PENDING
+decade n.,en,PENDING
+decision n.,en,PENDING
+"decline n., v.",en,PENDING
+"decrease v., n.",en,PENDING
+define v.,en,PENDING
+definition n.,en,PENDING
+degree n.,en,PENDING
+demand n.,en,PENDING
+demonstrate v.,en,PENDING
+denote v.,en,PENDING
+department n.,en,PENDING
+depend v.,en,PENDING
+depend(s) on,en,PENDING
+dependence n.,en,PENDING
+dependent adj.,en,PENDING
 dependent on,en,PENDING
-dependent,en,PENDING
-depends on,en,PENDING
-derive,en,PENDING
+derive v.,en,PENDING
 derived from,en,PENDING
-describe,en,PENDING
-description,en,PENDING
-descriptive,en,PENDING
-design,en,PENDING
-desirable,en,PENDING
-desire,en,PENDING
-destroy,en,PENDING
-detail,en,PENDING
-detailed,en,PENDING
-determinant,en,PENDING
-determination,en,PENDING
-determine,en,PENDING
+describe v.,en,PENDING
+description n.,en,PENDING
+descriptive adj.,en,PENDING
+"design n., v.",en,PENDING
+desirable adj.,en,PENDING
+"desire n., v.",en,PENDING
+destroy v.,en,PENDING
+detail n.,en,PENDING
+detailed adj.,en,PENDING
+determinant n.,en,PENDING
+determination n.,en,PENDING
+determine v.,en,PENDING
 determined by,en,PENDING
-develop,en,PENDING
-developed,en,PENDING
-development,en,PENDING
-deviation,en,PENDING
-device,en,PENDING
-diagram,en,PENDING
-differ,en,PENDING
-difference in,en,PENDING
-difference,en,PENDING
-differences in,en,PENDING
+develop v.,en,PENDING
+developed adj.,en,PENDING
+development n.,en,PENDING
+deviation n.,en,PENDING
+device n.,en,PENDING
+diagram n.,en,PENDING
+differ v.,en,PENDING
+difference n.,en,PENDING
+difference(s) in,en,PENDING
+different adj.,en,PENDING
 different from,en,PENDING
 different types of,en,PENDING
-different,en,PENDING
-differentiate,en,PENDING
-differentiation,en,PENDING
-differently,en,PENDING
-difficult,en,PENDING
-difficulty,en,PENDING
-digital,en,PENDING
-dimension,en,PENDING
-direct,en,PENDING
-direction,en,PENDING
-directly,en,PENDING
-disadvantage,en,PENDING
-discipline,en,PENDING
-discover,en,PENDING
-discrimination,en,PENDING
-discuss,en,PENDING
-discussion,en,PENDING
-distance,en,PENDING
-distinct,en,PENDING
-distinction,en,PENDING
-distinctive,en,PENDING
-distinguish,en,PENDING
-distribute,en,PENDING
-distribution,en,PENDING
-diverse,en,PENDING
-diversity,en,PENDING
-divide,en,PENDING
-division,en,PENDING
-document,en,PENDING
+differentiate v.,en,PENDING
+differentiation n.,en,PENDING
+differently adv.,en,PENDING
+difficult adj.,en,PENDING
+difficulty n.,en,PENDING
+digital adj.,en,PENDING
+dimension n.,en,PENDING
+"direct adj., v.",en,PENDING
+direction n.,en,PENDING
+directly adv.,en,PENDING
+"disadvantage n., v.",en,PENDING
+discipline n.,en,PENDING
+discover v.,en,PENDING
+discrimination n.,en,PENDING
+discuss v.,en,PENDING
+discussion n.,en,PENDING
+distance n.,en,PENDING
+distinct adj.,en,PENDING
+distinction n.,en,PENDING
+distinctive adj.,en,PENDING
+distinguish v.,en,PENDING
+distribute v.,en,PENDING
+distribution n.,en,PENDING
+diverse adj.,en,PENDING
+diversity n.,en,PENDING
+divide v.,en,PENDING
+division n.,en,PENDING
+"document n., v.",en,PENDING
 does not appear to be,en,PENDING
-domain,en,PENDING
-dominance,en,PENDING
-dominant,en,PENDING
-dominate,en,PENDING
-donor,en,PENDING
-draw,en,PENDING
-due to the fact that,en,PENDING
-due to,en,PENDING
-due,en,PENDING
-duration,en,PENDING
-during,en,PENDING
-duty,en,PENDING
-dynamic,en,PENDING
-early,en,PENDING
-easily,en,PENDING
-ecological,en,PENDING
-economic,en,PENDING
-economically,en,PENDING
-education,en,PENDING
-educational,en,PENDING
-effect,en,PENDING
-effective,en,PENDING
-effectively,en,PENDING
-effectiveness,en,PENDING
-efficacy,en,PENDING
-efficiency,en,PENDING
-efficient,en,PENDING
-efficiently,en,PENDING
-effort,en,PENDING
-element,en,PENDING
+domain n.,en,PENDING
+dominance n.,en,PENDING
+dominant adj.,en,PENDING
+dominate v.,en,PENDING
+donor n.,en,PENDING
+draw v.,en,PENDING
+due adj.,en,PENDING
+duration n.,en,PENDING
+during prep.,en,PENDING
+duty n.,en,PENDING
+"dynamic n., adj.",en,PENDING
+early adj.,en,PENDING
+easily adv.,en,PENDING
+ecological adj.,en,PENDING
+economic adj.,en,PENDING
+economically adv.,en,PENDING
+education n.,en,PENDING
+educational adj.,en,PENDING
+effect n.,en,PENDING
+effective adj.,en,PENDING
+effectively adv.,en,PENDING
+effectiveness n.,en,PENDING
+efficacy n.,en,PENDING
+efficiency n.,en,PENDING
+efficient adj.,en,PENDING
+efficiently adv.,en,PENDING
+effort n.,en,PENDING
+element n.,en,PENDING
 elements of,en,PENDING
-elevate,en,PENDING
-eliminate,en,PENDING
-elsewhere,en,PENDING
-emerge,en,PENDING
-emergence,en,PENDING
-emotional,en,PENDING
-emphasis,en,PENDING
-emphasize,en,PENDING
-empirical,en,PENDING
-empirically,en,PENDING
-employ,en,PENDING
-empower,en,PENDING
-enable,en,PENDING
-encode,en,PENDING
-encounter,en,PENDING
-encourage,en,PENDING
-end,en,PENDING
-energy,en,PENDING
-engage,en,PENDING
-enhance,en,PENDING
-ensure,en,PENDING
-enter,en,PENDING
-entirely,en,PENDING
-entity,en,PENDING
-entry,en,PENDING
-environment,en,PENDING
-environmental,en,PENDING
-equal,en,PENDING
-equally,en,PENDING
-equivalence,en,PENDING
-equivalent,en,PENDING
-error,en,PENDING
-especially,en,PENDING
-essence,en,PENDING
-essential,en,PENDING
-essentially,en,PENDING
-establish,en,PENDING
-establishment,en,PENDING
-estimate,en,PENDING
-estimation,en,PENDING
+elevate v.,en,PENDING
+eliminate v.,en,PENDING
+elsewhere adv.,en,PENDING
+emerge v.,en,PENDING
+emergence n.,en,PENDING
+emotional adj.,en,PENDING
+emphasis n.,en,PENDING
+emphasize v.,en,PENDING
+empirical adj.,en,PENDING
+empirically adv.,en,PENDING
+employ v.,en,PENDING
+empower v.,en,PENDING
+enable v.,en,PENDING
+encode v.,en,PENDING
+"encounter v., n.",en,PENDING
+encourage v.,en,PENDING
+"end n., v.",en,PENDING
+energy n.,en,PENDING
+engage v.,en,PENDING
+enhance v.,en,PENDING
+ensure v.,en,PENDING
+enter v.,en,PENDING
+entirely adv.,en,PENDING
+entity n.,en,PENDING
+entry n.,en,PENDING
+environment n.,en,PENDING
+environmental adj.,en,PENDING
+"equal adj., n., v.",en,PENDING
+"equal adj., v.",en,PENDING
+equally adv.,en,PENDING
+equivalence n.,en,PENDING
+"equivalent adj., n.",en,PENDING
+error n.,en,PENDING
+especially adv.,en,PENDING
+essence n.,en,PENDING
+essential adj.,en,PENDING
+essentially adv.,en,PENDING
+establish v.,en,PENDING
+establishment n.,en,PENDING
+"estimate v., n.",en,PENDING
+estimation n.,en,PENDING
 et al,en,PENDING
-et cetera et cetera,en,PENDING
-et cetera,en,PENDING
-ethic,en,PENDING
-ethical,en,PENDING
-ethnic,en,PENDING
-ethnicity,en,PENDING
-evaluate,en,PENDING
-evaluation,en,PENDING
-even in the absence of any,en,PENDING
-even in the absence of,en,PENDING
-event,en,PENDING
-evidence for,en,PENDING
-evidence of,en,PENDING
-evidence that,en,PENDING
-evidence,en,PENDING
-evident,en,PENDING
-evolution,en,PENDING
-evolutionary,en,PENDING
-evolve,en,PENDING
-exactly,en,PENDING
-exam,en,PENDING
-examination,en,PENDING
-examine,en,PENDING
-example,en,PENDING
-exceed,en,PENDING
-exception,en,PENDING
-excess,en,PENDING
-excessive,en,PENDING
-exchange,en,PENDING
-exclude,en,PENDING
-exclusion,en,PENDING
-exclusive,en,PENDING
-exclusively,en,PENDING
-exemplify,en,PENDING
-exercise,en,PENDING
-exist,en,PENDING
-existence,en,PENDING
-expand,en,PENDING
-expansion,en,PENDING
-expect,en,PENDING
-expectation,en,PENDING
-experience,en,PENDING
-experiment,en,PENDING
-experimental,en,PENDING
-expert,en,PENDING
-expertise,en,PENDING
-explain,en,PENDING
-explanation,en,PENDING
-explanatory,en,PENDING
-explicit,en,PENDING
-explicitly,en,PENDING
-exploit,en,PENDING
-exploitation,en,PENDING
-exploration,en,PENDING
-explore,en,PENDING
-expose,en,PENDING
-express,en,PENDING
-expression,en,PENDING
-extend,en,PENDING
-extension,en,PENDING
-extensive,en,PENDING
-extent,en,PENDING
-external,en,PENDING
-extreme,en,PENDING
-extremely,en,PENDING
-facilitate,en,PENDING
-facility,en,PENDING
-fact,en,PENDING
-factor,en,PENDING
-fail,en,PENDING
-failure,en,PENDING
-fairly,en,PENDING
-familiar,en,PENDING
-famous,en,PENDING
-favour,en,PENDING
-favourable,en,PENDING
-feature of,en,PENDING
-feature,en,PENDING
-features of,en,PENDING
-federal,en,PENDING
-female,en,PENDING
-field,en,PENDING
-final,en,PENDING
-finally,en,PENDING
-financial,en,PENDING
-find,en,PENDING
-finding,en,PENDING
+et cetera (et cetera),en,PENDING
+ethic n.,en,PENDING
+ethical adj.,en,PENDING
+ethnic adj.,en,PENDING
+ethnicity n.,en,PENDING
+evaluate v.,en,PENDING
+evaluation n.,en,PENDING
+event n.,en,PENDING
+evidence n.,en,PENDING
+evidence of/that/for,en,PENDING
+evident adj.,en,PENDING
+evolution n.,en,PENDING
+evolutionary adj.,en,PENDING
+evolve v.,en,PENDING
+exactly adv.,en,PENDING
+exam n.,en,PENDING
+examination n.,en,PENDING
+examine v.,en,PENDING
+example n.,en,PENDING
+exceed v.,en,PENDING
+exception n.,en,PENDING
+excess n.,en,PENDING
+excessive adj.,en,PENDING
+exchange n.,en,PENDING
+exclude v.,en,PENDING
+exclusion n.,en,PENDING
+exclusive adj.,en,PENDING
+exclusively adv.,en,PENDING
+exemplify v.,en,PENDING
+"exercise n., v.",en,PENDING
+exist v.,en,PENDING
+existence n.,en,PENDING
+expand v.,en,PENDING
+expansion n.,en,PENDING
+expect v.,en,PENDING
+expectation n.,en,PENDING
+"experience n., v.",en,PENDING
+experiment n.,en,PENDING
+experimental adj.,en,PENDING
+"expert n., adj.",en,PENDING
+expertise n.,en,PENDING
+explain v.,en,PENDING
+explanation n.,en,PENDING
+explanatory adj.,en,PENDING
+explicit adj.,en,PENDING
+explicitly adj.,en,PENDING
+exploit v.,en,PENDING
+exploitation n.,en,PENDING
+exploration n.,en,PENDING
+explore v.,en,PENDING
+expose v.,en,PENDING
+express v.,en,PENDING
+expression n.,en,PENDING
+extend v.,en,PENDING
+extension n.,en,PENDING
+extensive adj.,en,PENDING
+extent n.,en,PENDING
+external adj.,en,PENDING
+"extreme adj., n.",en,PENDING
+extremely adv.,en,PENDING
+facilitate v.,en,PENDING
+facility n.,en,PENDING
+fact n.,en,PENDING
+factor n.,en,PENDING
+fail v.,en,PENDING
+failure n.,en,PENDING
+fairly adv.,en,PENDING
+familiar adj.,en,PENDING
+famous adj.,en,PENDING
+favour v.,en,PENDING
+favourable adj.,en,PENDING
+feature n.,en,PENDING
+"feature n., v.",en,PENDING
+feature(s) of,en,PENDING
+federal adj.,en,PENDING
+"female adj., n.",en,PENDING
+"female n., adj.",en,PENDING
+field n.,en,PENDING
+final adj.,en,PENDING
+finally adv.,en,PENDING
+financial adj.,en,PENDING
+find v.,en,PENDING
+finding n.,en,PENDING
 first of all,en,PENDING
-flexibility,en,PENDING
-flexible,en,PENDING
-flow,en,PENDING
+flexibility n.,en,PENDING
+flexible adj.,en,PENDING
+"flow n., v.",en,PENDING
+"focus n., v.",en,PENDING
 focus on,en,PENDING
-focus,en,PENDING
-following,en,PENDING
+"focus v., n.",en,PENDING
+"following adj., prep.",en,PENDING
 for a long time,en,PENDING
 for a number of reasons,en,PENDING
 for example,en,PENDING
 for instance,en,PENDING
 for the moment,en,PENDING
-for the purpose of,en,PENDING
-for the purposes of,en,PENDING
+for the purpose(s) of,en,PENDING
 for those of you,en,PENDING
-force,en,PENDING
-foreign,en,PENDING
-form,en,PENDING
-formal,en,PENDING
-formation,en,PENDING
-formula,en,PENDING
-formulate,en,PENDING
-formulation,en,PENDING
+force n.,en,PENDING
+"force n., v.",en,PENDING
+foreign adj.,en,PENDING
+"form n., v.",en,PENDING
+formal adj.,en,PENDING
+formation n.,en,PENDING
+formula n.,en,PENDING
+formulate v.,en,PENDING
+formulation n.,en,PENDING
 found that,en,PENDING
-found to be,en,PENDING
-framework,en,PENDING
-free,en,PENDING
-frequent,en,PENDING
-frequently,en,PENDING
-from the fact that,en,PENDING
+framework n.,en,PENDING
+free adj.,en,PENDING
+frequent adj.,en,PENDING
+frequently adv.,en,PENDING
 from the perspective of,en,PENDING
 from the point of view of,en,PENDING
-fully,en,PENDING
-function,en,PENDING
-functional,en,PENDING
-fund,en,PENDING
-fundamental,en,PENDING
-fundamentally,en,PENDING
-funding,en,PENDING
-further,en,PENDING
-furthermore,en,PENDING
-future,en,PENDING
-gain,en,PENDING
-gap,en,PENDING
-gender,en,PENDING
-general,en,PENDING
-generalization,en,PENDING
-generalize,en,PENDING
-generally,en,PENDING
-generate,en,PENDING
-generation,en,PENDING
-geographical,en,PENDING
+fully adv.,en,PENDING
+"function n., v.",en,PENDING
+functional adj.,en,PENDING
+"fund n., v.",en,PENDING
+fundamental adj.,en,PENDING
+fundamentally adv.,en,PENDING
+"funding from baleap, euralex, the british academy and the arts and humanities research council.",en,PENDING
+funding n.,en,PENDING
+further adj.,en,PENDING
+furthermore adv.,en,PENDING
+"future adj., n.",en,PENDING
+"gain n., v.",en,PENDING
+gap n.,en,PENDING
+gender n.,en,PENDING
+general adj.,en,PENDING
+"general adj., n.",en,PENDING
+generalization n.,en,PENDING
+generalize v.,en,PENDING
+generally adv.,en,PENDING
+generate v.,en,PENDING
+generation n.,en,PENDING
+geographical adj.,en,PENDING
 give rise to,en,PENDING
-given,en,PENDING
-global,en,PENDING
-go back to that,en,PENDING
-go back to,en,PENDING
+given adj.,en,PENDING
+global adj.,en,PENDING
+go back to (that),en,PENDING
 go on to,en,PENDING
-goal,en,PENDING
+goal n.,en,PENDING
 going to be talking about,en,PENDING
-going to come to,en,PENDING
 going to give you an example,en,PENDING
 going to go into,en,PENDING
 going to go through,en,PENDING
@@ -769,115 +791,97 @@ going to look at,en,PENDING
 going to say,en,PENDING
 going to show you,en,PENDING
 going to talk about,en,PENDING
-govern,en,PENDING
-government,en,PENDING
-governmental,en,PENDING
-greater than,en,PENDING
-group,en,PENDING
-grow,en,PENDING
-growth,en,PENDING
-guess,en,PENDING
-guidance,en,PENDING
-handout,en,PENDING
-happen,en,PENDING
-harm,en,PENDING
-harmful,en,PENDING
-has been shown to be,en,PENDING
-has been shown to,en,PENDING
-has the potential to,en,PENDING
+govern v.,en,PENDING
+government n.,en,PENDING
+governmental adj.,en,PENDING
+"group n., v.",en,PENDING
+grow v.,en,PENDING
+growth n.,en,PENDING
+"guess v., n.",en,PENDING
+guidance n.,en,PENDING
+handout n.,en,PENDING
+happen v.,en,PENDING
+harm n.,en,PENDING
+harmful adj.,en,PENDING
+has/have been shown to (be),en,PENDING
+has/have the potential to,en,PENDING
 have a significant impact on,en,PENDING
-have been found to be,en,PENDING
-have been shown to be,en,PENDING
-have been shown to,en,PENDING
 have shown that,en,PENDING
-have the potential to,en,PENDING
 have to look at,en,PENDING
-he or she,en,PENDING
 held that,en,PENDING
-hence,en,PENDING
+hence adv.,en,PENDING
+here adv.,en,PENDING
 here we have,en,PENDING
-here,en,PENDING
-hierarchical,en,PENDING
-hierarchy,en,PENDING
+hierarchical adj.,en,PENDING
+hierarchy n.,en,PENDING
+high adj.,en,PENDING
 high levels of,en,PENDING
-high,en,PENDING
-higher than,en,PENDING
-highlight,en,PENDING
-highly,en,PENDING
-his or her,en,PENDING
-historically,en,PENDING
-history,en,PENDING
-hopefully,en,PENDING
-horizontal,en,PENDING
-however,en,PENDING
-huge,en,PENDING
-human,en,PENDING
-hypothesis,en,PENDING
-hypothesize,en,PENDING
-hypothetical,en,PENDING
-i just want to,en,PENDING
+highlight v.,en,PENDING
+highly adv.,en,PENDING
+his or her he or she men and women,en,PENDING
+historically adv.,en,PENDING
+history n.,en,PENDING
+hopefully adv.,en,PENDING
+horizontal adj.,en,PENDING
+however adv.,en,PENDING
+huge adj.,en,PENDING
+human adj.,en,PENDING
+"human adj., n.",en,PENDING
+hypothesis n.,en,PENDING
+hypothesize v.,en,PENDING
+hypothetical adj.,en,PENDING
+i (just) want to,en,PENDING
 i suppose,en,PENDING
-i think that,en,PENDING
-i think,en,PENDING
-i want to talk about at,en,PENDING
-i want to talk about say,en,PENDING
-i want to talk look at,en,PENDING
-i want to talk look say,en,PENDING
-i want to,en,PENDING
-i was going to are going to,en,PENDING
-i was going we are going to,en,PENDING
+i think (that),en,PENDING
+i want to talk about / look at,en,PENDING
+i was going to / we are going to,en,PENDING
 i was talking about,en,PENDING
 i would like to,en,PENDING
 i would say,en,PENDING
-idea,en,PENDING
-ideal,en,PENDING
-ideally,en,PENDING
-identical,en,PENDING
-identification,en,PENDING
-identify,en,PENDING
-identity,en,PENDING
+idea n.,en,PENDING
+"ideal adj., n.",en,PENDING
+ideally adv.,en,PENDING
+identical adj.,en,PENDING
+identification n.,en,PENDING
+identify v.,en,PENDING
+identity n.,en,PENDING
 if and only if,en,PENDING
-if we look at,en,PENDING
 if you like,en,PENDING
-if you look at,en,PENDING
 if you remember,en,PENDING
+if you think about (it),en,PENDING
 if you think about it,en,PENDING
-if you think about,en,PENDING
-illustrate,en,PENDING
-image,en,PENDING
-immediate,en,PENDING
-impact,en,PENDING
-implement,en,PENDING
-implementation,en,PENDING
-implicit,en,PENDING
-implicitly,en,PENDING
-imply,en,PENDING
-importance,en,PENDING
-important,en,PENDING
-importantly,en,PENDING
-impose,en,PENDING
-improve,en,PENDING
-improvement,en,PENDING
+if you/we look at,en,PENDING
+illustrate v.,en,PENDING
+image n.,en,PENDING
+immediate adj.,en,PENDING
+impact n.,en,PENDING
+"impact n., v.",en,PENDING
+implement v.,en,PENDING
+implementation n.,en,PENDING
+implicit adj.,en,PENDING
+implicitly adv.,en,PENDING
+imply v.,en,PENDING
+importance n.,en,PENDING
+important adj.,en,PENDING
+importantly adv.,en,PENDING
+impose v.,en,PENDING
+improve v.,en,PENDING
+improvement n.,en,PENDING
 in a minute,en,PENDING
 in a moment,en,PENDING
 in a number of ways,en,PENDING
-in a range of,en,PENDING
 in a sense,en,PENDING
 in a variety of ways,en,PENDING
-in a variety of,en,PENDING
-in a way that,en,PENDING
 in a way,en,PENDING
-in a wide range of,en,PENDING
-in a wide variety of,en,PENDING
+in a way that,en,PENDING
 in accordance with,en,PENDING
 in addition,en,PENDING
-in contrast to,en,PENDING
 in contrast,en,PENDING
+in contrast to,en,PENDING
 in fact,en,PENDING
 in front of you,en,PENDING
 in general,en,PENDING
-in much the same way as,en,PENDING
-in much the same way,en,PENDING
+in much the same way (as),en,PENDING
 in order to,en,PENDING
 in other words,en,PENDING
 in part,en,PENDING
@@ -892,18 +896,12 @@ in some cases,en,PENDING
 in some way,en,PENDING
 in some ways,en,PENDING
 in spite of the fact that,en,PENDING
-in such a way that,en,PENDING
 in such a way,en,PENDING
+in such a way (that),en,PENDING
 in terms of,en,PENDING
-in that case,en,PENDING
-in that way,en,PENDING
-in the absence of any,en,PENDING
-in the absence of,en,PENDING
 in the area of,en,PENDING
 in the case of,en,PENDING
-in the context of,en,PENDING
 in the course of,en,PENDING
-in the development of,en,PENDING
 in the event of,en,PENDING
 in the field of,en,PENDING
 in the first place,en,PENDING
@@ -911,856 +909,850 @@ in the form of,en,PENDING
 in the future,en,PENDING
 in the light of,en,PENDING
 in the literature,en,PENDING
-in the next section,en,PENDING
 in the past,en,PENDING
 in the presence of,en,PENDING
-in the previous section,en,PENDING
+in the previous/next section,en,PENDING
 in the process of,en,PENDING
 in the range of,en,PENDING
-in the same way as,en,PENDING
-in the same way that,en,PENDING
 in the same way,en,PENDING
-in the sense of,en,PENDING
-in the sense that,en,PENDING
-in the sense,en,PENDING
-in the study of,en,PENDING
+in the same way (as/that),en,PENDING
+in the sense (that),en,PENDING
+in the sense that/of,en,PENDING
 in the study,en,PENDING
+in the study of,en,PENDING
 in the way that,en,PENDING
-in the wide range of,en,PENDING
 in this case,en,PENDING
 in this chapter,en,PENDING
 in this course,en,PENDING
 in this study,en,PENDING
 in this way,en,PENDING
+in this/that case,en,PENDING
+in this/that way,en,PENDING
 in turn,en,PENDING
-inability,en,PENDING
-inadequate,en,PENDING
-inappropriate,en,PENDING
-include,en,PENDING
-including,en,PENDING
-inclusion,en,PENDING
-inconsistent,en,PENDING
-incorporate,en,PENDING
+in/within the context of,en,PENDING
+inability n.,en,PENDING
+inadequate adj.,en,PENDING
+inappropriate adj.,en,PENDING
+include v.,en,PENDING
+including prep.,en,PENDING
+inclusion n.,en,PENDING
+inconsistent adj.,en,PENDING
+incorporate v.,en,PENDING
 increase in the number of,en,PENDING
-increase,en,PENDING
-increasingly,en,PENDING
-indeed,en,PENDING
-independence,en,PENDING
-independent,en,PENDING
-independently,en,PENDING
-index,en,PENDING
-indicate that,en,PENDING
-indicate,en,PENDING
-indicates that,en,PENDING
-indication,en,PENDING
-indicator,en,PENDING
-indirect,en,PENDING
-indirectly,en,PENDING
-individual,en,PENDING
-individually,en,PENDING
-induce,en,PENDING
-induction,en,PENDING
-inequality,en,PENDING
-infer,en,PENDING
-inference,en,PENDING
-influence,en,PENDING
-inform,en,PENDING
-information,en,PENDING
-informed,en,PENDING
-inherent,en,PENDING
-initial,en,PENDING
-initially,en,PENDING
-initiate,en,PENDING
-initiation,en,PENDING
-initiative,en,PENDING
-input,en,PENDING
-insight,en,PENDING
-instability,en,PENDING
-instance,en,PENDING
-instruction,en,PENDING
-instrument,en,PENDING
-insufficient,en,PENDING
-integral,en,PENDING
-integrate,en,PENDING
-integrated,en,PENDING
-integration,en,PENDING
-intend,en,PENDING
-intensity,en,PENDING
-intensive,en,PENDING
-intention,en,PENDING
-interact,en,PENDING
-interaction,en,PENDING
-interactive,en,PENDING
-interest,en,PENDING
+"increase n., v.",en,PENDING
+"increase v., n.",en,PENDING
+increasingly adv.,en,PENDING
+indeed adv.,en,PENDING
+independence n.,en,PENDING
+independent adj.,en,PENDING
+independently adv.,en,PENDING
+index n.,en,PENDING
+indicate v.,en,PENDING
+indicate(s) that,en,PENDING
+indication n.,en,PENDING
+indicator n.,en,PENDING
+indirect adj.,en,PENDING
+indirectly adv.,en,PENDING
+"individual n., adj.",en,PENDING
+individually adv.,en,PENDING
+induce v.,en,PENDING
+induction n.,en,PENDING
+inequality n.,en,PENDING
+infer v.,en,PENDING
+inference n.,en,PENDING
+"influence n., v.",en,PENDING
+"influence v., n.",en,PENDING
+inform v.,en,PENDING
+information n.,en,PENDING
+informed adj.,en,PENDING
+inherent adj.,en,PENDING
+initial adj.,en,PENDING
+initially adv.,en,PENDING
+initiate v.,en,PENDING
+initiation n.,en,PENDING
+initiative n.,en,PENDING
+input n.,en,PENDING
+insight n.,en,PENDING
+instability n.,en,PENDING
+instance n.,en,PENDING
+instruction n.,en,PENDING
+instrument n.,en,PENDING
+insufficient adj.,en,PENDING
+integral adj.,en,PENDING
+integrate v.,en,PENDING
+integrated adj.,en,PENDING
+integration n.,en,PENDING
+intend v.,en,PENDING
+intensity n.,en,PENDING
+intensive adj.,en,PENDING
+intention n.,en,PENDING
+interact v.,en,PENDING
+interaction n.,en,PENDING
+interactive adj.,en,PENDING
+interest n.,en,PENDING
+interested adj.,en,PENDING
 interested in,en,PENDING
-interested,en,PENDING
-interesting,en,PENDING
-intermediate,en,PENDING
-internal,en,PENDING
-international,en,PENDING
-interpret,en,PENDING
-interpretation,en,PENDING
-interval,en,PENDING
-intervene,en,PENDING
-intervention,en,PENDING
-interview,en,PENDING
-interviewee,en,PENDING
-interviewer,en,PENDING
-intrinsic,en,PENDING
-introduce,en,PENDING
-introduction,en,PENDING
-invent,en,PENDING
-investigate,en,PENDING
-investigation,en,PENDING
-investigator,en,PENDING
-involve,en,PENDING
+interesting adj.,en,PENDING
+intermediate adj.,en,PENDING
+internal adj.,en,PENDING
+international adj.,en,PENDING
+interpret v.,en,PENDING
+interpretation n.,en,PENDING
+interval n.,en,PENDING
+intervene v.,en,PENDING
+intervention n.,en,PENDING
+"interview n., v.",en,PENDING
+interviewee n.,en,PENDING
+interviewer n.,en,PENDING
+intrinsic adj.,en,PENDING
+introduce v.,en,PENDING
+introduction n.,en,PENDING
+invent v.,en,PENDING
+investigate v.,en,PENDING
+investigation n.,en,PENDING
+investigator n.,en,PENDING
+involve v.,en,PENDING
+involved adj.,en,PENDING
 involved in,en,PENDING
-involved,en,PENDING
-involvement,en,PENDING
-irrelevant,en,PENDING
-is a function of,en,PENDING
+involvement n.,en,PENDING
+irrelevant adj.,en,PENDING
 is a good example of,en,PENDING
 is a measure of,en,PENDING
-is a result of,en,PENDING
-is an example of,en,PENDING
-is associated with,en,PENDING
+is a/the result of,en,PENDING
 is based on,en,PENDING
 is consistent with,en,PENDING
 is defined as,en,PENDING
-is due to,en,PENDING
 is equal to,en,PENDING
 is important to,en,PENDING
-is likely to be,en,PENDING
-is likely to,en,PENDING
-is more likely to be,en,PENDING
-is more likely to,en,PENDING
-is not the same as,en,PENDING
-is not the same thing as,en,PENDING
-is not to say that,en,PENDING
-is not to suggest that,en,PENDING
-is often referred to as,en,PENDING
-is referred to as,en,PENDING
+is not the same (thing) as,en,PENDING
 is related to,en,PENDING
-is shown in,en,PENDING
 is the most common cause of,en,PENDING
-is the result of,en,PENDING
-isolated,en,PENDING
-isolation,en,PENDING
-issue,en,PENDING
-it can be argued that,en,PENDING
+is/are likely to,en,PENDING
+is/are likely to be,en,PENDING
+is/are shown in,en,PENDING
+is/are/were more likely to (be),en,PENDING
+isolated adj.,en,PENDING
+isolation n.,en,PENDING
+issue n.,en,PENDING
 it can be seen that,en,PENDING
 it can be shown that,en,PENDING
-it could be argued that,en,PENDING
+it could/can be argued that,en,PENDING
 it has been argued that,en,PENDING
 it has been shown that,en,PENDING
 it has been suggested that,en,PENDING
+it is (not) possible to/that,en,PENDING
 it is clear that,en,PENDING
-it is difficult to see how,en,PENDING
-it is difficult to see,en,PENDING
 it is difficult to,en,PENDING
+it is difficult to see (how),en,PENDING
 it is easy to see that,en,PENDING
 it is fair to say that,en,PENDING
 it is for this reason that,en,PENDING
-it is important to be aware bear in mind,en,PENDING
-it is important to be aware of in mind,en,PENDING
+it is important (to),en,PENDING
 it is important to note that,en,PENDING
 it is important to realize that,en,PENDING
-it is important to recognize aware bear in mind,en,PENDING
-it is important to recognize aware of in mind,en,PENDING
+it is important to recognize /be aware of/,en,PENDING
 it is important to remember that,en,PENDING
 it is important to understand,en,PENDING
-it is important to,en,PENDING
-it is important,en,PENDING
 it is impossible to,en,PENDING
 it is interesting to note that,en,PENDING
 it is likely that,en,PENDING
 it is necessary to,en,PENDING
 it is not clear,en,PENDING
-it is not possible that,en,PENDING
-it is not possible to,en,PENDING
 it is not surprising that,en,PENDING
-it is possible that,en,PENDING
-it is possible to,en,PENDING
 it is reasonable to assume that,en,PENDING
 it is useful to,en,PENDING
 it is worth noting that,en,PENDING
-it may be possible to,en,PENDING
 it may be,en,PENDING
-it seems to me that,en,PENDING
-it seems to me,en,PENDING
+it may be possible to,en,PENDING
+it seems to me (that),en,PENDING
 it should be noted that,en,PENDING
-item,en,PENDING
-journal,en,PENDING
-judgement,en,PENDING
+item n.,en,PENDING
+journal n.,en,PENDING
+judgement n.,en,PENDING
 just going to,en,PENDING
-just to remind you,en,PENDING
-justification,en,PENDING
-justify,en,PENDING
-key,en,PENDING
-kind,en,PENDING
+justification n.,en,PENDING
+justify v.,en,PENDING
+key adj.,en,PENDING
+"key adj., n.",en,PENDING
+kind n.,en,PENDING
 kinds of,en,PENDING
-knowledge,en,PENDING
-label,en,PENDING
-lack,en,PENDING
-language,en,PENDING
-large,en,PENDING
-largely,en,PENDING
+knowledge n.,en,PENDING
+"label v., n.",en,PENDING
+"lack n., v.",en,PENDING
+language n.,en,PENDING
+large adj.,en,PENDING
+largely adv.,en,PENDING
+"later adj., adv.",en,PENDING
 later on,en,PENDING
-later,en,PENDING
-latter,en,PENDING
-law,en,PENDING
-lead to,en,PENDING
-lead,en,PENDING
-leader,en,PENDING
-leadership,en,PENDING
-leads to,en,PENDING
-learn,en,PENDING
-learning,en,PENDING
-lecture,en,PENDING
-lecturer,en,PENDING
-legal,en,PENDING
-legally,en,PENDING
-less likely to,en,PENDING
-less than,en,PENDING
-less,en,PENDING
+latter n.,en,PENDING
+law n.,en,PENDING
+lead v.,en,PENDING
+lead(s) to,en,PENDING
+leader n.,en,PENDING
+leadership n.,en,PENDING
+learn v.,en,PENDING
+learning n.,en,PENDING
+lecture n.,en,PENDING
+lecturer n.,en,PENDING
+legal adj.,en,PENDING
+legally adv.,en,PENDING
+"less adv., det., pron.",en,PENDING
+"less det/pron, adv.",en,PENDING
 let me just,en,PENDING
-level,en,PENDING
+level n.,en,PENDING
 lies at the heart of,en,PENDING
 like this,en,PENDING
-likely,en,PENDING
-limit,en,PENDING
-limitation,en,PENDING
-limited,en,PENDING
-line,en,PENDING
-link,en,PENDING
+likely adj.,en,PENDING
+"likely adj., adv.",en,PENDING
+"limit n., v.",en,PENDING
+"limit v., n.",en,PENDING
+limitation n.,en,PENDING
+limited adj.,en,PENDING
+line n.,en,PENDING
+"link v., n.",en,PENDING
 linked to,en,PENDING
-list,en,PENDING
-literature,en,PENDING
-local,en,PENDING
-localized,en,PENDING
-locally,en,PENDING
-located,en,PENDING
-location,en,PENDING
-logic,en,PENDING
-logical,en,PENDING
+"list n, v.",en,PENDING
+"list v., n.",en,PENDING
+literature n.,en,PENDING
+local adj.,en,PENDING
+localized adj.,en,PENDING
+locally adv.,en,PENDING
+located adj.,en,PENDING
+location n.,en,PENDING
+logic n.,en,PENDING
+logical adj.,en,PENDING
 look at this,en,PENDING
-look,en,PENDING
-loss,en,PENDING
-lots and lots of,en,PENDING
-lots of,en,PENDING
-low,en,PENDING
+look v.,en,PENDING
+loss n.,en,PENDING
+low adj.,en,PENDING
+lower adj.,en,PENDING
 lower than,en,PENDING
-lower,en,PENDING
-main,en,PENDING
-maintain,en,PENDING
-major,en,PENDING
-majority,en,PENDING
-male,en,PENDING
+main adj.,en,PENDING
+maintain v.,en,PENDING
+major adj.,en,PENDING
+majority n.,en,PENDING
+"male adj., n.",en,PENDING
+"male n., adj.",en,PENDING
+many det.,en,PENDING
+many det./pron.,en,PENDING
 many of you,en,PENDING
-many,en,PENDING
-margin,en,PENDING
-material,en,PENDING
-matter,en,PENDING
-maximize,en,PENDING
-maximum,en,PENDING
+margin n.,en,PENDING
+material n.,en,PENDING
+"material n., adj.",en,PENDING
+matter n.,en,PENDING
+maximize v.,en,PENDING
+"maximum adj., n.",en,PENDING
 may be due to,en,PENDING
-may lead to,en,PENDING
+may modal v.,en,PENDING
 may or may not,en,PENDING
 may well be,en,PENDING
-may,en,PENDING
-meaning,en,PENDING
-meaningful,en,PENDING
-means,en,PENDING
-measure,en,PENDING
-mechanism,en,PENDING
-media,en,PENDING
-mediate,en,PENDING
-medical,en,PENDING
-medium,en,PENDING
-member,en,PENDING
-memory,en,PENDING
-men and women,en,PENDING
-mental,en,PENDING
-mention,en,PENDING
-method,en,PENDING
-methodological,en,PENDING
-methodology,en,PENDING
-middle,en,PENDING
-might,en,PENDING
-migrate,en,PENDING
-migration,en,PENDING
-minimal,en,PENDING
-minimize,en,PENDING
-minimum,en,PENDING
-minor,en,PENDING
-minority,en,PENDING
-mix,en,PENDING
-mobile,en,PENDING
-mobility,en,PENDING
-mobilize,en,PENDING
-mode,en,PENDING
-model,en,PENDING
-modelling,en,PENDING
-modern,en,PENDING
-modernity,en,PENDING
-modernization,en,PENDING
-modify,en,PENDING
-module,en,PENDING
-moment,en,PENDING
-monitor,en,PENDING
+meaning n.,en,PENDING
+meaningful adj.,en,PENDING
+means n.,en,PENDING
+"measure n., v.",en,PENDING
+mechanism n.,en,PENDING
+media n.,en,PENDING
+mediate v.,en,PENDING
+medical adj.,en,PENDING
+medium n.,en,PENDING
+member n.,en,PENDING
+memory n.,en,PENDING
+mental adj.,en,PENDING
+mention v.,en,PENDING
+method n.,en,PENDING
+methodological adj.,en,PENDING
+methodology n.,en,PENDING
+middle n.,en,PENDING
+might modal v.,en,PENDING
+migrate v.,en,PENDING
+migration n.,en,PENDING
+minimal adj.,en,PENDING
+minimize v.,en,PENDING
+"minimum adj., n.",en,PENDING
+minor adj.,en,PENDING
+minority n.,en,PENDING
+mix v.,en,PENDING
+mobile adj.,en,PENDING
+mobility n.,en,PENDING
+mobilize v.,en,PENDING
+mode n.,en,PENDING
+model n.,en,PENDING
+"model n., v.",en,PENDING
+modelling n.,en,PENDING
+modern adj.,en,PENDING
+modernity n.,en,PENDING
+modernization n.,en,PENDING
+modify v.,en,PENDING
+module n.,en,PENDING
+moment n.,en,PENDING
+monitor v.,en,PENDING
 more and more,en,PENDING
 more likely to,en,PENDING
 more or less,en,PENDING
-more than,en,PENDING
-moreover,en,PENDING
+more/greater/higher/less/,en,PENDING
+moreover adv.,en,PENDING
+most det.,en,PENDING
 most of you,en,PENDING
-most,en,PENDING
-motivate,en,PENDING
-motivation,en,PENDING
+motivate v.,en,PENDING
+motivation n.,en,PENDING
 move on to,en,PENDING
-move,en,PENDING
-movement,en,PENDING
-multiple,en,PENDING
-must,en,PENDING
-namely,en,PENDING
-national,en,PENDING
-natural,en,PENDING
-naturally,en,PENDING
-nature,en,PENDING
-necessarily,en,PENDING
-necessary,en,PENDING
-necessity,en,PENDING
-need to be taken into account,en,PENDING
-need,en,PENDING
-negative,en,PENDING
-negatively,en,PENDING
-net,en,PENDING
-network,en,PENDING
-neutral,en,PENDING
-nevertheless,en,PENDING
-new,en,PENDING
-norm,en,PENDING
-normal,en,PENDING
-normally,en,PENDING
+move v.,en,PENDING
+movement n.,en,PENDING
+multiple adj.,en,PENDING
+must modal v.,en,PENDING
+namely adv.,en,PENDING
+national adj.,en,PENDING
+"national adj., n.",en,PENDING
+natural adj.,en,PENDING
+naturally adv.,en,PENDING
+nature n.,en,PENDING
+necessarily adv.,en,PENDING
+necessary adj.,en,PENDING
+necessity n.,en,PENDING
+need n.,en,PENDING
+need v.,en,PENDING
+negative adj.,en,PENDING
+"negative adj., n.",en,PENDING
+negatively adv.,en,PENDING
+net adj.,en,PENDING
+network n.,en,PENDING
+neutral adj.,en,PENDING
+nevertheless adv.,en,PENDING
+new adj.,en,PENDING
+norm n.,en,PENDING
+normal adj.,en,PENDING
+normally adv.,en,PENDING
 not necessarily,en,PENDING
-not only but also,en,PENDING
-note that,en,PENDING
-note,en,PENDING
+"note n., v.",en,PENDING
+note v.,en,PENDING
 nothing to do with,en,PENDING
-notion,en,PENDING
-novel,en,PENDING
-number,en,PENDING
-object,en,PENDING
-objective,en,PENDING
-observation,en,PENDING
-observe,en,PENDING
+notion n.,en,PENDING
+novel adj.,en,PENDING
+number n.,en,PENDING
+object n.,en,PENDING
+"objective n., adj.",en,PENDING
+observation n.,en,PENDING
+observe v.,en,PENDING
 observed in,en,PENDING
-observer,en,PENDING
-obtain,en,PENDING
-obvious,en,PENDING
-obviously,en,PENDING
-occupation,en,PENDING
-occupy,en,PENDING
-occur,en,PENDING
-occurrence,en,PENDING
+observer n.,en,PENDING
+obtain v.,en,PENDING
+obvious adj.,en,PENDING
+obviously adv.,en,PENDING
+occupation n.,en,PENDING
+occupy v.,en,PENDING
+occur v.,en,PENDING
+occurrence n.,en,PENDING
 of course,en,PENDING
 of some kind,en,PENDING
 of the total,en,PENDING
 of this chapter,en,PENDING
 of this study,en,PENDING
-offer,en,PENDING
-often referred to as,en,PENDING
-often,en,PENDING
+offer v.,en,PENDING
+often adv.,en,PENDING
+"ok exclam, adj., adv.",en,PENDING
 ok now,en,PENDING
 ok so,en,PENDING
-ok,en,PENDING
 on the basis of,en,PENDING
-on the basis that,en,PENDING
+on the basis of/that,en,PENDING
 on the board,en,PENDING
-on the handout,en,PENDING
 on the one hand,en,PENDING
 on the other hand,en,PENDING
 on the part of,en,PENDING
 on the whole,en,PENDING
-on your handout,en,PENDING
+on the/your handout,en,PENDING
 one of the key,en,PENDING
-one of the most important,en,PENDING
 one of the most,en,PENDING
 one of the reasons,en,PENDING
 one of the things,en,PENDING
 one or more of,en,PENDING
-ongoing,en,PENDING
-online,en,PENDING
-operate,en,PENDING
-operation,en,PENDING
-operational,en,PENDING
-opportunity,en,PENDING
-optimal,en,PENDING
-option,en,PENDING
+ongoing adj.,en,PENDING
+online adj.,en,PENDING
+"opal has been created with reference to the following corpora: the oxford corpus of academic english (ocae),",en,PENDING
+operate v.,en,PENDING
+operation n.,en,PENDING
+operational adj.,en,PENDING
+opportunity n.,en,PENDING
+optimal adj.,en,PENDING
+option n.,en,PENDING
 or something like that,en,PENDING
 or whatever,en,PENDING
-order,en,PENDING
-ordinary,en,PENDING
-organization,en,PENDING
-organize,en,PENDING
-orient,en,PENDING
-orientation,en,PENDING
-origin,en,PENDING
-original,en,PENDING
-originally,en,PENDING
-originate,en,PENDING
-other,en,PENDING
-otherwise,en,PENDING
+order n.,en,PENDING
+"order n., v.",en,PENDING
+ordinary adj.,en,PENDING
+organization n.,en,PENDING
+organize v.,en,PENDING
+orient v.,en,PENDING
+orientation n.,en,PENDING
+origin n.,en,PENDING
+original adj.,en,PENDING
+originally adv.,en,PENDING
+originate v.,en,PENDING
+other adj.,en,PENDING
+otherwise adv.,en,PENDING
 our understanding of,en,PENDING
-outcome,en,PENDING
-outline,en,PENDING
-output,en,PENDING
-over a period of time,en,PENDING
+outcome n.,en,PENDING
+outline v.,en,PENDING
+output n.,en,PENDING
 over time,en,PENDING
-overall,en,PENDING
-overlap,en,PENDING
-overview,en,PENDING
-parallel,en,PENDING
-part,en,PENDING
-partial,en,PENDING
-partially,en,PENDING
-participant,en,PENDING
-participate,en,PENDING
-participation,en,PENDING
-particular,en,PENDING
-particularly,en,PENDING
-partly,en,PENDING
-pattern,en,PENDING
-per cent,en,PENDING
-per,en,PENDING
-perceive,en,PENDING
-percentage,en,PENDING
-perception,en,PENDING
-perfectly,en,PENDING
-perform,en,PENDING
-performance,en,PENDING
-perhaps,en,PENDING
+"overall adj., adv.",en,PENDING
+"overlap v., n.",en,PENDING
+overview n.,en,PENDING
+"parallel adj., n.",en,PENDING
+parallel n.,en,PENDING
+part n.,en,PENDING
+partial adj.,en,PENDING
+partially adv.,en,PENDING
+participant n.,en,PENDING
+participate v.,en,PENDING
+participation n.,en,PENDING
+particular adj.,en,PENDING
+"particular adj., n.",en,PENDING
+particularly adv.,en,PENDING
+partly adv.,en,PENDING
+pattern n.,en,PENDING
+"per cent adj., n.",en,PENDING
+"per cent n., adj.",en,PENDING
+per prep.,en,PENDING
+perceive v.,en,PENDING
+percentage n.,en,PENDING
+perception n.,en,PENDING
+perfectly adv.,en,PENDING
+perform v.,en,PENDING
+performance n.,en,PENDING
+perhaps adv.,en,PENDING
+period n.,en,PENDING
 period of time,en,PENDING
-period,en,PENDING
-permit,en,PENDING
-personal,en,PENDING
-perspective,en,PENDING
-phase,en,PENDING
-phenomenon,en,PENDING
-physical,en,PENDING
-picture,en,PENDING
+permit v.,en,PENDING
+personal adj.,en,PENDING
+perspective n.,en,PENDING
+phase n.,en,PENDING
+phenomenon n.,en,PENDING
+physical adj.,en,PENDING
+picture n.,en,PENDING
 play a key role in,en,PENDING
 play a role in,en,PENDING
-play an important role in,en,PENDING
-play an important role,en,PENDING
-plays an important role in,en,PENDING
-plays an important role,en,PENDING
-point,en,PENDING
-policy,en,PENDING
-popular,en,PENDING
-population,en,PENDING
-pose,en,PENDING
-position,en,PENDING
-positive,en,PENDING
-positively,en,PENDING
-possibility,en,PENDING
-possible,en,PENDING
-potential,en,PENDING
-potentially,en,PENDING
-poverty,en,PENDING
-power,en,PENDING
-powerful,en,PENDING
-practical,en,PENDING
-practice,en,PENDING
-practitioner,en,PENDING
-precede,en,PENDING
-precise,en,PENDING
-precisely,en,PENDING
-precision,en,PENDING
-predict,en,PENDING
-prediction,en,PENDING
-predominantly,en,PENDING
-prefer,en,PENDING
-preference,en,PENDING
-presence,en,PENDING
-present,en,PENDING
-presentation,en,PENDING
-pressure,en,PENDING
-prevent,en,PENDING
-prevention,en,PENDING
-previous,en,PENDING
-previously,en,PENDING
-primarily,en,PENDING
-primary,en,PENDING
-principle,en,PENDING
+play(s) an important role (in),en,PENDING
+point n.,en,PENDING
+"point n., v.",en,PENDING
+policy n.,en,PENDING
+popular adj.,en,PENDING
+population n.,en,PENDING
+pose v.,en,PENDING
+position n.,en,PENDING
+"position n., v.",en,PENDING
+positive adj.,en,PENDING
+"positive adj., n.",en,PENDING
+positively adv.,en,PENDING
+possibility n.,en,PENDING
+possible adj.,en,PENDING
+"potential adj., n.",en,PENDING
+potentially adv.,en,PENDING
+poverty n.,en,PENDING
+power n.,en,PENDING
+powerful adj.,en,PENDING
+practical adj.,en,PENDING
+"practical adj., n.",en,PENDING
+practice n.,en,PENDING
+practitioner n.,en,PENDING
+precede v.,en,PENDING
+precise adj.,en,PENDING
+precisely adv.,en,PENDING
+precision n.,en,PENDING
+predict v.,en,PENDING
+prediction n.,en,PENDING
+predominantly adv.,en,PENDING
+prefer v.,en,PENDING
+preference n.,en,PENDING
+presence n.,en,PENDING
+"present adj., v., n.",en,PENDING
+presentation n.,en,PENDING
+pressure n.,en,PENDING
+prevent v.,en,PENDING
+prevention n.,en,PENDING
+previous adj.,en,PENDING
+previously adv.,en,PENDING
+primarily adv.,en,PENDING
+primary adj.,en,PENDING
+principle n.,en,PENDING
+prior adj.,en,PENDING
 prior to,en,PENDING
-prior,en,PENDING
-priority,en,PENDING
-private,en,PENDING
-probability,en,PENDING
-problem,en,PENDING
-problematic,en,PENDING
-procedural,en,PENDING
-procedure,en,PENDING
-process,en,PENDING
-produce,en,PENDING
-product,en,PENDING
-production,en,PENDING
-productive,en,PENDING
-professional,en,PENDING
-profile,en,PENDING
-programme,en,PENDING
-progress,en,PENDING
-progression,en,PENDING
-progressive,en,PENDING
-project,en,PENDING
-projection,en,PENDING
-promote,en,PENDING
-promotion,en,PENDING
-proportion,en,PENDING
-proportional,en,PENDING
-proposal,en,PENDING
-propose,en,PENDING
-proposition,en,PENDING
-protect,en,PENDING
-protection,en,PENDING
-protocol,en,PENDING
-provide,en,PENDING
-psychological,en,PENDING
-public,en,PENDING
-publish,en,PENDING
-pure,en,PENDING
-purpose,en,PENDING
-qualitative,en,PENDING
-quality,en,PENDING
-quantify,en,PENDING
-quantitative,en,PENDING
-quantity,en,PENDING
-question,en,PENDING
-quickly,en,PENDING
-quite a lot of,en,PENDING
-quite a lot,en,PENDING
-quote,en,PENDING
-race,en,PENDING
-random,en,PENDING
-randomize,en,PENDING
-randomly,en,PENDING
-range,en,PENDING
-rapid,en,PENDING
-rapidly,en,PENDING
-rate,en,PENDING
+priority n.,en,PENDING
+private adj.,en,PENDING
+probability n.,en,PENDING
+problem n.,en,PENDING
+problematic adj.,en,PENDING
+procedural adj.,en,PENDING
+procedure n.,en,PENDING
+process n.,en,PENDING
+"process n., v.",en,PENDING
+produce v.,en,PENDING
+"produce v., n.",en,PENDING
+product n.,en,PENDING
+production n.,en,PENDING
+productive adj.,en,PENDING
+"professional adj., n.",en,PENDING
+"professional n., adj.",en,PENDING
+profile n.,en,PENDING
+programme n.,en,PENDING
+progress n.,en,PENDING
+progression n.,en,PENDING
+progressive adj.,en,PENDING
+"project n., v.",en,PENDING
+projection n.,en,PENDING
+promote v.,en,PENDING
+promotion n.,en,PENDING
+proportion n.,en,PENDING
+proportional adj.,en,PENDING
+proposal n.,en,PENDING
+propose v.,en,PENDING
+proposition n.,en,PENDING
+protect v.,en,PENDING
+protection n.,en,PENDING
+protocol n.,en,PENDING
+provide v.,en,PENDING
+psychological adj.,en,PENDING
+"public adj., n.",en,PENDING
+publish v.,en,PENDING
+pure adj.,en,PENDING
+purpose n.,en,PENDING
+qualitative adj.,en,PENDING
+quality n.,en,PENDING
+quantify v.,en,PENDING
+quantitative adj.,en,PENDING
+quantity n.,en,PENDING
+question n.,en,PENDING
+"question n., v.",en,PENDING
+quickly adv.,en,PENDING
+"quote v., n.",en,PENDING
+race n.,en,PENDING
+random adj.,en,PENDING
+randomize v.,en,PENDING
+randomly adv.,en,PENDING
+range n.,en,PENDING
+"range n., v.",en,PENDING
+rapid adj.,en,PENDING
+rapidly adv.,en,PENDING
+rate n.,en,PENDING
+"rate n., v.",en,PENDING
+rather adv.,en,PENDING
 rather than,en,PENDING
-rather,en,PENDING
-rating,en,PENDING
-ratio,en,PENDING
-rational,en,PENDING
-rationale,en,PENDING
-rationality,en,PENDING
-reach,en,PENDING
-react,en,PENDING
-reaction,en,PENDING
-read,en,PENDING
-readily,en,PENDING
-reading,en,PENDING
-real,en,PENDING
-reality,en,PENDING
-reason,en,PENDING
-reasonable,en,PENDING
-reasonably,en,PENDING
-reasoning,en,PENDING
+rating n.,en,PENDING
+ratio n.,en,PENDING
+rational adj.,en,PENDING
+rationale n.,en,PENDING
+rationality n.,en,PENDING
+reach v.,en,PENDING
+react v.,en,PENDING
+reaction n.,en,PENDING
+read v.,en,PENDING
+readily adv.,en,PENDING
+reading n.,en,PENDING
+reading under the directorship of hilary nesi and paul thompson. corpus development of base was assisted by,en,PENDING
+real adj.,en,PENDING
+reality n.,en,PENDING
+reason n.,en,PENDING
+reasonable adj.,en,PENDING
+reasonably adv.,en,PENDING
+reasoning n.,en,PENDING
 reasons for,en,PENDING
-recent,en,PENDING
-recently,en,PENDING
-recognition,en,PENDING
-recognize,en,PENDING
-recommend,en,PENDING
-reconstruct,en,PENDING
-reconstruction,en,PENDING
-record,en,PENDING
-recording,en,PENDING
-recovery,en,PENDING
-reduce,en,PENDING
+recent adj.,en,PENDING
+recently adv.,en,PENDING
+recognition n.,en,PENDING
+recognize v.,en,PENDING
+recommend v.,en,PENDING
+reconstruct v.,en,PENDING
+reconstruction n.,en,PENDING
+"record v., n.",en,PENDING
+recording n.,en,PENDING
+recovery n.,en,PENDING
+reduce v.,en,PENDING
 reduction in the number of,en,PENDING
-reduction,en,PENDING
-refer to,en,PENDING
-refer,en,PENDING
-reference,en,PENDING
-referred to as,en,PENDING
-refers to,en,PENDING
-reflect,en,PENDING
-reflection,en,PENDING
-regard,en,PENDING
-regarded as,en,PENDING
-regardless of,en,PENDING
-regime,en,PENDING
-region,en,PENDING
-regional,en,PENDING
-regulation,en,PENDING
-reinforce,en,PENDING
-reject,en,PENDING
-rejection,en,PENDING
-relate,en,PENDING
+reduction n.,en,PENDING
+refer v.,en,PENDING
+refer(s) to,en,PENDING
+reference n.,en,PENDING
+reflect v.,en,PENDING
+reflection n.,en,PENDING
+"regard v., n.",en,PENDING
+regardless of prep.,en,PENDING
+regime n.,en,PENDING
+region n.,en,PENDING
+regional adj.,en,PENDING
+regulation n.,en,PENDING
+reinforce v.,en,PENDING
+reject v.,en,PENDING
+rejection n.,en,PENDING
+relate v.,en,PENDING
+related adj.,en,PENDING
 related to,en,PENDING
-related,en,PENDING
 relating to,en,PENDING
-relation,en,PENDING
-relationship,en,PENDING
+relation n.,en,PENDING
+relationship n.,en,PENDING
+"relative adj., n.",en,PENDING
 relative to,en,PENDING
-relative,en,PENDING
-relatively,en,PENDING
-release,en,PENDING
-relevance,en,PENDING
+relatively adv.,en,PENDING
+release n.,en,PENDING
+relevance n.,en,PENDING
+relevant adj.,en,PENDING
 relevant to,en,PENDING
-relevant,en,PENDING
-reliability,en,PENDING
-reliable,en,PENDING
-reliance,en,PENDING
-rely,en,PENDING
-removal,en,PENDING
-remove,en,PENDING
-replace,en,PENDING
-replacement,en,PENDING
-report,en,PENDING
-reporting,en,PENDING
-represent,en,PENDING
-representation,en,PENDING
-representative,en,PENDING
-require,en,PENDING
-requirement,en,PENDING
+reliability n.,en,PENDING
+reliable adj.,en,PENDING
+reliance n.,en,PENDING
+rely v.,en,PENDING
+removal n.,en,PENDING
+remove v.,en,PENDING
+replace v.,en,PENDING
+replacement n.,en,PENDING
+"report v., n.",en,PENDING
+reporting n.,en,PENDING
+represent v.,en,PENDING
+representation n.,en,PENDING
+"representative adj., n.",en,PENDING
+require v.,en,PENDING
+requirement n.,en,PENDING
+research n.,en,PENDING
+"research n., v.",en,PENDING
 research on,en,PENDING
-research,en,PENDING
-researcher,en,PENDING
-resident,en,PENDING
-resistance,en,PENDING
-resistant,en,PENDING
-resolution,en,PENDING
-resolve,en,PENDING
-resource,en,PENDING
-respect,en,PENDING
-respectively,en,PENDING
-respond,en,PENDING
-response,en,PENDING
-responsibility,en,PENDING
+researcher n.,en,PENDING
+resident n.,en,PENDING
+resistance n.,en,PENDING
+resistant adj.,en,PENDING
+resolution n.,en,PENDING
+resolve v.,en,PENDING
+resource n.,en,PENDING
+respect n.,en,PENDING
+respectively adv.,en,PENDING
+respond v.,en,PENDING
+response n.,en,PENDING
+responsibility n.,en,PENDING
+responsible adj.,en,PENDING
 responsible for,en,PENDING
-responsible,en,PENDING
-restrict,en,PENDING
-restriction,en,PENDING
-restrictive,en,PENDING
-result in,en,PENDING
-result,en,PENDING
-results in,en,PENDING
-reveal,en,PENDING
-review,en,PENDING
+restrict v.,en,PENDING
+restriction n.,en,PENDING
+restrictive adj.,en,PENDING
+"result n., v.",en,PENDING
+result(s) in,en,PENDING
+reveal v.,en,PENDING
+review n.,en,PENDING
+right n.,en,PENDING
 right so,en,PENDING
-right,en,PENDING
-rise,en,PENDING
-risk,en,PENDING
-role,en,PENDING
-root,en,PENDING
-roughly,en,PENDING
-rule,en,PENDING
-rural,en,PENDING
-safety,en,PENDING
-same,en,PENDING
-sample,en,PENDING
-sampling,en,PENDING
-satisfaction,en,PENDING
-satisfy,en,PENDING
-scale,en,PENDING
-scenario,en,PENDING
-scheme,en,PENDING
-science,en,PENDING
-scientific,en,PENDING
-scope,en,PENDING
-second,en,PENDING
-secondary,en,PENDING
-secondly,en,PENDING
-section,en,PENDING
-sector,en,PENDING
-security,en,PENDING
+rise n.,en,PENDING
+risk n.,en,PENDING
+role n.,en,PENDING
+root n.,en,PENDING
+roughly adv.,en,PENDING
+rule n.,en,PENDING
+rural adj.,en,PENDING
+safety n.,en,PENDING
+"same adj., pron.",en,PENDING
+sample n.,en,PENDING
+"sample n., v.",en,PENDING
+sampling n.,en,PENDING
+satisfaction n.,en,PENDING
+satisfy v.,en,PENDING
+scale n.,en,PENDING
+"scale n., v.",en,PENDING
+scenario n.,en,PENDING
+scheme n.,en,PENDING
+science n.,en,PENDING
+scientific adj.,en,PENDING
+scope n.,en,PENDING
+second adv.,en,PENDING
+secondary adj.,en,PENDING
+secondly adv.,en,PENDING
+section n.,en,PENDING
+sector n.,en,PENDING
+security n.,en,PENDING
 see also,en,PENDING
-seek,en,PENDING
+seek v.,en,PENDING
 seems to be,en,PENDING
-segment,en,PENDING
-select,en,PENDING
-selection,en,PENDING
-selective,en,PENDING
-seminar,en,PENDING
-sense,en,PENDING
-sensitive,en,PENDING
-sensory,en,PENDING
-separate,en,PENDING
-separately,en,PENDING
-separation,en,PENDING
-sequence,en,PENDING
-series,en,PENDING
-service,en,PENDING
-session,en,PENDING
-set,en,PENDING
-sex,en,PENDING
-sexual,en,PENDING
-sexuality,en,PENDING
-shape,en,PENDING
-share,en,PENDING
-sheet,en,PENDING
-shift,en,PENDING
-should to be taken into account,en,PENDING
-should,en,PENDING
-show that,en,PENDING
-show,en,PENDING
-shows that,en,PENDING
-sign,en,PENDING
-significance,en,PENDING
-significant,en,PENDING
-significantly,en,PENDING
-similar to that of,en,PENDING
-similar to,en,PENDING
-similar,en,PENDING
-similarity,en,PENDING
-similarly,en,PENDING
-simple,en,PENDING
-simplify,en,PENDING
-simply,en,PENDING
-simultaneous,en,PENDING
-simultaneously,en,PENDING
-single,en,PENDING
-site,en,PENDING
-situation,en,PENDING
-size,en,PENDING
-skill,en,PENDING
-slide,en,PENDING
-slightly,en,PENDING
-small,en,PENDING
+segment n.,en,PENDING
+select v.,en,PENDING
+selection n.,en,PENDING
+selective adj.,en,PENDING
+seminar n.,en,PENDING
+sense n.,en,PENDING
+sensitive adj.,en,PENDING
+sensory adj.,en,PENDING
+"separate adj., v.",en,PENDING
+separately adv.,en,PENDING
+separation n.,en,PENDING
+sequence n.,en,PENDING
+series n.,en,PENDING
+service n.,en,PENDING
+session n.,en,PENDING
+set n.,en,PENDING
+"set v., n.",en,PENDING
+sex n.,en,PENDING
+sexual adj.,en,PENDING
+sexuality n.,en,PENDING
+"shape n., v.",en,PENDING
+"shape v., n.",en,PENDING
+"share v., n.",en,PENDING
+sheet n.,en,PENDING
+shift n.,en,PENDING
+"shift n., v.",en,PENDING
+should modal v.,en,PENDING
+show v.,en,PENDING
+show(s) that,en,PENDING
+"sign n., v.",en,PENDING
+significance n.,en,PENDING
+significant adj.,en,PENDING
+significantly adv.,en,PENDING
+similar adj.,en,PENDING
+similar to (that of),en,PENDING
+similarity n.,en,PENDING
+similarly adv.,en,PENDING
+simple adj.,en,PENDING
+simplify v.,en,PENDING
+simply adv.,en,PENDING
+simultaneous adj.,en,PENDING
+simultaneously adv.,en,PENDING
+single adj.,en,PENDING
+site n.,en,PENDING
+situation n.,en,PENDING
+size n.,en,PENDING
+skill n.,en,PENDING
+slide n.,en,PENDING
+slightly adv.,en,PENDING
+small adj.,en,PENDING
 so as to,en,PENDING
-so for example,en,PENDING
-so in other words,en,PENDING
+so conj.,en,PENDING
 so that,en,PENDING
 so we have,en,PENDING
 so you can see,en,PENDING
 so you get,en,PENDING
-so,en,PENDING
-so-called,en,PENDING
-social,en,PENDING
-socially,en,PENDING
-societal,en,PENDING
-society,en,PENDING
-software,en,PENDING
-solution,en,PENDING
-solve,en,PENDING
+so-called adj.,en,PENDING
+social adj.,en,PENDING
+socially adv.,en,PENDING
+societal adj.,en,PENDING
+society n.,en,PENDING
+software n.,en,PENDING
+solution n.,en,PENDING
+solve v.,en,PENDING
 some kind of,en,PENDING
 some sort of,en,PENDING
-somehow,en,PENDING
+somehow adv.,en,PENDING
 something like,en,PENDING
 something to do with,en,PENDING
-sometimes,en,PENDING
-sort,en,PENDING
-source,en,PENDING
-space,en,PENDING
-spatial,en,PENDING
-specialist,en,PENDING
-specialized,en,PENDING
-specific,en,PENDING
-specifically,en,PENDING
-specification,en,PENDING
-specify,en,PENDING
-sphere,en,PENDING
-split,en,PENDING
-spread,en,PENDING
-stability,en,PENDING
-stabilize,en,PENDING
-stable,en,PENDING
-stage,en,PENDING
-standard,en,PENDING
-state,en,PENDING
-statement,en,PENDING
-statistic,en,PENDING
-statistical,en,PENDING
-statistically,en,PENDING
-status,en,PENDING
-stimulate,en,PENDING
-stimulation,en,PENDING
-stock,en,PENDING
-store,en,PENDING
-story,en,PENDING
-straightforward,en,PENDING
-strategy,en,PENDING
-strength,en,PENDING
-strengthen,en,PENDING
-stress,en,PENDING
-strongly,en,PENDING
-structural,en,PENDING
-structure,en,PENDING
-student,en,PENDING
-study,en,PENDING
-style,en,PENDING
+sometimes adv.,en,PENDING
+"sort n., v.",en,PENDING
+source n.,en,PENDING
+space n.,en,PENDING
+spatial adj.,en,PENDING
+specialist n.,en,PENDING
+specialized adj.,en,PENDING
+specific adj.,en,PENDING
+specifically adv.,en,PENDING
+specification n.,en,PENDING
+specify v.,en,PENDING
+sphere n.,en,PENDING
+split v.,en,PENDING
+"spread n., v.",en,PENDING
+stability n.,en,PENDING
+stabilize v.,en,PENDING
+stable adj.,en,PENDING
+stage n.,en,PENDING
+"standard adj., n.",en,PENDING
+"standard n., adj.",en,PENDING
+"state n., v.",en,PENDING
+statement n.,en,PENDING
+statistic n.,en,PENDING
+statistical adj.,en,PENDING
+statistically adv.,en,PENDING
+status n.,en,PENDING
+stimulate v.,en,PENDING
+stimulation n.,en,PENDING
+stock n.,en,PENDING
+store v.,en,PENDING
+story n.,en,PENDING
+straightforward adj.,en,PENDING
+strategy n.,en,PENDING
+strength n.,en,PENDING
+strengthen v.,en,PENDING
+"stress n., v.",en,PENDING
+"stress v., n.",en,PENDING
+strongly adv.,en,PENDING
+structural adj.,en,PENDING
+"structure n., v.",en,PENDING
+student n.,en,PENDING
+"study n., v.",en,PENDING
+style n.,en,PENDING
+"subject adj., n., v.",en,PENDING
+"subject n., adj.",en,PENDING
 subject to,en,PENDING
-subject,en,PENDING
-subjective,en,PENDING
-subsequent,en,PENDING
-substance,en,PENDING
-substantial,en,PENDING
-substantially,en,PENDING
-substantive,en,PENDING
-substitute,en,PENDING
-substitution,en,PENDING
-successful,en,PENDING
-successfully,en,PENDING
+subjective adj.,en,PENDING
+sublist 1 1,en,PENDING
+sublist 10,en,PENDING
+sublist 12,en,PENDING
+sublist 2,en,PENDING
+sublist 3,en,PENDING
+sublist 4,en,PENDING
+sublist 5,en,PENDING
+sublist 6,en,PENDING
+sublist 7,en,PENDING
+sublist 8,en,PENDING
+sublist 9,en,PENDING
+subsequent adj.,en,PENDING
+substance n.,en,PENDING
+substantial adj.,en,PENDING
+substantially adv.,en,PENDING
+substantive adj.,en,PENDING
+substitute v.,en,PENDING
+substitution n.,en,PENDING
+successful adj.,en,PENDING
+successfully adv.,en,PENDING
 such as,en,PENDING
+such det.,en,PENDING
+such det/pron,en,PENDING
 such that,en,PENDING
-such,en,PENDING
-sufficient,en,PENDING
-sufficiently,en,PENDING
-suggest,en,PENDING
-suitable,en,PENDING
-sum,en,PENDING
-summarize,en,PENDING
-summary,en,PENDING
-supply,en,PENDING
+sufficient adj.,en,PENDING
+sufficiently adv.,en,PENDING
+suggest v.,en,PENDING
+suitable adj.,en,PENDING
+sum n.,en,PENDING
+"sum n., v.",en,PENDING
+summarize v.,en,PENDING
+summary n.,en,PENDING
+"supply n., v.",en,PENDING
 support for,en,PENDING
-support,en,PENDING
-suppose,en,PENDING
-survey,en,PENDING
-survival,en,PENDING
-sustain,en,PENDING
-symbol,en,PENDING
-system,en,PENDING
-systematic,en,PENDING
-systematically,en,PENDING
-take into account,en,PENDING
-talk,en,PENDING
-target,en,PENDING
-task,en,PENDING
-teach,en,PENDING
-teacher,en,PENDING
-technical,en,PENDING
-technique,en,PENDING
-technological,en,PENDING
-technology,en,PENDING
-tend to be,en,PENDING
+"support n., v,",en,PENDING
+suppose v.,en,PENDING
+survey n.,en,PENDING
+survival n.,en,PENDING
+sustain v.,en,PENDING
+symbol n.,en,PENDING
+system n.,en,PENDING
+systematic adj.,en,PENDING
+systematically adv.,en,PENDING
+"talk v., n.",en,PENDING
+"target n., v.",en,PENDING
+task n.,en,PENDING
+teach v.,en,PENDING
+teacher n.,en,PENDING
+technical adj.,en,PENDING
+technique n.,en,PENDING
+technological adj.,en,PENDING
+technology n.,en,PENDING
 tend to,en,PENDING
-tend,en,PENDING
-tendency,en,PENDING
-tends to be,en,PENDING
-tension,en,PENDING
-term,en,PENDING
-terminology,en,PENDING
-terms,en,PENDING
-territory,en,PENDING
-test,en,PENDING
-text,en,PENDING
-textbook,en,PENDING
+tend to be,en,PENDING
+tend v.,en,PENDING
+tend(s) to be,en,PENDING
+tendency n.,en,PENDING
+tension n.,en,PENDING
+term n.,en,PENDING
+"term n., v.",en,PENDING
+terminology n.,en,PENDING
+terms n.,en,PENDING
+territory n.,en,PENDING
+"test n., v.",en,PENDING
+text n.,en,PENDING
+textbook n.,en,PENDING
 that is to say,en,PENDING
-that kind of thing,en,PENDING
-that kind of,en,PENDING
-that sort of thing,en,PENDING
-that sort of,en,PENDING
-the ability of,en,PENDING
-the ability to,en,PENDING
+the ability to/of,en,PENDING
 the above,en,PENDING
 the advantages and disadvantages of,en,PENDING
-the aim of this chapter,en,PENDING
-the aim of this study,en,PENDING
-the aim of this,en,PENDING
+the aim/purpose of this study/chapter/,en,PENDING
 the amount of,en,PENDING
 the analysis of,en,PENDING
 the application of,en,PENDING
@@ -1768,12 +1760,10 @@ the assumption that,en,PENDING
 the availability of,en,PENDING
 the basis of,en,PENDING
 the benefits of,en,PENDING
-the cause of,en,PENDING
-the causes of,en,PENDING
+the cause(s) of,en,PENDING
 the concept of,en,PENDING
 the consequences of,en,PENDING
 the content of,en,PENDING
-the context of,en,PENDING
 the corresponding,en,PENDING
 the creation of,en,PENDING
 the definition of,en,PENDING
@@ -1782,23 +1772,20 @@ the degree to which,en,PENDING
 the development of,en,PENDING
 the difference between,en,PENDING
 the distribution of,en,PENDING
-the effect of,en,PENDING
-the effect on,en,PENDING
+the effect(s) of,en,PENDING
 the effectiveness of,en,PENDING
-the effects of,en,PENDING
-the effects on,en,PENDING
 the emergence of,en,PENDING
 the evolution of,en,PENDING
 the existence of,en,PENDING
 the extent of,en,PENDING
 the extent to which,en,PENDING
 the fact that,en,PENDING
-the first thing that,en,PENDING
-the first thing,en,PENDING
+"the fiction subcorpus of the oxford english corpus (oec), the spoken element of the british national corpus (bnc)",en,PENDING
+the first thing (that),en,PENDING
 the following,en,PENDING
 the form of,en,PENDING
 the formation of,en,PENDING
-the former,en,PENDING
+the former/latter,en,PENDING
 the frequency of,en,PENDING
 the growth of,en,PENDING
 the idea is that,en,PENDING
@@ -1807,13 +1794,10 @@ the idea that,en,PENDING
 the impact of,en,PENDING
 the implementation of,en,PENDING
 the importance of,en,PENDING
-the increase in,en,PENDING
 the influence of,en,PENDING
 the introduction of,en,PENDING
 the issue of,en,PENDING
 the kinds of,en,PENDING
-the lack of,en,PENDING
-the latter,en,PENDING
 the level of,en,PENDING
 the likelihood of,en,PENDING
 the majority of,en,PENDING
@@ -1822,8 +1806,7 @@ the meaning of,en,PENDING
 the most common,en,PENDING
 the most important,en,PENDING
 the nature of,en,PENDING
-the need for,en,PENDING
-the need to,en,PENDING
+the need for/to,en,PENDING
 the notion of,en,PENDING
 the number of,en,PENDING
 the other end of the spectrum,en,PENDING
@@ -1840,23 +1823,17 @@ the probability of,en,PENDING
 the problem of,en,PENDING
 the problem with,en,PENDING
 the process of,en,PENDING
-the proportion of,en,PENDING
-the purpose of this chapter,en,PENDING
-the purpose of this study,en,PENDING
-the purpose of this,en,PENDING
 the purposes of,en,PENDING
 the quality of,en,PENDING
 the question is,en,PENDING
-the question of whether or not,en,PENDING
 the question of,en,PENDING
-the range of,en,PENDING
-the rate of change,en,PENDING
+the question of (whether or not),en,PENDING
 the rate of,en,PENDING
+the rate of (change),en,PENDING
 the ratio of,en,PENDING
-the reason for this is that,en,PENDING
 the reason for,en,PENDING
+the reason for this is that,en,PENDING
 the reason why,en,PENDING
-the reduction in,en,PENDING
 the relationship between,en,PENDING
 the rise of,en,PENDING
 the risk of,en,PENDING
@@ -1871,47 +1848,42 @@ the state of,en,PENDING
 the study of,en,PENDING
 the total number of,en,PENDING
 the type of,en,PENDING
-the use of,en,PENDING
-the value of,en,PENDING
-the values of,en,PENDING
+the value(s) of,en,PENDING
 the vast majority of,en,PENDING
 the view that,en,PENDING
-the way in which,en,PENDING
 the way that,en,PENDING
-the ways in which,en,PENDING
+the way(s) in which,en,PENDING
 the whole of,en,PENDING
-the wide range of,en,PENDING
 the work of,en,PENDING
-theme,en,PENDING
-theoretical,en,PENDING
-theoretically,en,PENDING
-theory,en,PENDING
+the/a lack of,en,PENDING
+the/a number of,en,PENDING
+the/a proportion of,en,PENDING
+the/an effect(s) on,en,PENDING
+theme n.,en,PENDING
+theoretical adj.,en,PENDING
+theoretically adv.,en,PENDING
+theory n.,en,PENDING
 there are a number of,en,PENDING
-there is a need for,en,PENDING
-there is a need to,en,PENDING
+there is a need for/to,en,PENDING
 there is no doubt that,en,PENDING
 there is no reason to,en,PENDING
-thereby,en,PENDING
-therefore,en,PENDING
+thereby adv.,en,PENDING
+therefore adv.,en,PENDING
 these sorts of,en,PENDING
-thing,en,PENDING
+thing n.,en,PENDING
 this does not mean that,en,PENDING
 this idea of,en,PENDING
+this is (not) the case,en,PENDING
 this is not the case,en,PENDING
-this is not to say that,en,PENDING
-this is not to suggest that,en,PENDING
-this is the case,en,PENDING
-this kind of thing,en,PENDING
-this kind of,en,PENDING
 this means that,en,PENDING
-this sort of thing,en,PENDING
-this sort of,en,PENDING
-thought,en,PENDING
-threat,en,PENDING
-threshold,en,PENDING
-throughout,en,PENDING
-thus,en,PENDING
-title,en,PENDING
+this/that kind of (thing),en,PENDING
+this/that sort of (thing),en,PENDING
+thought n.,en,PENDING
+threat n.,en,PENDING
+threshold n.,en,PENDING
+"throughout prep., adv.",en,PENDING
+thus adv.,en,PENDING
+title n.,en,PENDING
 to a greater or lesser extent,en,PENDING
 to account for,en,PENDING
 to be aware of,en,PENDING
@@ -1920,154 +1892,148 @@ to deal with,en,PENDING
 to do with,en,PENDING
 to ensure that,en,PENDING
 to find out,en,PENDING
-to note that,en,PENDING
-to remind you,en,PENDING
 to see how,en,PENDING
 to show you,en,PENDING
 to some extent,en,PENDING
 to suggest that,en,PENDING
 to take account of,en,PENDING
-to take into account,en,PENDING
 to the extent that,en,PENDING
 to think about,en,PENDING
-to to be taken into account,en,PENDING
 to work out,en,PENDING
-together,en,PENDING
-tool,en,PENDING
-topic,en,PENDING
-total,en,PENDING
-trace,en,PENDING
-traditional,en,PENDING
-traditionally,en,PENDING
-training,en,PENDING
-transfer,en,PENDING
-transform,en,PENDING
-transformation,en,PENDING
-transition,en,PENDING
-transmission,en,PENDING
-transmit,en,PENDING
-transport,en,PENDING
-transportation,en,PENDING
-treat,en,PENDING
-treatment,en,PENDING
-trend,en,PENDING
-true,en,PENDING
-trust,en,PENDING
-try,en,PENDING
-tutor,en,PENDING
-type,en,PENDING
+together adv.,en,PENDING
+tool n.,en,PENDING
+topic n.,en,PENDING
+"total adj., n.",en,PENDING
+trace n.,en,PENDING
+traditional adj.,en,PENDING
+traditionally adv.,en,PENDING
+training n.,en,PENDING
+"transfer n., v.",en,PENDING
+transform v.,en,PENDING
+transformation n.,en,PENDING
+transition n.,en,PENDING
+transmission n.,en,PENDING
+transmit v.,en,PENDING
+"transport n., v.",en,PENDING
+transportation n.,en,PENDING
+treat v.,en,PENDING
+treatment n.,en,PENDING
+trend n.,en,PENDING
+true adj.,en,PENDING
+"trust n., v.",en,PENDING
+try v.,en,PENDING
+tutor n.,en,PENDING
+type n.,en,PENDING
 types of,en,PENDING
-typical,en,PENDING
-typically,en,PENDING
-ultimate,en,PENDING
-ultimately,en,PENDING
-uncertainty,en,PENDING
-unclear,en,PENDING
-undergo,en,PENDING
-underlying,en,PENDING
-understand,en,PENDING
-understanding,en,PENDING
-undertake,en,PENDING
-undertaking,en,PENDING
-unique,en,PENDING
-unit,en,PENDING
-universal,en,PENDING
-university,en,PENDING
-unlikely,en,PENDING
-unrelated,en,PENDING
-unstable,en,PENDING
-upper,en,PENDING
-urban,en,PENDING
-usage,en,PENDING
-use,en,PENDING
-used,en,PENDING
-useful,en,PENDING
-utility,en,PENDING
-utilization,en,PENDING
-utilize,en,PENDING
-valid,en,PENDING
-validate,en,PENDING
-validation,en,PENDING
-validity,en,PENDING
-valuable,en,PENDING
-value,en,PENDING
-variable,en,PENDING
-variance,en,PENDING
+typical adj.,en,PENDING
+typically adv.,en,PENDING
+ultimate adj.,en,PENDING
+ultimately adv.,en,PENDING
+uncertainty n.,en,PENDING
+unclear adj.,en,PENDING
+undergo v.,en,PENDING
+underlying adj.,en,PENDING
+understand v.,en,PENDING
+understanding n.,en,PENDING
+undertake v.,en,PENDING
+undertaking n.,en,PENDING
+unique adj.,en,PENDING
+unit n.,en,PENDING
+universal adj.,en,PENDING
+university n.,en,PENDING
+unlikely adj.,en,PENDING
+unrelated adj.,en,PENDING
+unstable adj.,en,PENDING
+upper adj.,en,PENDING
+urban adj.,en,PENDING
+usage n.,en,PENDING
+"use n., v.",en,PENDING
+"use v., n.",en,PENDING
+used adj.,en,PENDING
+useful adj.,en,PENDING
+utility n.,en,PENDING
+utilization n.,en,PENDING
+utilize v.,en,PENDING
+valid adj.,en,PENDING
+validate v.,en,PENDING
+validation n.,en,PENDING
+validity n.,en,PENDING
+valuable adj.,en,PENDING
+value n.,en,PENDING
+"variable n., adj.",en,PENDING
+variance n.,en,PENDING
 variation in,en,PENDING
-variation,en,PENDING
-varied,en,PENDING
-variety,en,PENDING
-various,en,PENDING
-vary,en,PENDING
-version,en,PENDING
-versus,en,PENDING
-vertical,en,PENDING
-very,en,PENDING
-via,en,PENDING
-view,en,PENDING
-viewer,en,PENDING
-violence,en,PENDING
-visible,en,PENDING
-visual,en,PENDING
-volume,en,PENDING
-voluntary,en,PENDING
-was been found to be,en,PENDING
-way in which,en,PENDING
-way,en,PENDING
-ways in which,en,PENDING
+variation n.,en,PENDING
+varied adj.,en,PENDING
+variety n.,en,PENDING
+various adj.,en,PENDING
+vary v.,en,PENDING
+version n.,en,PENDING
+versus prep.,en,PENDING
+vertical adj.,en,PENDING
+very adv.,en,PENDING
+via prep.,en,PENDING
+"view n., v.",en,PENDING
+viewer n.,en,PENDING
+violence n.,en,PENDING
+visible adj.,en,PENDING
+visual adj.,en,PENDING
+volume n.,en,PENDING
+voluntary adj.,en,PENDING
+way n.,en,PENDING
 we can see,en,PENDING
 we know that,en,PENDING
 we looked at,en,PENDING
-we need to know,en,PENDING
 we talk about,en,PENDING
 we talked about,en,PENDING
 we were talking about,en,PENDING
-wealth,en,PENDING
-website,en,PENDING
-weight,en,PENDING
-welfare,en,PENDING
-were more likely to be,en,PENDING
-were more likely to,en,PENDING
-what do you think?,en,PENDING
+we/you need to know,en,PENDING
+wealth n.,en,PENDING
+website n.,en,PENDING
+weight n.,en,PENDING
+welfare n.,en,PENDING
+what do you think…?,en,PENDING
 what does that mean?,en,PENDING
 what happens if,en,PENDING
 what happens to,en,PENDING
-what i mean by,en,PENDING
 what i mean,en,PENDING
+what i mean by,en,PENDING
 what i want to do,en,PENDING
-whatever,en,PENDING
+whatever det./pron.,en,PENDING
 when it comes to,en,PENDING
-when we look at,en,PENDING
-when you look at,en,PENDING
-whereas,en,PENDING
+when we/you look at,en,PENDING
+whereas conj.,en,PENDING
+whether conj.,en,PENDING
 whether or not,en,PENDING
-whether,en,PENDING
 while at the same time,en,PENDING
-whole,en,PENDING
-why do you think?,en,PENDING
-wide,en,PENDING
-widely,en,PENDING
-widespread,en,PENDING
+"whole adj., n.",en,PENDING
+whole n.,en,PENDING
+why do you think…?,en,PENDING
+wide adj.,en,PENDING
+widely adv.,en,PENDING
+widespread adj.,en,PENDING
 will be discussed in more detail,en,PENDING
 with regard to,en,PENDING
 with respect to,en,PENDING
 with the exception of,en,PENDING
-with the use of,en,PENDING
-within the context of,en,PENDING
-within,en,PENDING
-word,en,PENDING
-working,en,PENDING
-world,en,PENDING
-write,en,PENDING
-yield,en,PENDING
+within prep.,en,PENDING
+word n.,en,PENDING
+"working n., adj.",en,PENDING
+world n.,en,PENDING
+write v.,en,PENDING
+"yield v., n.",en,PENDING
 you can imagine,en,PENDING
 you can look at,en,PENDING
 you can see here,en,PENDING
-you can see that,en,PENDING
 you find that,en,PENDING
 you might say,en,PENDING
-you might want to look at,en,PENDING
-you might want to,en,PENDING
-you need to know,en,PENDING
+you might want to (look at),en,PENDING
 you will find,en,PENDING
 you will see,en,PENDING
+© oxford university press 2 / 2the oxford phrasal academic lexicon™,en,PENDING
+© oxford university press 2 / 3the oxford phrasal academic lexicon™,en,PENDING
+© oxford university press 2 / 5the oxford phrasal academic lexicon™,en,PENDING
+© oxford university press 3 / 3the oxford phrasal academic lexicon™,en,PENDING
+© oxford university press 3 / 5the oxford phrasal academic lexicon™,en,PENDING
+© oxford university press 4 / 5the oxford phrasal academic lexicon™,en,PENDING
+© oxford university press 5 / 5the oxford phrasal academic lexicon™,en,PENDING
