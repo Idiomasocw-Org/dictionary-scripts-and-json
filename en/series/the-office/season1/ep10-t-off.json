@@ -1,0 +1,16 @@
+{
+    "title": "The Office",
+    "type": "series",
+    "release_year": 2005,
+    "season_number": 1,
+    "episode_number": 10,
+    "episode_title": "Episode 10",
+    "language_code": "en",
+    "copyright_status": "fair_use",
+    "copyright_notes": "Fair use justification: Short educational language sample for linguistic reference. Content owned by NBCUniversal. No market substitution intended.",
+    "source_url": null,
+    "video_filename": "ep10-t-off.mp4",
+    "audio_filename": "ep10-t-off-audio.mp3",
+    "s3_path": "s3://ocw-academy-raw-videos/en/series/the-office/season1/ep10-t-off.mp4",
+    "s3_audio_path": "s3://ocw-academy-raw-videos/en/series/the-office/season1/ep10-t-off-audio.mp3"
+}
