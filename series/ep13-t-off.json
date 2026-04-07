@@ -1,0 +1,19 @@
+{
+  "title": "The Office",
+  "type": "series",
+  "release_year": 2005,
+  "season_number": 2,
+  "episode_number": 13,
+  "episode_title": "The Dundies",
+  "language_code": "en",
+  "duration_minutes": 22,
+  "copyright_status": "fair_use",
+  "copyright_notes": "Fair use justification: Short educational language sample for linguistic reference. Content owned by NBC/NBCUniversal. No market substitution intended.",
+  "source_url": null,
+  "video_filename": "ep13-t-off.mp4",
+  "audio_filename": "ep13-t-off-audio.mp3",
+  "s3_path": "s3://ocw-academy-raw-videos/en/series/the-office/season2/ep13-t-off.mp4",
+  "s3_audio_path": "s3://ocw-academy-raw-videos/en/series/the-office/season2/ep13-t-off-audio.mp3",
+  "created_at": "2026-04-07T00:00:00Z",
+  "status": "COMPLETED"
+}
