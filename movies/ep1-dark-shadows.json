@@ -1,0 +1,26 @@
+{
+  "title": "Dark Shadows",
+  "type": "movie",
+  "release_year": 2012,
+  "director": "Tim Burton",
+  "studio": "Warner Bros.",
+  "language": "en",
+  "duration_minutes": 113,
+  "audio_file": "ep1-dark-shadows-audio.mp3",
+  "video_filename": "ep1-dark-shadows.mp4",
+  "description": "Dark Shadows is a 2012 horror-comedy film based on the classic television series. A vampire is unleashed on the modern world and must reclaim his Dark Shadows manor.",
+  "genre": [
+    "Horror",
+    "Comedy",
+    "Drama"
+  ],
+  "cast": [
+    "Johnny Depp",
+    "Michelle Pfeiffer",
+    "Helena Bonham Carter",
+    "Eva Green"
+  ],
+  "imdb_id": "tt1077368",
+  "created_at": "2026-04-07T00:00:00Z",
+  "status": "COMPLETED"
+}
