@@ -1,0 +1,16 @@
+{
+  "title": "The Boss Baby",
+  "type": "movie",
+  "release_year": 2017,
+  "director": "Tom McGrath",
+  "language_code": "en",
+  "duration_minutes": 97,
+  "audio_file": "the-boss-baby-audio.mp3",
+  "video_filename": "the-boss-baby.mp4",
+  "description": "A suit-wearing, briefcase-carrying baby pairs up with his 7-year-old brother to stop the dastardly plot of the CEO of Puppy Co.",
+  "genre": ["Animation", "Comedy", "Family"],
+  "imdb_id": "tt3874544",
+  "studio": "DreamWorks Animation",
+  "created_at": "2026-04-08T00:00:00Z",
+  "status": "COMPLETED"
+}
