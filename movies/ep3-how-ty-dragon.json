@@ -1,0 +1,29 @@
+{
+  "title": "How to Train Your Dragon: The Hidden World",
+  "type": "movie",
+  "release_year": 2019,
+  "director": "Dean DeBlois, Chris Sanders",
+  "studio": "DreamWorks Animation",
+  "language": "en",
+  "duration_minutes": 104,
+  "audio_file": "ep3-how-ty-dragon-audio.mp3",
+  "video_filename": "ep3-how-ty-dragon.mp4",
+  "description": "How to Train Your Dragon: The Hidden World concludes the trilogy as Hiccup and his dragon friends discover a secret dragon paradise while facing a new threat to their world.",
+  "genre": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Family"
+  ],
+  "cast": [
+    "Jay Baruchel",
+    "Gerard Butler",
+    "America Ferrera",
+    "Jonah Hill",
+    "Christopher Mintz-Plasse",
+    "Kristen Wiig"
+  ],
+  "imdb_id": "tt1979595",
+  "created_at": "2026-04-14T00:00:00Z",
+  "status": "COMPLETED"
+}
