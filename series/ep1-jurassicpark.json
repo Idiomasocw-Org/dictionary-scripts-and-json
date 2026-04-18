@@ -1,0 +1,30 @@
+{
+  "title": "Jurassic Park",
+  "type": "movie",
+  "release_year": 1993,
+  "director": "Steven Spielberg",
+  "studio": "Universal Pictures",
+  "language": "en",
+  "duration_minutes": 127,
+  "audio_file": "ep1-jurassicpark-audio.mp3",
+  "video_filename": "ep1-jurassicpark.mp4",
+  "description": "In this groundbreaking adventure, a paleontologist, a geologist and a mathematician are tasked with preventing dinosaurs bred at InGen's research facility from escaping into the island's jungles. When the security systems fail, the dinosaurs roam free, and the group must survive encounters with prehistoric predators.",
+  "genre": [
+    "Science Fiction",
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "cast": [
+    "Sam Neill",
+    "Laura Dern",
+    "Jeff Goldblum",
+    "Richard Attenborough",
+    "Bob Peck",
+    "Martin Ferrero",
+    "BD Wong"
+  ],
+  "imdb_id": "tt0107290",
+  "created_at": "2026-04-17T00:00:00Z",
+  "status": "COMPLETED"
+}
