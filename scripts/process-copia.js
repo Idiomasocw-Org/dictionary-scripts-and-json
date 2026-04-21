@@ -38,8 +38,9 @@ function cleanLine(line) {
     ];
 
     // Some lines have multiple POS separated by commas, like "adv, prep"
-    // Regex for: optional comma/space + tag
-    const tagRegex = new RegExp(`\\s*[,/]?\\s*(${posTags.join('|')})\\s*$`, 'i');
+    // We look for common POS tags at the end or before markers
+    // Ensure there is at least one space or a separator before the tag to avoid truncating words (e.g. accommodation)
+    const tagRegex = new RegExp(`(?:\\s+|\\s*[,/]\\s*)(${posTags.join('|')})\\s*$`, 'i');
 
     // Run multiple times to catch "adv, prep"
     let prevText;
@@ -152,7 +153,7 @@ function processFile(inputFilePath) {
 // ─────────────────────────────────────────────────────────────────
 const dirPath = path.join(__dirname, '../raw_vocabulary_data/');
 const files = fs.readdirSync(dirPath);
-const filesToProcess = files.filter(f => f.startsWith('copia de ') && f.endsWith('.txt'));
+const filesToProcess = files.filter(f => f.endsWith('.txt'));
 
 const allNewPhrases = new Set();
 

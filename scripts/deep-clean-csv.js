@@ -58,7 +58,7 @@ function superClean(lemma) {
 
     // Remove POS tags
     posTags.forEach(tag => {
-        const re = new RegExp(`[,\\s]+${tag}(?=[,\\s]|$)`, 'gi');
+        const re = new RegExp(`(?:\\s+|\\s*,\\s*)${tag}(?=[,\\s]|$)`, 'gi');
         clean = clean.replace(re, '');
     });
 
