@@ -9,7 +9,7 @@ El repositorio sigue una arquitectura de flujo de datos clara:
 - **`/raw_vocabulary_data`**: Archivos fuente originales en formato `.txt` o `.pdf`. Estos archivos no se procesan directamente, son la base de datos cruda.
 - **`/scripts`**: Scripts de procesamiento (Node.js) para limpiar, expandir y consolidar el vocabulario.
 - **`/transformed_vocabulary_data`**: Resultados finales en formato `.csv` listos para ser usados o subidos a AWS. Incluye el archivo consolidado `master-vocab.csv`.
-- **`/json`**: Contratos JSON y metadata específica para videos (series y películas).
+- **`/json`**: Metadata específica para videos. Contiene subcarpetas `/movies` y `/series` para organizar los archivos según su tipo.
 - **`/backups_or_duplicates`**: Almacén temporal de versiones anteriores o archivos identificados como duplicados.
 
 ## Flujo de Trabajo
