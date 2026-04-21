@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dirPath = 'c:\\Users\\barbara\\Documents\\raw-videos-ocw\\dictionary-scripts-and-json\\';
+const dirPath = path.join(__dirname, '../transformed_vocabulary_data/');
 const csvFiles = fs.readdirSync(dirPath).filter(f => f.endsWith('.csv'));
 
 // Extended list of noise to remove
@@ -30,7 +30,7 @@ function superClean(lemma) {
     // 3. Remove POS tags with optional dots and commas
     posTags.forEach(tag => {
         // Tag could be "v." or "adj, n"
-        const re = new RegExp(`[,\\s]+${tag}(?=[,\\s]|$)`, 'gi');
+        const re = new RegExp(`(?:\\s+|\\s*,\\s*)${tag}(?=[,\\s]|$)`, 'gi');
         clean = clean.replace(re, '');
     });
 

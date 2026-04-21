@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dirPath = 'c:\\Users\\barbara\\Documents\\raw-videos-ocw\\dictionary-scripts-and-json\\';
+const dirPath = path.join(__dirname, '../transformed_vocabulary_data/');
 const csvFiles = fs.readdirSync(dirPath).filter(f => f.endsWith('.csv'));
 
 const posTags = [
@@ -58,7 +58,7 @@ function superClean(lemma) {
 
     // Remove POS tags
     posTags.forEach(tag => {
-        const re = new RegExp(`[,\\s]+${tag}(?=[,\\s]|$)`, 'gi');
+        const re = new RegExp(`(?:\\s+|\\s*,\\s*)${tag}(?=[,\\s]|$)`, 'gi');
         clean = clean.replace(re, '');
     });
 

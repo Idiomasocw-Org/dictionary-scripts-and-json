@@ -16,13 +16,13 @@ accommodate,en,PENDING
 accommodation,en,PENDING
 accompanied by,en,PENDING
 according to,en,PENDING
-account for,en,PENDING
 account for the fact that,en,PENDING
+account for,en,PENDING
 accountable expenses,en,PENDING
 accumulate,en,PENDING
 accurate,en,PENDING
-achieve,en,PENDING
 achieve objectives,en,PENDING
+achieve,en,PENDING
 acknowledge,en,PENDING
 acquire,en,PENDING
 adapt,en,PENDING
@@ -49,11 +49,11 @@ alter,en,PENDING
 alternative,en,PENDING
 ambiguous,en,PENDING
 amend,en,PENDING
-amount,en,PENDING
 amount to,en,PENDING
+amount,en,PENDING
 analogy,en,PENDING
-analyse,en,PENDING
 analyse a sample,en,PENDING
+analyse,en,PENDING
 analysis,en,PENDING
 and so forth,en,PENDING
 and so on,en,PENDING
@@ -74,9 +74,9 @@ appropriate,en,PENDING
 approximate,en,PENDING
 approximately,en,PENDING
 archives,en,PENDING
-argue,en,PENDING
 argue against,en,PENDING
 argue for,en,PENDING
+argue,en,PENDING
 argument,en,PENDING
 arise,en,PENDING
 arrive at an answer,en,PENDING
@@ -91,7 +91,8 @@ as far as x is concerned,en,PENDING
 as noted,en,PENDING
 as opposed to,en,PENDING
 as regards,en,PENDING
-as time is (running) short,en,PENDING
+as time is running short,en,PENDING
+as time is short,en,PENDING
 as we have seen,en,PENDING
 as we saw in,en,PENDING
 as well as,en,PENDING
@@ -102,7 +103,8 @@ assertion,en,PENDING
 assessment,en,PENDING
 assign,en,PENDING
 assignment,en,PENDING
-associate (with),en,PENDING
+associate with,en,PENDING
+associate,en,PENDING
 assume,en,PENDING
 assumption,en,PENDING
 at a stage,en,PENDING
@@ -130,18 +132,20 @@ awareness,en,PENDING
 background,en,PENDING
 bank account,en,PENDING
 bar chart,en,PENDING
-base,en,PENDING
 base on,en,PENDING
+base,en,PENDING
 based,en,PENDING
 basically,en,PENDING
 basis,en,PENDING
-battle,en,PENDING
 battle against,en,PENDING
-be (commonly) associated with,en,PENDING
+battle,en,PENDING
+be associated with,en,PENDING
 be based on,en,PENDING
 be bombarded with,en,PENDING
 be borne out,en,PENDING
-be concerned (with),en,PENDING
+be commonly associated with,en,PENDING
+be concerned with,en,PENDING
+be concerned,en,PENDING
 be made up of,en,PENDING
 be that as it may,en,PENDING
 be united,en,PENDING
@@ -151,13 +155,15 @@ behaviour,en,PENDING
 bell curve,en,PENDING
 belong,en,PENDING
 below,en,PENDING
-benefit,en,PENDING
 benefit from,en,PENDING
-beyond the scope (of),en,PENDING
-biased,en,PENDING
+benefit,en,PENDING
+beyond the scope of,en,PENDING
+beyond the scope,en,PENDING
 biased against,en,PENDING
 biased in favour of,en,PENDING
-bit (computer),en,PENDING
+biased,en,PENDING
+bit computer,en,PENDING
+bit,en,PENDING
 blended,en,PENDING
 blue collar,en,PENDING
 body of evidence,en,PENDING
@@ -184,8 +190,8 @@ call on,en,PENDING
 candidate,en,PENDING
 career,en,PENDING
 carry out,en,PENDING
-case,en,PENDING
 case study,en,PENDING
+case,en,PENDING
 cast doubt on,en,PENDING
 catalogue,en,PENDING
 category,en,PENDING
@@ -207,16 +213,16 @@ clarification,en,PENDING
 clarify,en,PENDING
 classify,en,PENDING
 clear,en,PENDING
-clearly,en,PENDING
 clearly demonstrate,en,PENDING
 clearly identify,en,PENDING
+clearly,en,PENDING
 closely,en,PENDING
 coherent,en,PENDING
 coincide with,en,PENDING
 collaborative,en,PENDING
 collate results,en,PENDING
-collect,en,PENDING
 collect results,en,PENDING
+collect,en,PENDING
 college,en,PENDING
 column,en,PENDING
 combination,en,PENDING
@@ -227,17 +233,19 @@ come into contact with,en,PENDING
 come to a conclusion,en,PENDING
 come to light,en,PENDING
 come up with,en,PENDING
-comment,en,PENDING
 comment on,en,PENDING
-common,en,PENDING
+comment,en,PENDING
 common ground,en,PENDING
 common knowledge,en,PENDING
 common practice,en,PENDING
+common,en,PENDING
 commonly,en,PENDING
 commons,en,PENDING
 communicate,en,PENDING
 comparatively,en,PENDING
-compared (with/to),en,PENDING
+compared to,en,PENDING
+compared with,en,PENDING
+compared,en,PENDING
 comparison,en,PENDING
 compatible,en,PENDING
 complement,en,PENDING
@@ -251,8 +259,8 @@ concept,en,PENDING
 concisely,en,PENDING
 conclude,en,PENDING
 conclusion,en,PENDING
-conclusively,en,PENDING
 conclusively establish,en,PENDING
+conclusively,en,PENDING
 concrete,en,PENDING
 concurrent,en,PENDING
 conditions,en,PENDING
@@ -260,30 +268,32 @@ conduct,en,PENDING
 confine,en,PENDING
 confirm,en,PENDING
 conflict,en,PENDING
-conflicting,en,PENDING
 conflicting elements,en,PENDING
+conflicting,en,PENDING
 connotation,en,PENDING
-consent (to),en,PENDING
+consent to,en,PENDING
+consent,en,PENDING
 consequence,en,PENDING
 conservative,en,PENDING
 conserve energy,en,PENDING
 consider,en,PENDING
-considerable,en,PENDING
 considerable influence,en,PENDING
+considerable,en,PENDING
 considerably,en,PENDING
 considered to be,en,PENDING
-consist (of),en,PENDING
+consist of,en,PENDING
+consist,en,PENDING
 consistent,en,PENDING
 constant,en,PENDING
 constituent,en,PENDING
 constitute,en,PENDING
 constrain,en,PENDING
 constraint,en,PENDING
-construct,en,PENDING
 construct knowledge,en,PENDING
+construct,en,PENDING
 consult a source,en,PENDING
-consume,en,PENDING
 consume energy,en,PENDING
+consume,en,PENDING
 consumption,en,PENDING
 contact,en,PENDING
 contain,en,PENDING
@@ -295,12 +305,13 @@ continually,en,PENDING
 continuous,en,PENDING
 continuously,en,PENDING
 contract,en,PENDING
-contradiction (in terms),en,PENDING
+contradiction in terms,en,PENDING
+contradiction,en,PENDING
 contradictory,en,PENDING
 contrary,en,PENDING
 contrast,en,PENDING
-contribute,en,PENDING
 contribute to a debate,en,PENDING
+contribute,en,PENDING
 contribution,en,PENDING
 control,en,PENDING
 controlled,en,PENDING
@@ -309,18 +320,18 @@ controversy,en,PENDING
 conversely,en,PENDING
 convert,en,PENDING
 convey,en,PENDING
-convince,en,PENDING
 convince of,en,PENDING
+convince,en,PENDING
 copy,en,PENDING
 core,en,PENDING
-correlate,en,PENDING
 correlate with,en,PENDING
+correlate,en,PENDING
 correlation,en,PENDING
 correlational,en,PENDING
 correspond,en,PENDING
 cost of living,en,PENDING
-couple,en,PENDING
 couple with,en,PENDING
+couple,en,PENDING
 course of action,en,PENDING
 cram,en,PENDING
 creative,en,PENDING
@@ -331,16 +342,16 @@ critical,en,PENDING
 cross,en,PENDING
 cross-section,en,PENDING
 crucial,en,PENDING
-current,en,PENDING
 current account,en,PENDING
-CV,en,PENDING
+current,en,PENDING
+cv,en,PENDING
 daily,en,PENDING
 data,en,PENDING
 deadline,en,PENDING
-deal,en,PENDING
 deal with,en,PENDING
-debate,en,PENDING
+deal,en,PENDING
 debate surrounding,en,PENDING
+debate,en,PENDING
 decade,en,PENDING
 declare,en,PENDING
 decline,en,PENDING
@@ -349,10 +360,10 @@ deduce,en,PENDING
 deduct,en,PENDING
 deep-rooted,en,PENDING
 deeply critical,en,PENDING
-defer,en,PENDING
 defer payment,en,PENDING
-define,en,PENDING
+defer,en,PENDING
 define a role,en,PENDING
+define,en,PENDING
 defining,en,PENDING
 definitely,en,PENDING
 definition,en,PENDING
@@ -370,18 +381,19 @@ description,en,PENDING
 design,en,PENDING
 despite the fact that,en,PENDING
 determine,en,PENDING
-develop,en,PENDING
 develop a way,en,PENDING
+develop,en,PENDING
 development,en,PENDING
 deviate from the norm,en,PENDING
 device,en,PENDING
-devise,en,PENDING
 devise a way,en,PENDING
+devise,en,PENDING
 devote,en,PENDING
 diagram,en,PENDING
 difference,en,PENDING
+different from,en,PENDING
+different to,en,PENDING
 different,en,PENDING
-different (from/to),en,PENDING
 differentiate,en,PENDING
 difficulty,en,PENDING
 dig into,en,PENDING
@@ -395,9 +407,9 @@ discipline,en,PENDING
 discourse,en,PENDING
 discover a way,en,PENDING
 discrete,en,PENDING
-discuss,en,PENDING
 discuss the issue thoroughly,en,PENDING
 discuss the problem at length,en,PENDING
+discuss,en,PENDING
 discussion forum,en,PENDING
 display,en,PENDING
 dispose of,en,PENDING
@@ -406,37 +418,37 @@ disrupt,en,PENDING
 dissertation,en,PENDING
 distance course,en,PENDING
 distant future,en,PENDING
-distinct,en,PENDING
 distinct from,en,PENDING
+distinct,en,PENDING
 distinction,en,PENDING
-distinguish,en,PENDING
 distinguish between,en,PENDING
+distinguish,en,PENDING
 distort,en,PENDING
 distribution,en,PENDING
 diversity,en,PENDING
-divide,en,PENDING
 divide into,en,PENDING
+divide,en,PENDING
 document,en,PENDING
 double,en,PENDING
 draft,en,PENDING
-draw,en,PENDING
 draw a conclusion,en,PENDING
 draw attention to the fact that,en,PENDING
 draw conclusions,en,PENDING
 draw data from,en,PENDING
 draw mind maps,en,PENDING
 draw on,en,PENDING
+draw,en,PENDING
 drawback,en,PENDING
 drop,en,PENDING
 due to the fact that,en,PENDING
 duration,en,PENDING
-EAP,en,PENDING
+eap,en,PENDING
 earlier,en,PENDING
 early,en,PENDING
 economic,en,PENDING
 economical,en,PENDING
-effect,en,PENDING
 effect a change,en,PENDING
+effect,en,PENDING
 effects,en,PENDING
 elective,en,PENDING
 electronically,en,PENDING
@@ -466,17 +478,17 @@ endless,en,PENDING
 endorse,en,PENDING
 energy,en,PENDING
 enforce,en,PENDING
-engage in,en,PENDING
 engage in debate,en,PENDING
-English-medium,en,PENDING
+engage in,en,PENDING
+english-medium,en,PENDING
 enhance,en,PENDING
 enormous,en,PENDING
-enrol,en,PENDING
 enrol on,en,PENDING
+enrol,en,PENDING
 ensure,en,PENDING
 entail,en,PENDING
-enter,en,PENDING
 enter your username,en,PENDING
+enter,en,PENDING
 enterprise,en,PENDING
 entirely,en,PENDING
 entitle,en,PENDING
@@ -488,16 +500,16 @@ equal opportunities policy,en,PENDING
 equip with,en,PENDING
 equivalent,en,PENDING
 era,en,PENDING
-erase,en,PENDING
 erase information,en,PENDING
+erase,en,PENDING
 erasure,en,PENDING
 error,en,PENDING
 especially,en,PENDING
 essay,en,PENDING
 essence,en,PENDING
 essentially,en,PENDING
-establish,en,PENDING
 establish contact,en,PENDING
+establish,en,PENDING
 estimate,en,PENDING
 ethical,en,PENDING
 ethnic,en,PENDING
@@ -525,9 +537,9 @@ expenditure,en,PENDING
 experience,en,PENDING
 experiment,en,PENDING
 experimental,en,PENDING
-explain,en,PENDING
 explain a phenomenon,en,PENDING
 explain by the fact that,en,PENDING
+explain,en,PENDING
 explanation,en,PENDING
 explicit,en,PENDING
 explicitly,en,PENDING
@@ -547,11 +559,11 @@ facilitation,en,PENDING
 fact,en,PENDING
 factor,en,PENDING
 faculty,en,PENDING
-fair,en,PENDING
 fair way,en,PENDING
-fall,en,PENDING
+fair,en,PENDING
 fall asleep,en,PENDING
 fall below,en,PENDING
+fall,en,PENDING
 falsify results,en,PENDING
 feature,en,PENDING
 feedback,en,PENDING
@@ -561,27 +573,28 @@ few,en,PENDING
 fewer and fewer,en,PENDING
 field study,en,PENDING
 figure,en,PENDING
-file (computer),en,PENDING
+file computer,en,PENDING
+file,en,PENDING
 fill in,en,PENDING
 final,en,PENDING
 finally,en,PENDING
 finals,en,PENDING
-financial,en,PENDING
 financial guarantee,en,PENDING
+financial,en,PENDING
 find,en,PENDING
 finite,en,PENDING
-firmly,en,PENDING
 firmly establish,en,PENDING
-first,en,PENDING
+firmly,en,PENDING
 first draft,en,PENDING
+first,en,PENDING
 firstly,en,PENDING
 flame,en,PENDING
 flaw,en,PENDING
 flimsy,en,PENDING
 flowchart,en,PENDING
 fluctuate,en,PENDING
-focus,en,PENDING
 focus on,en,PENDING
+focus,en,PENDING
 following,en,PENDING
 for example,en,PENDING
 for instance,en,PENDING
@@ -603,31 +616,33 @@ furthermore,en,PENDING
 gender,en,PENDING
 general,en,PENDING
 generalise,en,PENDING
-generally,en,PENDING
 generally associated with,en,PENDING
-generate,en,PENDING
+generally,en,PENDING
 generate energy,en,PENDING
+generate,en,PENDING
 generation,en,PENDING
 get in,en,PENDING
 getting back to,en,PENDING
-give,en,PENDING
-give a (brief) summary of,en,PENDING
+give a brief summary of,en,PENDING
 give a description,en,PENDING
+give a summary of,en,PENDING
 give an example,en,PENDING
 give credit,en,PENDING
 give rise to,en,PENDING
+give,en,PENDING
 glaring,en,PENDING
 glossary,en,PENDING
 go against,en,PENDING
-go back,en,PENDING
 go back over,en,PENDING
+go back,en,PENDING
 go blank,en,PENDING
 go into,en,PENDING
 go on to,en,PENDING
-go over (time),en,PENDING
+go over time,en,PENDING
+go over,en,PENDING
 go round,en,PENDING
-go through,en,PENDING
 go through a period,en,PENDING
+go through,en,PENDING
 go wrong,en,PENDING
 goal,en,PENDING
 gradual,en,PENDING
@@ -636,8 +651,8 @@ grant,en,PENDING
 graph,en,PENDING
 graphic,en,PENDING
 graphics,en,PENDING
+great hall,en,PENDING
 great,en,PENDING
-Great Hall,en,PENDING
 ground,en,PENDING
 ground-breaking,en,PENDING
 grounding,en,PENDING
@@ -652,14 +667,15 @@ happen,en,PENDING
 hard,en,PENDING
 hardly ever,en,PENDING
 hardware,en,PENDING
-have (sth) as a goal,en,PENDING
 have a goal,en,PENDING
 have a shot at,en,PENDING
 have an influence on,en,PENDING
+have as a goal,en,PENDING
+have sth as a goal,en,PENDING
 having said that,en,PENDING
 heading,en,PENDING
-heated,en,PENDING
 heated debate,en,PENDING
+heated,en,PENDING
 hierarchy,en,PENDING
 highlight,en,PENDING
 histogram,en,PENDING
@@ -691,9 +707,6 @@ imply,en,PENDING
 importance,en,PENDING
 important,en,PENDING
 impose,en,PENDING
-in (more) detail,en,PENDING
-in (the) light of,en,PENDING
-in ... terms,en,PENDING
 in a few words,en,PENDING
 in a variety of ways,en,PENDING
 in accordance with,en,PENDING
@@ -702,16 +715,18 @@ in case,en,PENDING
 in charge of,en,PENDING
 in comparison with,en,PENDING
 in conjunction with,en,PENDING
-in contrast,en,PENDING
 in contrast to,en,PENDING
+in contrast,en,PENDING
 in detail,en,PENDING
 in economic terms,en,PENDING
 in excess of,en,PENDING
 in favour of,en,PENDING
 in general,en,PENDING
+in greater detail,en,PENDING
 in history,en,PENDING
+in light of,en,PENDING
 in line with,en,PENDING
-in more/greater detail,en,PENDING
+in more detail,en,PENDING
 in most respects,en,PENDING
 in my opinion,en,PENDING
 in no circumstances,en,PENDING
@@ -731,14 +746,18 @@ in spite of,en,PENDING
 in sum,en,PENDING
 in summary,en,PENDING
 in terms of,en,PENDING
+in terms,en,PENDING
 in that,en,PENDING
 in the absence of evidence to the contrary,en,PENDING
 in the case of,en,PENDING
+in the distant future,en,PENDING
 in the end,en,PENDING
-in the final/last analysis,en,PENDING
+in the final analysis,en,PENDING
 in the form of,en,PENDING
+in the last analysis,en,PENDING
+in the light of,en,PENDING
 in the middle of,en,PENDING
-in the near/distant future,en,PENDING
+in the near future,en,PENDING
 in the process,en,PENDING
 in the right area,en,PENDING
 in the sense that,en,PENDING
@@ -747,6 +766,8 @@ in time,en,PENDING
 in total,en,PENDING
 in touch with,en,PENDING
 in turn,en,PENDING
+in-depth,en,PENDING
+in-sessional,en,PENDING
 inaccuracy,en,PENDING
 inaccurate,en,PENDING
 inadequate,en,PENDING
@@ -758,9 +779,8 @@ inconsistency,en,PENDING
 increase,en,PENDING
 increasingly,en,PENDING
 incur,en,PENDING
-in-depth,en,PENDING
-indicate,en,PENDING
 indicate a tendency,en,PENDING
+indicate,en,PENDING
 indirectly,en,PENDING
 induce,en,PENDING
 induction,en,PENDING
@@ -777,7 +797,6 @@ initial,en,PENDING
 input,en,PENDING
 inquiry,en,PENDING
 insert,en,PENDING
-in-sessional,en,PENDING
 insight,en,PENDING
 insignificant,en,PENDING
 instability,en,PENDING
@@ -789,6 +808,8 @@ integral,en,PENDING
 intense,en,PENDING
 intention,en,PENDING
 intentional,en,PENDING
+inter-library loan,en,PENDING
+inter-university,en,PENDING
 interaction,en,PENDING
 interchange,en,PENDING
 interconnecting,en,PENDING
@@ -798,7 +819,6 @@ interesting,en,PENDING
 interface,en,PENDING
 interfere,en,PENDING
 interim,en,PENDING
-inter-library loan,en,PENDING
 intermarriage,en,PENDING
 intermediate,en,PENDING
 intermittent,en,PENDING
@@ -808,14 +828,13 @@ interpretation,en,PENDING
 interrelated,en,PENDING
 intersect,en,PENDING
 interstate,en,PENDING
-inter-university,en,PENDING
 intrinsic,en,PENDING
 introduce,en,PENDING
 invalid,en,PENDING
 invalidate results,en,PENDING
 invent,en,PENDING
-investigate,en,PENDING
 investigate a phenomenon,en,PENDING
+investigate,en,PENDING
 investigation,en,PENDING
 involve,en,PENDING
 irrational,en,PENDING
@@ -829,27 +848,29 @@ it would appear that,en,PENDING
 it would seem that,en,PENDING
 item of data,en,PENDING
 junior,en,PENDING
-keep to (time),en,PENDING
+keep to time,en,PENDING
+keep to,en,PENDING
 key,en,PENDING
-KISS,en,PENDING
-knowledge,en,PENDING
+kiss,en,PENDING
 knowledge base,en,PENDING
+knowledge,en,PENDING
 label,en,PENDING
 laboratory,en,PENDING
 lack,en,PENDING
 large,en,PENDING
-largely,en,PENDING
 largely determine,en,PENDING
+largely,en,PENDING
 lastly,en,PENDING
 late,en,PENDING
 later,en,PENDING
 latter,en,PENDING
 lay foundations,en,PENDING
 layer,en,PENDING
-leave (out),en,PENDING
-lecture,en,PENDING
+leave out,en,PENDING
+leave,en,PENDING
 lecture notes,en,PENDING
 lecture theatre,en,PENDING
+lecture,en,PENDING
 lecturers,en,PENDING
 legend,en,PENDING
 less and less,en,PENDING
@@ -861,32 +882,35 @@ likelihood,en,PENDING
 likely,en,PENDING
 limited,en,PENDING
 link,en,PENDING
+list the main causes,en,PENDING
+list the main characteristics,en,PENDING
+list the main features,en,PENDING
+list the main hypotheses,en,PENDING
 list,en,PENDING
-list the main causes/characteristics/features/hypotheses,en,PENDING
-literature,en,PENDING
 literature suggests,en,PENDING
+literature,en,PENDING
 little,en,PENDING
 little-known,en,PENDING
 loan,en,PENDING
 lodging,en,PENDING
 logic,en,PENDING
 long-term loan,en,PENDING
-look,en,PENDING
 look back over,en,PENDING
 look for,en,PENDING
-loosely,en,PENDING
+look,en,PENDING
 loosely based,en,PENDING
+loosely,en,PENDING
 lose a battle,en,PENDING
 lose contact,en,PENDING
 lurk,en,PENDING
 magnitude,en,PENDING
 mailing list,en,PENDING
 main body,en,PENDING
-mainly,en,PENDING
 mainly based,en,PENDING
-maintain,en,PENDING
+mainly,en,PENDING
 maintain a united front,en,PENDING
 maintain contact,en,PENDING
+maintain,en,PENDING
 maintenance grant,en,PENDING
 major,en,PENDING
 make a calculation,en,PENDING
@@ -898,17 +922,17 @@ manipulate,en,PENDING
 marital status,en,PENDING
 marked,en,PENDING
 mathematical,en,PENDING
-mature,en,PENDING
 mature student,en,PENDING
+mature,en,PENDING
 maximum,en,PENDING
-means,en,PENDING
 means of communication,en,PENDING
+means,en,PENDING
 measures,en,PENDING
 median,en,PENDING
 mediate,en,PENDING
-meet,en,PENDING
 meet deadlines,en,PENDING
 meet objectives,en,PENDING
+meet,en,PENDING
 memorise,en,PENDING
 mention,en,PENDING
 merely,en,PENDING
@@ -934,8 +958,8 @@ misunderstand,en,PENDING
 mnemonics,en,PENDING
 mode,en,PENDING
 model,en,PENDING
-moderate,en,PENDING
 moderate discussions,en,PENDING
+moderate,en,PENDING
 modify,en,PENDING
 module,en,PENDING
 monitor,en,PENDING
@@ -943,7 +967,8 @@ moral,en,PENDING
 more and more,en,PENDING
 more or less,en,PENDING
 moreover,en,PENDING
-most (people) would agree that,en,PENDING
+most people would agree that,en,PENDING
+most would agree that,en,PENDING
 mostly,en,PENDING
 motivate,en,PENDING
 motivation,en,PENDING
@@ -961,12 +986,13 @@ nature,en,PENDING
 near future,en,PENDING
 need,en,PENDING
 netiquette,en,PENDING
-never (before),en,PENDING
+never before,en,PENDING
+never,en,PENDING
 nevertheless,en,PENDING
 next,en,PENDING
 no fewer than,en,PENDING
-nonetheless,en,PENDING
 non-repayable,en,PENDING
+nonetheless,en,PENDING
 norm,en,PENDING
 normal distribution,en,PENDING
 not any longer,en,PENDING
@@ -975,14 +1001,15 @@ note,en,PENDING
 note-taking,en,PENDING
 notion,en,PENDING
 nowadays,en,PENDING
-nuance (of meaning),en,PENDING
+nuance of meaning,en,PENDING
+nuance,en,PENDING
 number,en,PENDING
 objection,en,PENDING
 objective,en,PENDING
 obligatory,en,PENDING
 observation,en,PENDING
-observe,en,PENDING
 observe a phenomenon,en,PENDING
+observe,en,PENDING
 observer,en,PENDING
 obtain,en,PENDING
 occupation,en,PENDING
@@ -990,8 +1017,8 @@ occupational,en,PENDING
 occur,en,PENDING
 odd number,en,PENDING
 of course,en,PENDING
-offer,en,PENDING
 offer a place,en,PENDING
+offer,en,PENDING
 office hours,en,PENDING
 omit,en,PENDING
 on balance,en,PENDING
@@ -1030,11 +1057,11 @@ overview,en,PENDING
 parallel,en,PENDING
 paraphrase,en,PENDING
 part,en,PENDING
+particular significance,en,PENDING
 particular,en,PENDING
 particularly,en,PENDING
-particular significance,en,PENDING
-partly,en,PENDING
 partly based,en,PENDING
+partly,en,PENDING
 pattern,en,PENDING
 per cent,en,PENDING
 percentage,en,PENDING
@@ -1046,7 +1073,7 @@ permanent,en,PENDING
 personal statement,en,PENDING
 perspective,en,PENDING
 phase,en,PENDING
-PhD committee,en,PENDING
+phd committee,en,PENDING
 phenomena,en,PENDING
 phenomenon,en,PENDING
 philosophy,en,PENDING
@@ -1056,34 +1083,40 @@ piece of evidence,en,PENDING
 piece together,en,PENDING
 pilot study,en,PENDING
 pinpoint,en,PENDING
-pivotal,en,PENDING
 pivotal role,en,PENDING
+pivotal,en,PENDING
 plagiarism,en,PENDING
 play a role,en,PENDING
 plot,en,PENDING
 plummet,en,PENDING
-point,en,PENDING
 point of view,en,PENDING
 point out,en,PENDING
 point to,en,PENDING
 point up,en,PENDING
+point,en,PENDING
 population,en,PENDING
 portfolio,en,PENDING
+pose a challenge,en,PENDING
+pose a question,en,PENDING
+pose a threat,en,PENDING
 pose,en,PENDING
-pose a challenge/question/threat,en,PENDING
 position,en,PENDING
 possibly,en,PENDING
-post,en,PENDING
 post a message,en,PENDING
-postgrad(uate) rep(resentative),en,PENDING
+post,en,PENDING
+postgrad rep,en,PENDING
+postgrad representative,en,PENDING
+postgraduate rep,en,PENDING
+postgraduate representative,en,PENDING
 potential,en,PENDING
 powerful,en,PENDING
 practice,en,PENDING
 practice-as-research,en,PENDING
 practice-led,en,PENDING
+prcis,en,PENDING
+pre-sessional,en,PENDING
 precedent,en,PENDING
 preceding,en,PENDING
-précis,en,PENDING
 precise,en,PENDING
 precisely,en,PENDING
 predict,en,PENDING
@@ -1091,25 +1124,24 @@ preference,en,PENDING
 prejudice,en,PENDING
 prejudiced against,en,PENDING
 prejudiced in favour of,en,PENDING
-preliminary,en,PENDING
 preliminary results,en,PENDING
-present,en,PENDING
+preliminary,en,PENDING
 present data,en,PENDING
+present,en,PENDING
 presentation,en,PENDING
-pre-sessional,en,PENDING
 presumably,en,PENDING
 primarily,en,PENDING
-primary,en,PENDING
 primary source,en,PENDING
-prime,en,PENDING
+primary,en,PENDING
 prime number,en,PENDING
+prime,en,PENDING
 principal,en,PENDING
 principle,en,PENDING
 prior to,en,PENDING
 prioritise,en,PENDING
 priority,en,PENDING
-probability,en,PENDING
 probability distribution,en,PENDING
+probability,en,PENDING
 probably,en,PENDING
 problem,en,PENDING
 procedure,en,PENDING
@@ -1122,10 +1154,10 @@ provided that,en,PENDING
 provoke,en,PENDING
 publish results,en,PENDING
 purpose,en,PENDING
-put,en,PENDING
 put emphasis,en,PENDING
 put forward,en,PENDING
 put it briefly,en,PENDING
+put,en,PENDING
 qualification,en,PENDING
 qualitative,en,PENDING
 quantifiable,en,PENDING
@@ -1136,27 +1168,31 @@ quantitative,en,PENDING
 quantitatively,en,PENDING
 quantity,en,PENDING
 quarterly,en,PENDING
-question,en,PENDING
 question results,en,PENDING
+question,en,PENDING
 quiz,en,PENDING
 quotation,en,PENDING
 radical,en,PENDING
-raise,en,PENDING
 raise a point,en,PENDING
-random,en,PENDING
+raise,en,PENDING
 random number,en,PENDING
 random sample,en,PENDING
+random,en,PENDING
 range,en,PENDING
 rarely,en,PENDING
 rather than,en,PENDING
 ratification,en,PENDING
 ratify,en,PENDING
 ratio,en,PENDING
-rational(e),en,PENDING
-reach (a peak/conclusion),en,PENDING
+rational,en,PENDING
+rationale,en,PENDING
+reach a conclusion,en,PENDING
+reach a peak,en,PENDING
+reach,en,PENDING
 react,en,PENDING
 reading speed,en,PENDING
-reason(able),en,PENDING
+reason,en,PENDING
+reasonable,en,PENDING
 reboot,en,PENDING
 recapitulate,en,PENDING
 receipt,en,PENDING
@@ -1164,9 +1200,11 @@ recently,en,PENDING
 recognise,en,PENDING
 record,en,PENDING
 recover,en,PENDING
-refer,en,PENDING
-refer frequently/specifically/in passing,en,PENDING
+refer frequently passing,en,PENDING
+refer in passing,en,PENDING
+refer specifically passing,en,PENDING
 refer to,en,PENDING
+refer,en,PENDING
 referee,en,PENDING
 reference,en,PENDING
 refine,en,PENDING
@@ -1177,7 +1215,8 @@ relate,en,PENDING
 related,en,PENDING
 relation,en,PENDING
 relationship,en,PENDING
-relative (to),en,PENDING
+relative to,en,PENDING
+relative,en,PENDING
 relatively,en,PENDING
 relax,en,PENDING
 relevant,en,PENDING
@@ -1188,10 +1227,10 @@ remain in the dark,en,PENDING
 replicate,en,PENDING
 reportedly,en,PENDING
 represent,en,PENDING
-representative,en,PENDING
 representative sample,en,PENDING
-request,en,PENDING
+representative,en,PENDING
 request an extension,en,PENDING
+request,en,PENDING
 require,en,PENDING
 resolution,en,PENDING
 resolve,en,PENDING
@@ -1203,13 +1242,12 @@ restore,en,PENDING
 restrain,en,PENDING
 restrict,en,PENDING
 results,en,PENDING
-résumé,en,PENDING
 retreat,en,PENDING
 return to,en,PENDING
 reveal,en,PENDING
 reverse,en,PENDING
-review,en,PENDING
 review of the literature,en,PENDING
+review,en,PENDING
 revise,en,PENDING
 revision,en,PENDING
 revolution,en,PENDING
@@ -1221,10 +1259,11 @@ rough,en,PENDING
 round down,en,PENDING
 round up,en,PENDING
 row,en,PENDING
+rsum,en,PENDING
 rubric,en,PENDING
-run,en,PENDING
+run out of time,en,PENDING
 run out,en,PENDING
-run out (of time),en,PENDING
+run,en,PENDING
 rural,en,PENDING
 sample,en,PENDING
 save energy,en,PENDING
@@ -1247,29 +1286,31 @@ select,en,PENDING
 semester,en,PENDING
 seminal,en,PENDING
 seminar,en,PENDING
-senior,en,PENDING
 senior citizen,en,PENDING
+senior,en,PENDING
 sense,en,PENDING
 sequence of numbers,en,PENDING
 series of events,en,PENDING
 series of numbers,en,PENDING
-set,en,PENDING
 set of data,en,PENDING
 set of numbers,en,PENDING
-set out,en,PENDING
 set out to do,en,PENDING
+set out,en,PENDING
 set up,en,PENDING
+set,en,PENDING
 setting,en,PENDING
 severely,en,PENDING
-shed (new) light on,en,PENDING
+shed light on,en,PENDING
+shed new light on,en,PENDING
 shift,en,PENDING
 shine a light on,en,PENDING
-shortcoming,en,PENDING
 short-term loan,en,PENDING
-show,en,PENDING
+shortcoming,en,PENDING
 show a tendency,en,PENDING
 show your workings,en,PENDING
-side (of an argument),en,PENDING
+show,en,PENDING
+side of an argument,en,PENDING
+side,en,PENDING
 sign up for,en,PENDING
 significance,en,PENDING
 significant,en,PENDING
@@ -1297,8 +1338,8 @@ source,en,PENDING
 spare,en,PENDING
 speak of,en,PENDING
 specially,en,PENDING
-specific,en,PENDING
 specific conditions,en,PENDING
+specific,en,PENDING
 specifically,en,PENDING
 sports centre,en,PENDING
 sports grounds,en,PENDING
@@ -1310,39 +1351,39 @@ stance,en,PENDING
 standard deviation,en,PENDING
 standpoint,en,PENDING
 start a new thread,en,PENDING
-state,en,PENDING
 state briefly,en,PENDING
+state,en,PENDING
 statement,en,PENDING
-status,en,PENDING
 status quo,en,PENDING
-stem from,en,PENDING
+status,en,PENDING
 stem from the fact that,en,PENDING
+stem from,en,PENDING
 step,en,PENDING
 stimulate,en,PENDING
 stimulation,en,PENDING
 stimulus,en,PENDING
-store,en,PENDING
 store information,en,PENDING
+store,en,PENDING
 story,en,PENDING
 strategy,en,PENDING
-strengthen,en,PENDING
 strengthen a role,en,PENDING
+strengthen,en,PENDING
 stress,en,PENDING
 striking,en,PENDING
-strongly,en,PENDING
 strongly suggest,en,PENDING
+strongly,en,PENDING
 structure,en,PENDING
 student counsellor,en,PENDING
 student loan,en,PENDING
 student union,en,PENDING
-study,en,PENDING
 study plan,en,PENDING
-subject,en,PENDING
+study,en,PENDING
 subject header,en,PENDING
-subjectively,en,PENDING
 subject to,en,PENDING
-submit,en,PENDING
+subject,en,PENDING
+subjectively,en,PENDING
 submit assignment,en,PENDING
+submit,en,PENDING
 subscribe to a mailing list,en,PENDING
 subsequent,en,PENDING
 substantial,en,PENDING
@@ -1352,13 +1393,13 @@ subtract,en,PENDING
 successive,en,PENDING
 sudden,en,PENDING
 sufficient,en,PENDING
-suggest,en,PENDING
 suggest a new approach,en,PENDING
+suggest,en,PENDING
 suggestion,en,PENDING
-sum,en,PENDING
 sum up,en,PENDING
-summarise,en,PENDING
+sum,en,PENDING
 summarise the main points,en,PENDING
+summarise,en,PENDING
 supervision,en,PENDING
 supervisor,en,PENDING
 supplement,en,PENDING
@@ -1366,23 +1407,24 @@ support,en,PENDING
 surprising,en,PENDING
 surround,en,PENDING
 surrounding,en,PENDING
-survey,en,PENDING
 survey the literature,en,PENDING
+survey,en,PENDING
 sustainable,en,PENDING
 synonymous,en,PENDING
 systematic,en,PENDING
 table,en,PENDING
 tackle,en,PENDING
-take,en,PENDING
 take a sample,en,PENDING
 take account of,en,PENDING
 take away,en,PENDING
 take into account,en,PENDING
 take issue with,en,PENDING
 take on a role,en,PENDING
-take part in a discussion forum/group,en,PENDING
+take part in a discussion forum,en,PENDING
+take part in a discussion group,en,PENDING
 take priority over,en,PENDING
 take questions,en,PENDING
+take,en,PENDING
 taken together,en,PENDING
 tally,en,PENDING
 target,en,PENDING
@@ -1397,19 +1439,21 @@ tentative,en,PENDING
 term,en,PENDING
 terminology,en,PENDING
 thank you for listening,en,PENDING
-that's all I have to say,en,PENDING
-that's all very well but,en,PENDING
+thats all i have to say,en,PENDING
+thats all very well but,en,PENDING
 the last 20 years,en,PENDING
 the same as,en,PENDING
 theme,en,PENDING
+theory is based on,en,PENDING
+theory is mainly based on,en,PENDING
 theory,en,PENDING
-theory is (mainly) based on,en,PENDING
-there is some evidence (to suggest) that,en,PENDING
-there's no way,en,PENDING
+there is some evidence that,en,PENDING
+there is some evidence to suggest that,en,PENDING
+theres no way,en,PENDING
 thesis,en,PENDING
 thinking,en,PENDING
-thoroughly,en,PENDING
 thoroughly examine,en,PENDING
+thoroughly,en,PENDING
 thought,en,PENDING
 thread,en,PENDING
 threat,en,PENDING
@@ -1438,7 +1482,8 @@ trend,en,PENDING
 trigger,en,PENDING
 try,en,PENDING
 tuition fees,en,PENDING
-turn (to),en,PENDING
+turn to,en,PENDING
+turn,en,PENDING
 tutor,en,PENDING
 tutorial,en,PENDING
 type,en,PENDING
@@ -1480,7 +1525,7 @@ viewpoint,en,PENDING
 virtual classroom,en,PENDING
 virtual learning environment,en,PENDING
 vivid,en,PENDING
-VLE,en,PENDING
+vle,en,PENDING
 volume,en,PENDING
 waste energy,en,PENDING
 way,en,PENDING
@@ -1491,8 +1536,8 @@ welcome,en,PENDING
 whereas,en,PENDING
 white collar,en,PENDING
 whole number,en,PENDING
-widespread,en,PENDING
 widespread support,en,PENDING
+widespread,en,PENDING
 winds are blowing,en,PENDING
 with a focus on,en,PENDING
 with reference to,en,PENDING
@@ -1500,12 +1545,12 @@ with regard to,en,PENDING
 with respect to,en,PENDING
 with the exception of,en,PENDING
 with the intention of,en,PENDING
-word,en,PENDING
 word limit,en,PENDING
-work,en,PENDING
+word,en,PENDING
 work on,en,PENDING
-work out,en,PENDING
 work out a way,en,PENDING
+work out,en,PENDING
+work,en,PENDING
 workshop,en,PENDING
 write of,en,PENDING
 write up,en,PENDING

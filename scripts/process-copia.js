@@ -38,8 +38,9 @@ function cleanLine(line) {
     ];
 
     // Some lines have multiple POS separated by commas, like "adv, prep"
-    // Regex for: optional comma/space + tag
-    const tagRegex = new RegExp(`\\s*[,/]?\\s*(${posTags.join('|')})\\s*$`, 'i');
+    // We look for common POS tags at the end or before markers
+    // Ensure there is at least one space or a separator before the tag to avoid truncating words (e.g. accommodation)
+    const tagRegex = new RegExp(`(?:\\s+|\\s*[,/]\\s*)(${posTags.join('|')})\\s*$`, 'i');
 
     // Run multiple times to catch "adv, prep"
     let prevText;
@@ -107,7 +108,7 @@ function expandPhrase(phrase) {
 function processFile(inputFilePath) {
     const fileName = path.basename(inputFilePath);
     const outputFileName = fileName.replace('.txt', '-vocab.csv');
-    const outputPath = path.join(path.dirname(inputFilePath), outputFileName);
+    const outputPath = path.join(__dirname, '../transformed_vocabulary_data/', outputFileName);
 
     try {
         const content = fs.readFileSync(inputFilePath, 'utf8');
@@ -150,9 +151,9 @@ function processFile(inputFilePath) {
 // ─────────────────────────────────────────────────────────────────
 // MAIN
 // ─────────────────────────────────────────────────────────────────
-const dirPath = 'c:\\Users\\barbara\\Documents\\raw-videos-ocw\\dictionary-scripts-and-json\\';
+const dirPath = path.join(__dirname, '../raw_vocabulary_data/');
 const files = fs.readdirSync(dirPath);
-const filesToProcess = files.filter(f => f.startsWith('copia de ') && f.endsWith('.txt'));
+const filesToProcess = files.filter(f => f.endsWith('.txt'));
 
 const allNewPhrases = new Set();
 
@@ -164,7 +165,7 @@ for (const file of filesToProcess) {
 
 // UPDATE MASTER MASTER MASTER
 if (allNewPhrases.size > 0) {
-    const masterPath = 'c:\\Users\\barbara\\Documents\\raw-videos-ocw\\dictionary-scripts-and-json\\master-vocab.csv';
+    const masterPath = path.join(__dirname, '../transformed_vocabulary_data/master-vocab.csv');
     let masterEntries = [];
     if (fs.existsSync(masterPath)) {
         const masterContent = fs.readFileSync(masterPath, 'utf8').split('\n');
