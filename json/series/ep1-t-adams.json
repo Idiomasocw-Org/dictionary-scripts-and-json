@@ -1,0 +1,31 @@
+{
+  "title": "The Addams Family",
+  "type": "movie",
+  "release_year": 2019,
+  "duration_minutes": 87,
+  "language_code": "en",
+  "copyright_status": "copyrighted",
+  "copyright_notes": "© Universal Pictures",
+  "source_url": "https://www.imdb.com/title/tt1637706/",
+  "director": "Greg Tiernan, Conrad Vernon",
+  "studio": "Universal Pictures",
+  "description": "The Addams Family is an animated comedy adventure where the quirky, spooky, and altogether ooky Addams family emerge from hiding after long years away from the world. When a wildly creative film director moves next door, the Addamses surprise everyone in the neighborhood by showing their creative talents.",
+  "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "cast": [
+    "Oscar Isaac",
+    "Charlize Theron",
+    "Chloë Grace Moretz",
+    "Finn Wolfhard",
+    "Nick Kroll",
+    "Bette Midler"
+  ],
+  "imdb_id": "tt1637706",
+  "audio_file": "ep1-t-adams-audio.mp3",
+  "video_filename": "ep1-t-adams.mp4",
+  "created_at": "2026-04-20T00:00:00Z",
+  "status": "COMPLETED"
+}

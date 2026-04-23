@@ -1,0 +1,18 @@
+{
+    "title": "One Piece (Live-Action)",
+    "type": "series",
+    "release_year": 2026,
+    "season_number": 2,
+    "episode_number": "2",
+    "episode_title": "Good Whale Hunting",
+    "language_code": "en",
+    "duration_minutes": 59,
+    "audio_filename": "ep2-sd-one-piece-audio.mp3",
+    "video_filename": "ep2-sd-one-piece.mp4",
+    "status": "PENDING",
+    "created_at": "2026-04-22T22:39:00Z",
+    "copyright_status": "fair_use",
+    "copyright_notes": "Fair use justification: Short micro-clips extracted solely for transformative, educational linguistic reference. Content owned by Netflix, Tomorrow Studios and Shueisha. Use does not substitute viewing the original series.",
+    "s3_path": "s3://ocw-academy-raw-videos/en/series/one-piece/season2/ep2-sd-one-piece.mp4",
+    "s3_audio_path": "s3://ocw-academy-raw-videos/en/series/one-piece/season2/ep2-sd-one-piece-audio.mp3"
+}
